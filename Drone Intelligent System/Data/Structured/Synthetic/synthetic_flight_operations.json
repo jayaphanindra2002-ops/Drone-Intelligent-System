@@ -1,0 +1,5002 @@
+[
+    {
+        "flight_id": "FLT_SYN_0001",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.06,
+        "battery_usage_percent": 43,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.27
+    },
+    {
+        "flight_id": "FLT_SYN_0002",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 1.45,
+        "battery_usage_percent": 62,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.03
+    },
+    {
+        "flight_id": "FLT_SYN_0003",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.37,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.68
+    },
+    {
+        "flight_id": "FLT_SYN_0004",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.85,
+        "battery_usage_percent": 43,
+        "weather_condition": "Clear",
+        "mission_success_rate": 90.43
+    },
+    {
+        "flight_id": "FLT_SYN_0005",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 3.47,
+        "battery_usage_percent": 71,
+        "weather_condition": "Humid",
+        "mission_success_rate": 99.1
+    },
+    {
+        "flight_id": "FLT_SYN_0006",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 1.79,
+        "battery_usage_percent": 50,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.59
+    },
+    {
+        "flight_id": "FLT_SYN_0007",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.71,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.2
+    },
+    {
+        "flight_id": "FLT_SYN_0008",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.05,
+        "battery_usage_percent": 41,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.19
+    },
+    {
+        "flight_id": "FLT_SYN_0009",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.22,
+        "battery_usage_percent": 49,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.22
+    },
+    {
+        "flight_id": "FLT_SYN_0010",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 7.76,
+        "battery_usage_percent": 68,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.73
+    },
+    {
+        "flight_id": "FLT_SYN_0011",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 3.21,
+        "battery_usage_percent": 67,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 86.01
+    },
+    {
+        "flight_id": "FLT_SYN_0012",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 48,
+        "payload_kg": 3.98,
+        "battery_usage_percent": 83,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.89
+    },
+    {
+        "flight_id": "FLT_SYN_0013",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.83,
+        "battery_usage_percent": 43,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.91
+    },
+    {
+        "flight_id": "FLT_SYN_0014",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 7.56,
+        "battery_usage_percent": 59,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.02
+    },
+    {
+        "flight_id": "FLT_SYN_0015",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 46,
+        "payload_kg": 6.9,
+        "battery_usage_percent": 95,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.08
+    },
+    {
+        "flight_id": "FLT_SYN_0016",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 2.75,
+        "battery_usage_percent": 39,
+        "weather_condition": "Clear",
+        "mission_success_rate": 97.81
+    },
+    {
+        "flight_id": "FLT_SYN_0017",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 1.64,
+        "battery_usage_percent": 67,
+        "weather_condition": "Windy",
+        "mission_success_rate": 93.3
+    },
+    {
+        "flight_id": "FLT_SYN_0018",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 13.72,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.6
+    },
+    {
+        "flight_id": "FLT_SYN_0019",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.64,
+        "battery_usage_percent": 39,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.03
+    },
+    {
+        "flight_id": "FLT_SYN_0020",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 2.33,
+        "battery_usage_percent": 36,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.54
+    },
+    {
+        "flight_id": "FLT_SYN_0021",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.59,
+        "battery_usage_percent": 54,
+        "weather_condition": "Clear",
+        "mission_success_rate": 89.59
+    },
+    {
+        "flight_id": "FLT_SYN_0022",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 1.91,
+        "battery_usage_percent": 62,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.17
+    },
+    {
+        "flight_id": "FLT_SYN_0023",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 1.54,
+        "battery_usage_percent": 57,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.41
+    },
+    {
+        "flight_id": "FLT_SYN_0024",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 1.94,
+        "battery_usage_percent": 76,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.5
+    },
+    {
+        "flight_id": "FLT_SYN_0025",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 3.94,
+        "battery_usage_percent": 42,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.16
+    },
+    {
+        "flight_id": "FLT_SYN_0026",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 11.64,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.73
+    },
+    {
+        "flight_id": "FLT_SYN_0027",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 50,
+        "payload_kg": 2.54,
+        "battery_usage_percent": 95,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.29
+    },
+    {
+        "flight_id": "FLT_SYN_0028",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 4.14,
+        "battery_usage_percent": 40,
+        "weather_condition": "Humid",
+        "mission_success_rate": 91.63
+    },
+    {
+        "flight_id": "FLT_SYN_0029",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 5.14,
+        "battery_usage_percent": 60,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.43
+    },
+    {
+        "flight_id": "FLT_SYN_0030",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.09,
+        "battery_usage_percent": 61,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.24
+    },
+    {
+        "flight_id": "FLT_SYN_0031",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 1.28,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.62
+    },
+    {
+        "flight_id": "FLT_SYN_0032",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 41,
+        "payload_kg": 2.09,
+        "battery_usage_percent": 67,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 99.0
+    },
+    {
+        "flight_id": "FLT_SYN_0033",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 48,
+        "payload_kg": 2.18,
+        "battery_usage_percent": 94,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.26
+    },
+    {
+        "flight_id": "FLT_SYN_0034",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.82,
+        "battery_usage_percent": 48,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.5
+    },
+    {
+        "flight_id": "FLT_SYN_0035",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.06,
+        "battery_usage_percent": 53,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.99
+    },
+    {
+        "flight_id": "FLT_SYN_0036",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.3,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.16
+    },
+    {
+        "flight_id": "FLT_SYN_0037",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.6,
+        "battery_usage_percent": 49,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.09
+    },
+    {
+        "flight_id": "FLT_SYN_0038",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 10.18,
+        "battery_usage_percent": 44,
+        "weather_condition": "Humid",
+        "mission_success_rate": 99.07
+    },
+    {
+        "flight_id": "FLT_SYN_0039",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 11.54,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.98
+    },
+    {
+        "flight_id": "FLT_SYN_0040",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 4.62,
+        "battery_usage_percent": 39,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.43
+    },
+    {
+        "flight_id": "FLT_SYN_0041",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 13.87,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.02
+    },
+    {
+        "flight_id": "FLT_SYN_0042",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.95,
+        "battery_usage_percent": 46,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.45
+    },
+    {
+        "flight_id": "FLT_SYN_0043",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 5.75,
+        "battery_usage_percent": 45,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.1
+    },
+    {
+        "flight_id": "FLT_SYN_0044",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.47,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.64
+    },
+    {
+        "flight_id": "FLT_SYN_0045",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.9,
+        "battery_usage_percent": 58,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.98
+    },
+    {
+        "flight_id": "FLT_SYN_0046",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.34,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.05
+    },
+    {
+        "flight_id": "FLT_SYN_0047",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 49,
+        "payload_kg": 7.5,
+        "battery_usage_percent": 83,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.23
+    },
+    {
+        "flight_id": "FLT_SYN_0048",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 46,
+        "payload_kg": 7.38,
+        "battery_usage_percent": 80,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.01
+    },
+    {
+        "flight_id": "FLT_SYN_0049",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 11,
+        "payload_kg": 6.01,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 91.06
+    },
+    {
+        "flight_id": "FLT_SYN_0050",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 11.92,
+        "battery_usage_percent": 48,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.47
+    },
+    {
+        "flight_id": "FLT_SYN_0051",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 0.59,
+        "battery_usage_percent": 55,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.31
+    },
+    {
+        "flight_id": "FLT_SYN_0052",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 0.8,
+        "battery_usage_percent": 42,
+        "weather_condition": "Clear",
+        "mission_success_rate": 90.22
+    },
+    {
+        "flight_id": "FLT_SYN_0053",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 3.24,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.52
+    },
+    {
+        "flight_id": "FLT_SYN_0054",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.29,
+        "battery_usage_percent": 46,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.33
+    },
+    {
+        "flight_id": "FLT_SYN_0055",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 5.55,
+        "battery_usage_percent": 46,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.3
+    },
+    {
+        "flight_id": "FLT_SYN_0056",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 3.79,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.73
+    },
+    {
+        "flight_id": "FLT_SYN_0057",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 1.49,
+        "battery_usage_percent": 92,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.75
+    },
+    {
+        "flight_id": "FLT_SYN_0058",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 1.09,
+        "battery_usage_percent": 42,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.59
+    },
+    {
+        "flight_id": "FLT_SYN_0059",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 8.63,
+        "battery_usage_percent": 45,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.17
+    },
+    {
+        "flight_id": "FLT_SYN_0060",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 9.64,
+        "battery_usage_percent": 43,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.53
+    },
+    {
+        "flight_id": "FLT_SYN_0061",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 1.64,
+        "battery_usage_percent": 52,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.2
+    },
+    {
+        "flight_id": "FLT_SYN_0062",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.5,
+        "battery_usage_percent": 42,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.4
+    },
+    {
+        "flight_id": "FLT_SYN_0063",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 1.02,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.36
+    },
+    {
+        "flight_id": "FLT_SYN_0064",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 0.72,
+        "battery_usage_percent": 46,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.26
+    },
+    {
+        "flight_id": "FLT_SYN_0065",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 1.4,
+        "battery_usage_percent": 38,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.28
+    },
+    {
+        "flight_id": "FLT_SYN_0066",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 4.93,
+        "battery_usage_percent": 50,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.18
+    },
+    {
+        "flight_id": "FLT_SYN_0067",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 12.66,
+        "battery_usage_percent": 43,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.26
+    },
+    {
+        "flight_id": "FLT_SYN_0068",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.52,
+        "battery_usage_percent": 37,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.62
+    },
+    {
+        "flight_id": "FLT_SYN_0069",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.44,
+        "battery_usage_percent": 52,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.38
+    },
+    {
+        "flight_id": "FLT_SYN_0070",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 0.87,
+        "battery_usage_percent": 49,
+        "weather_condition": "Clear",
+        "mission_success_rate": 90.45
+    },
+    {
+        "flight_id": "FLT_SYN_0071",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 6.15,
+        "battery_usage_percent": 38,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.76
+    },
+    {
+        "flight_id": "FLT_SYN_0072",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 4.39,
+        "battery_usage_percent": 39,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.6
+    },
+    {
+        "flight_id": "FLT_SYN_0073",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 1.3,
+        "battery_usage_percent": 42,
+        "weather_condition": "Clear",
+        "mission_success_rate": 97.94
+    },
+    {
+        "flight_id": "FLT_SYN_0074",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 2.64,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.01
+    },
+    {
+        "flight_id": "FLT_SYN_0075",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 1.14,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.9
+    },
+    {
+        "flight_id": "FLT_SYN_0076",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.98,
+        "battery_usage_percent": 40,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.0
+    },
+    {
+        "flight_id": "FLT_SYN_0077",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.67,
+        "battery_usage_percent": 46,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.91
+    },
+    {
+        "flight_id": "FLT_SYN_0078",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 2.72,
+        "battery_usage_percent": 45,
+        "weather_condition": "Clear",
+        "mission_success_rate": 86.39
+    },
+    {
+        "flight_id": "FLT_SYN_0079",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 3.16,
+        "battery_usage_percent": 66,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 94.46
+    },
+    {
+        "flight_id": "FLT_SYN_0080",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 5.46,
+        "battery_usage_percent": 50,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.02
+    },
+    {
+        "flight_id": "FLT_SYN_0081",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.23,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.42
+    },
+    {
+        "flight_id": "FLT_SYN_0082",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 41,
+        "payload_kg": 3.04,
+        "battery_usage_percent": 70,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.82
+    },
+    {
+        "flight_id": "FLT_SYN_0083",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.91,
+        "battery_usage_percent": 51,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.73
+    },
+    {
+        "flight_id": "FLT_SYN_0084",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 7.69,
+        "battery_usage_percent": 67,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.61
+    },
+    {
+        "flight_id": "FLT_SYN_0085",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 3.29,
+        "battery_usage_percent": 64,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.81
+    },
+    {
+        "flight_id": "FLT_SYN_0086",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 4.11,
+        "battery_usage_percent": 69,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.37
+    },
+    {
+        "flight_id": "FLT_SYN_0087",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 3.0,
+        "battery_usage_percent": 57,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.29
+    },
+    {
+        "flight_id": "FLT_SYN_0088",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 2.42,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 97.6
+    },
+    {
+        "flight_id": "FLT_SYN_0089",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 3.75,
+        "battery_usage_percent": 61,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.77
+    },
+    {
+        "flight_id": "FLT_SYN_0090",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 3.56,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.95
+    },
+    {
+        "flight_id": "FLT_SYN_0091",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 8.78,
+        "battery_usage_percent": 47,
+        "weather_condition": "Windy",
+        "mission_success_rate": 91.09
+    },
+    {
+        "flight_id": "FLT_SYN_0092",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 5.89,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 89.87
+    },
+    {
+        "flight_id": "FLT_SYN_0093",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.98,
+        "battery_usage_percent": 63,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.99
+    },
+    {
+        "flight_id": "FLT_SYN_0094",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 11.44,
+        "battery_usage_percent": 46,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.03
+    },
+    {
+        "flight_id": "FLT_SYN_0095",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 0.71,
+        "battery_usage_percent": 57,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.2
+    },
+    {
+        "flight_id": "FLT_SYN_0096",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 2.99,
+        "battery_usage_percent": 70,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.23
+    },
+    {
+        "flight_id": "FLT_SYN_0097",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 3.96,
+        "battery_usage_percent": 70,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.71
+    },
+    {
+        "flight_id": "FLT_SYN_0098",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 3.7,
+        "battery_usage_percent": 43,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.77
+    },
+    {
+        "flight_id": "FLT_SYN_0099",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 1.16,
+        "battery_usage_percent": 52,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.1
+    },
+    {
+        "flight_id": "FLT_SYN_0100",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 3.12,
+        "battery_usage_percent": 48,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.08
+    },
+    {
+        "flight_id": "FLT_SYN_0101",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 3.34,
+        "battery_usage_percent": 62,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.17
+    },
+    {
+        "flight_id": "FLT_SYN_0102",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 1.69,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.98
+    },
+    {
+        "flight_id": "FLT_SYN_0103",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.99,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 99.3
+    },
+    {
+        "flight_id": "FLT_SYN_0104",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.77,
+        "battery_usage_percent": 37,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.16
+    },
+    {
+        "flight_id": "FLT_SYN_0105",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.28,
+        "battery_usage_percent": 68,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.11
+    },
+    {
+        "flight_id": "FLT_SYN_0106",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.59,
+        "battery_usage_percent": 47,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.84
+    },
+    {
+        "flight_id": "FLT_SYN_0107",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.7,
+        "battery_usage_percent": 55,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.64
+    },
+    {
+        "flight_id": "FLT_SYN_0108",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 4.05,
+        "battery_usage_percent": 48,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.04
+    },
+    {
+        "flight_id": "FLT_SYN_0109",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 13.26,
+        "battery_usage_percent": 48,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 99.28
+    },
+    {
+        "flight_id": "FLT_SYN_0110",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 8.23,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.65
+    },
+    {
+        "flight_id": "FLT_SYN_0111",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.94,
+        "battery_usage_percent": 65,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 86.22
+    },
+    {
+        "flight_id": "FLT_SYN_0112",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.06,
+        "battery_usage_percent": 49,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.6
+    },
+    {
+        "flight_id": "FLT_SYN_0113",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.29,
+        "battery_usage_percent": 43,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.8
+    },
+    {
+        "flight_id": "FLT_SYN_0114",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 3.72,
+        "battery_usage_percent": 54,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.71
+    },
+    {
+        "flight_id": "FLT_SYN_0115",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 1.47,
+        "battery_usage_percent": 60,
+        "weather_condition": "Windy",
+        "mission_success_rate": 93.45
+    },
+    {
+        "flight_id": "FLT_SYN_0116",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 42,
+        "payload_kg": 4.44,
+        "battery_usage_percent": 85,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.67
+    },
+    {
+        "flight_id": "FLT_SYN_0117",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 45,
+        "payload_kg": 0.71,
+        "battery_usage_percent": 95,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.79
+    },
+    {
+        "flight_id": "FLT_SYN_0118",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 3.66,
+        "battery_usage_percent": 41,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.72
+    },
+    {
+        "flight_id": "FLT_SYN_0119",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 6.25,
+        "battery_usage_percent": 43,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.52
+    },
+    {
+        "flight_id": "FLT_SYN_0120",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 1.01,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.61
+    },
+    {
+        "flight_id": "FLT_SYN_0121",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 2.21,
+        "battery_usage_percent": 44,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.64
+    },
+    {
+        "flight_id": "FLT_SYN_0122",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 1.66,
+        "battery_usage_percent": 77,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.76
+    },
+    {
+        "flight_id": "FLT_SYN_0123",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 0.83,
+        "battery_usage_percent": 67,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.68
+    },
+    {
+        "flight_id": "FLT_SYN_0124",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 4.36,
+        "battery_usage_percent": 64,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.61
+    },
+    {
+        "flight_id": "FLT_SYN_0125",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 3.42,
+        "battery_usage_percent": 38,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.17
+    },
+    {
+        "flight_id": "FLT_SYN_0126",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.66,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.33
+    },
+    {
+        "flight_id": "FLT_SYN_0127",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 5.83,
+        "battery_usage_percent": 71,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.52
+    },
+    {
+        "flight_id": "FLT_SYN_0128",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 1.87,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.61
+    },
+    {
+        "flight_id": "FLT_SYN_0129",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 1.37,
+        "battery_usage_percent": 38,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.66
+    },
+    {
+        "flight_id": "FLT_SYN_0130",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 4.2,
+        "battery_usage_percent": 61,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.86
+    },
+    {
+        "flight_id": "FLT_SYN_0131",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 3.36,
+        "battery_usage_percent": 46,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 94.44
+    },
+    {
+        "flight_id": "FLT_SYN_0132",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 5.57,
+        "battery_usage_percent": 74,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.46
+    },
+    {
+        "flight_id": "FLT_SYN_0133",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 9.45,
+        "battery_usage_percent": 39,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.91
+    },
+    {
+        "flight_id": "FLT_SYN_0134",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.01,
+        "battery_usage_percent": 58,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.67
+    },
+    {
+        "flight_id": "FLT_SYN_0135",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 37,
+        "payload_kg": 1.52,
+        "battery_usage_percent": 83,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.81
+    },
+    {
+        "flight_id": "FLT_SYN_0136",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 47,
+        "payload_kg": 7.93,
+        "battery_usage_percent": 78,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.59
+    },
+    {
+        "flight_id": "FLT_SYN_0137",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 8.15,
+        "battery_usage_percent": 44,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.12
+    },
+    {
+        "flight_id": "FLT_SYN_0138",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 1.4,
+        "battery_usage_percent": 61,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.27
+    },
+    {
+        "flight_id": "FLT_SYN_0139",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 1.84,
+        "battery_usage_percent": 66,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.53
+    },
+    {
+        "flight_id": "FLT_SYN_0140",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 4.24,
+        "battery_usage_percent": 87,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.02
+    },
+    {
+        "flight_id": "FLT_SYN_0141",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 2.53,
+        "battery_usage_percent": 70,
+        "weather_condition": "Clear",
+        "mission_success_rate": 99.04
+    },
+    {
+        "flight_id": "FLT_SYN_0142",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 39,
+        "payload_kg": 1.43,
+        "battery_usage_percent": 86,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.61
+    },
+    {
+        "flight_id": "FLT_SYN_0143",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.04,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.56
+    },
+    {
+        "flight_id": "FLT_SYN_0144",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 3.78,
+        "battery_usage_percent": 41,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.74
+    },
+    {
+        "flight_id": "FLT_SYN_0145",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.0,
+        "battery_usage_percent": 47,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.26
+    },
+    {
+        "flight_id": "FLT_SYN_0146",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.96,
+        "battery_usage_percent": 68,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.26
+    },
+    {
+        "flight_id": "FLT_SYN_0147",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 3.81,
+        "battery_usage_percent": 48,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.56
+    },
+    {
+        "flight_id": "FLT_SYN_0148",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 6.49,
+        "battery_usage_percent": 69,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.6
+    },
+    {
+        "flight_id": "FLT_SYN_0149",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 1.96,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.18
+    },
+    {
+        "flight_id": "FLT_SYN_0150",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 3.92,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.65
+    },
+    {
+        "flight_id": "FLT_SYN_0151",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 1.99,
+        "battery_usage_percent": 43,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.3
+    },
+    {
+        "flight_id": "FLT_SYN_0152",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.16,
+        "battery_usage_percent": 38,
+        "weather_condition": "Clear",
+        "mission_success_rate": 89.28
+    },
+    {
+        "flight_id": "FLT_SYN_0153",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 1.39,
+        "battery_usage_percent": 56,
+        "weather_condition": "Windy",
+        "mission_success_rate": 91.9
+    },
+    {
+        "flight_id": "FLT_SYN_0154",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 3.5,
+        "battery_usage_percent": 68,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.62
+    },
+    {
+        "flight_id": "FLT_SYN_0155",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.35,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.25
+    },
+    {
+        "flight_id": "FLT_SYN_0156",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.03,
+        "battery_usage_percent": 46,
+        "weather_condition": "Clear",
+        "mission_success_rate": 89.45
+    },
+    {
+        "flight_id": "FLT_SYN_0157",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.08,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.28
+    },
+    {
+        "flight_id": "FLT_SYN_0158",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 9.14,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.4
+    },
+    {
+        "flight_id": "FLT_SYN_0159",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.32,
+        "battery_usage_percent": 44,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.51
+    },
+    {
+        "flight_id": "FLT_SYN_0160",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.58,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 91.33
+    },
+    {
+        "flight_id": "FLT_SYN_0161",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 3.24,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 93.17
+    },
+    {
+        "flight_id": "FLT_SYN_0162",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 37,
+        "payload_kg": 1.52,
+        "battery_usage_percent": 63,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.68
+    },
+    {
+        "flight_id": "FLT_SYN_0163",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 10.37,
+        "battery_usage_percent": 49,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.57
+    },
+    {
+        "flight_id": "FLT_SYN_0164",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 42,
+        "payload_kg": 1.63,
+        "battery_usage_percent": 92,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.14
+    },
+    {
+        "flight_id": "FLT_SYN_0165",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.71,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.12
+    },
+    {
+        "flight_id": "FLT_SYN_0166",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 4.92,
+        "battery_usage_percent": 56,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.38
+    },
+    {
+        "flight_id": "FLT_SYN_0167",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.14,
+        "battery_usage_percent": 41,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.06
+    },
+    {
+        "flight_id": "FLT_SYN_0168",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 2.76,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.55
+    },
+    {
+        "flight_id": "FLT_SYN_0169",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 10.65,
+        "battery_usage_percent": 39,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.12
+    },
+    {
+        "flight_id": "FLT_SYN_0170",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 2.73,
+        "battery_usage_percent": 38,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.38
+    },
+    {
+        "flight_id": "FLT_SYN_0171",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 8.24,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.24
+    },
+    {
+        "flight_id": "FLT_SYN_0172",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 12,
+        "payload_kg": 10.82,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.36
+    },
+    {
+        "flight_id": "FLT_SYN_0173",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 10.93,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.95
+    },
+    {
+        "flight_id": "FLT_SYN_0174",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.88,
+        "battery_usage_percent": 56,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.7
+    },
+    {
+        "flight_id": "FLT_SYN_0175",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 5.1,
+        "battery_usage_percent": 57,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.68
+    },
+    {
+        "flight_id": "FLT_SYN_0176",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 2.78,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.36
+    },
+    {
+        "flight_id": "FLT_SYN_0177",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.64,
+        "battery_usage_percent": 47,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.41
+    },
+    {
+        "flight_id": "FLT_SYN_0178",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 6.94,
+        "battery_usage_percent": 47,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.16
+    },
+    {
+        "flight_id": "FLT_SYN_0179",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.43,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 95.56
+    },
+    {
+        "flight_id": "FLT_SYN_0180",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 6.29,
+        "battery_usage_percent": 54,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.61
+    },
+    {
+        "flight_id": "FLT_SYN_0181",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 1.03,
+        "battery_usage_percent": 41,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.91
+    },
+    {
+        "flight_id": "FLT_SYN_0182",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 11.7,
+        "battery_usage_percent": 44,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.37
+    },
+    {
+        "flight_id": "FLT_SYN_0183",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 3.22,
+        "battery_usage_percent": 48,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 90.63
+    },
+    {
+        "flight_id": "FLT_SYN_0184",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.58,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.26
+    },
+    {
+        "flight_id": "FLT_SYN_0185",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.89,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.18
+    },
+    {
+        "flight_id": "FLT_SYN_0186",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.06,
+        "battery_usage_percent": 63,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.33
+    },
+    {
+        "flight_id": "FLT_SYN_0187",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.0,
+        "battery_usage_percent": 52,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.05
+    },
+    {
+        "flight_id": "FLT_SYN_0188",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.74,
+        "battery_usage_percent": 47,
+        "weather_condition": "Clear",
+        "mission_success_rate": 90.23
+    },
+    {
+        "flight_id": "FLT_SYN_0189",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.05,
+        "battery_usage_percent": 61,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.88
+    },
+    {
+        "flight_id": "FLT_SYN_0190",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 36,
+        "payload_kg": 2.44,
+        "battery_usage_percent": 69,
+        "weather_condition": "Clear",
+        "mission_success_rate": 99.09
+    },
+    {
+        "flight_id": "FLT_SYN_0191",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.76,
+        "battery_usage_percent": 60,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.83
+    },
+    {
+        "flight_id": "FLT_SYN_0192",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.91,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.06
+    },
+    {
+        "flight_id": "FLT_SYN_0193",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 1.43,
+        "battery_usage_percent": 42,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.49
+    },
+    {
+        "flight_id": "FLT_SYN_0194",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 3.9,
+        "battery_usage_percent": 53,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.06
+    },
+    {
+        "flight_id": "FLT_SYN_0195",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 0.98,
+        "battery_usage_percent": 52,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.28
+    },
+    {
+        "flight_id": "FLT_SYN_0196",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 4.39,
+        "battery_usage_percent": 51,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.09
+    },
+    {
+        "flight_id": "FLT_SYN_0197",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 2.53,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.55
+    },
+    {
+        "flight_id": "FLT_SYN_0198",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.47,
+        "battery_usage_percent": 56,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.14
+    },
+    {
+        "flight_id": "FLT_SYN_0199",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 2.5,
+        "battery_usage_percent": 41,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.72
+    },
+    {
+        "flight_id": "FLT_SYN_0200",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 50,
+        "payload_kg": 3.48,
+        "battery_usage_percent": 91,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.3
+    },
+    {
+        "flight_id": "FLT_SYN_0201",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 2.83,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.73
+    },
+    {
+        "flight_id": "FLT_SYN_0202",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 39,
+        "payload_kg": 2.5,
+        "battery_usage_percent": 72,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.68
+    },
+    {
+        "flight_id": "FLT_SYN_0203",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.71,
+        "battery_usage_percent": 37,
+        "weather_condition": "Clear",
+        "mission_success_rate": 86.86
+    },
+    {
+        "flight_id": "FLT_SYN_0204",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 2.36,
+        "battery_usage_percent": 36,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.93
+    },
+    {
+        "flight_id": "FLT_SYN_0205",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 1.32,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.03
+    },
+    {
+        "flight_id": "FLT_SYN_0206",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 1.39,
+        "battery_usage_percent": 49,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.82
+    },
+    {
+        "flight_id": "FLT_SYN_0207",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 2.01,
+        "battery_usage_percent": 54,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.45
+    },
+    {
+        "flight_id": "FLT_SYN_0208",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 4.02,
+        "battery_usage_percent": 70,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.36
+    },
+    {
+        "flight_id": "FLT_SYN_0209",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 13.6,
+        "battery_usage_percent": 43,
+        "weather_condition": "Windy",
+        "mission_success_rate": 93.81
+    },
+    {
+        "flight_id": "FLT_SYN_0210",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 2.04,
+        "battery_usage_percent": 59,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.08
+    },
+    {
+        "flight_id": "FLT_SYN_0211",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.79,
+        "battery_usage_percent": 55,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.15
+    },
+    {
+        "flight_id": "FLT_SYN_0212",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 1.94,
+        "battery_usage_percent": 59,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.8
+    },
+    {
+        "flight_id": "FLT_SYN_0213",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 36,
+        "payload_kg": 2.86,
+        "battery_usage_percent": 78,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.21
+    },
+    {
+        "flight_id": "FLT_SYN_0214",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 2.99,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.17
+    },
+    {
+        "flight_id": "FLT_SYN_0215",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 11,
+        "payload_kg": 13.03,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.68
+    },
+    {
+        "flight_id": "FLT_SYN_0216",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 5.44,
+        "battery_usage_percent": 40,
+        "weather_condition": "Windy",
+        "mission_success_rate": 99.28
+    },
+    {
+        "flight_id": "FLT_SYN_0217",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 1.83,
+        "battery_usage_percent": 36,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.11
+    },
+    {
+        "flight_id": "FLT_SYN_0218",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 4.57,
+        "battery_usage_percent": 85,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.39
+    },
+    {
+        "flight_id": "FLT_SYN_0219",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 1.33,
+        "battery_usage_percent": 40,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.87
+    },
+    {
+        "flight_id": "FLT_SYN_0220",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 2.73,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.76
+    },
+    {
+        "flight_id": "FLT_SYN_0221",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 5.24,
+        "battery_usage_percent": 43,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.26
+    },
+    {
+        "flight_id": "FLT_SYN_0222",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 5.19,
+        "battery_usage_percent": 68,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.6
+    },
+    {
+        "flight_id": "FLT_SYN_0223",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.14,
+        "battery_usage_percent": 41,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.31
+    },
+    {
+        "flight_id": "FLT_SYN_0224",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.18,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.42
+    },
+    {
+        "flight_id": "FLT_SYN_0225",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 2.0,
+        "battery_usage_percent": 90,
+        "weather_condition": "Windy",
+        "mission_success_rate": 92.2
+    },
+    {
+        "flight_id": "FLT_SYN_0226",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 4.28,
+        "battery_usage_percent": 54,
+        "weather_condition": "Clear",
+        "mission_success_rate": 95.43
+    },
+    {
+        "flight_id": "FLT_SYN_0227",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 2.73,
+        "battery_usage_percent": 46,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.06
+    },
+    {
+        "flight_id": "FLT_SYN_0228",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 1.11,
+        "battery_usage_percent": 53,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.97
+    },
+    {
+        "flight_id": "FLT_SYN_0229",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 1.2,
+        "battery_usage_percent": 53,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.34
+    },
+    {
+        "flight_id": "FLT_SYN_0230",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.24,
+        "battery_usage_percent": 51,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.14
+    },
+    {
+        "flight_id": "FLT_SYN_0231",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 5.99,
+        "battery_usage_percent": 46,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.21
+    },
+    {
+        "flight_id": "FLT_SYN_0232",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.51,
+        "battery_usage_percent": 56,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.9
+    },
+    {
+        "flight_id": "FLT_SYN_0233",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 14.07,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.29
+    },
+    {
+        "flight_id": "FLT_SYN_0234",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.71,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.81
+    },
+    {
+        "flight_id": "FLT_SYN_0235",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.74,
+        "battery_usage_percent": 37,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.29
+    },
+    {
+        "flight_id": "FLT_SYN_0236",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.43,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.66
+    },
+    {
+        "flight_id": "FLT_SYN_0237",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 2.14,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.67
+    },
+    {
+        "flight_id": "FLT_SYN_0238",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 1.27,
+        "battery_usage_percent": 42,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 94.77
+    },
+    {
+        "flight_id": "FLT_SYN_0239",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 3.46,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.68
+    },
+    {
+        "flight_id": "FLT_SYN_0240",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 5.06,
+        "battery_usage_percent": 53,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.87
+    },
+    {
+        "flight_id": "FLT_SYN_0241",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 2.43,
+        "battery_usage_percent": 36,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.69
+    },
+    {
+        "flight_id": "FLT_SYN_0242",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.39,
+        "battery_usage_percent": 63,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.49
+    },
+    {
+        "flight_id": "FLT_SYN_0243",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 1.2,
+        "battery_usage_percent": 47,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 99.0
+    },
+    {
+        "flight_id": "FLT_SYN_0244",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.94,
+        "battery_usage_percent": 57,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.05
+    },
+    {
+        "flight_id": "FLT_SYN_0245",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 7.67,
+        "battery_usage_percent": 62,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.99
+    },
+    {
+        "flight_id": "FLT_SYN_0246",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 42,
+        "payload_kg": 6.67,
+        "battery_usage_percent": 88,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.38
+    },
+    {
+        "flight_id": "FLT_SYN_0247",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 6.47,
+        "battery_usage_percent": 50,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.62
+    },
+    {
+        "flight_id": "FLT_SYN_0248",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 11.38,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.38
+    },
+    {
+        "flight_id": "FLT_SYN_0249",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.76,
+        "battery_usage_percent": 48,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.17
+    },
+    {
+        "flight_id": "FLT_SYN_0250",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 4.01,
+        "battery_usage_percent": 50,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.7
+    },
+    {
+        "flight_id": "FLT_SYN_0251",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 8.85,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.06
+    },
+    {
+        "flight_id": "FLT_SYN_0252",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 2.54,
+        "battery_usage_percent": 39,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.24
+    },
+    {
+        "flight_id": "FLT_SYN_0253",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 1.51,
+        "battery_usage_percent": 49,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.07
+    },
+    {
+        "flight_id": "FLT_SYN_0254",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 0.72,
+        "battery_usage_percent": 50,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.04
+    },
+    {
+        "flight_id": "FLT_SYN_0255",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 1.44,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.14
+    },
+    {
+        "flight_id": "FLT_SYN_0256",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 1.39,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.05
+    },
+    {
+        "flight_id": "FLT_SYN_0257",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 2.46,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.01
+    },
+    {
+        "flight_id": "FLT_SYN_0258",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 1.16,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.65
+    },
+    {
+        "flight_id": "FLT_SYN_0259",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 2.15,
+        "battery_usage_percent": 70,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.93
+    },
+    {
+        "flight_id": "FLT_SYN_0260",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 4.63,
+        "battery_usage_percent": 64,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.56
+    },
+    {
+        "flight_id": "FLT_SYN_0261",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 1.81,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.9
+    },
+    {
+        "flight_id": "FLT_SYN_0262",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 3.13,
+        "battery_usage_percent": 67,
+        "weather_condition": "Windy",
+        "mission_success_rate": 92.16
+    },
+    {
+        "flight_id": "FLT_SYN_0263",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 10,
+        "payload_kg": 12.12,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.73
+    },
+    {
+        "flight_id": "FLT_SYN_0264",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.7,
+        "battery_usage_percent": 37,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.11
+    },
+    {
+        "flight_id": "FLT_SYN_0265",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.86,
+        "battery_usage_percent": 58,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 86.24
+    },
+    {
+        "flight_id": "FLT_SYN_0266",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 4.17,
+        "battery_usage_percent": 38,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 86.37
+    },
+    {
+        "flight_id": "FLT_SYN_0267",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 1.84,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.25
+    },
+    {
+        "flight_id": "FLT_SYN_0268",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.82,
+        "battery_usage_percent": 61,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.39
+    },
+    {
+        "flight_id": "FLT_SYN_0269",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.86,
+        "battery_usage_percent": 48,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.19
+    },
+    {
+        "flight_id": "FLT_SYN_0270",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 10.66,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.2
+    },
+    {
+        "flight_id": "FLT_SYN_0271",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 5.58,
+        "battery_usage_percent": 66,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.03
+    },
+    {
+        "flight_id": "FLT_SYN_0272",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 37,
+        "payload_kg": 3.88,
+        "battery_usage_percent": 73,
+        "weather_condition": "Humid",
+        "mission_success_rate": 99.25
+    },
+    {
+        "flight_id": "FLT_SYN_0273",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 5.83,
+        "battery_usage_percent": 37,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.98
+    },
+    {
+        "flight_id": "FLT_SYN_0274",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 3.24,
+        "battery_usage_percent": 44,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.99
+    },
+    {
+        "flight_id": "FLT_SYN_0275",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 1.38,
+        "battery_usage_percent": 89,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.67
+    },
+    {
+        "flight_id": "FLT_SYN_0276",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 3.47,
+        "battery_usage_percent": 47,
+        "weather_condition": "Humid",
+        "mission_success_rate": 91.1
+    },
+    {
+        "flight_id": "FLT_SYN_0277",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.87,
+        "battery_usage_percent": 57,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.54
+    },
+    {
+        "flight_id": "FLT_SYN_0278",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.89,
+        "battery_usage_percent": 57,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 94.46
+    },
+    {
+        "flight_id": "FLT_SYN_0279",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 5.78,
+        "battery_usage_percent": 62,
+        "weather_condition": "Humid",
+        "mission_success_rate": 91.11
+    },
+    {
+        "flight_id": "FLT_SYN_0280",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 0.88,
+        "battery_usage_percent": 59,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.48
+    },
+    {
+        "flight_id": "FLT_SYN_0281",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.41,
+        "battery_usage_percent": 54,
+        "weather_condition": "Clear",
+        "mission_success_rate": 95.71
+    },
+    {
+        "flight_id": "FLT_SYN_0282",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.47,
+        "battery_usage_percent": 55,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.7
+    },
+    {
+        "flight_id": "FLT_SYN_0283",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 6.92,
+        "battery_usage_percent": 56,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.67
+    },
+    {
+        "flight_id": "FLT_SYN_0284",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 45,
+        "payload_kg": 1.09,
+        "battery_usage_percent": 95,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.54
+    },
+    {
+        "flight_id": "FLT_SYN_0285",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 4.96,
+        "battery_usage_percent": 40,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.7
+    },
+    {
+        "flight_id": "FLT_SYN_0286",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 1.17,
+        "battery_usage_percent": 76,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.64
+    },
+    {
+        "flight_id": "FLT_SYN_0287",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 49,
+        "payload_kg": 6.36,
+        "battery_usage_percent": 86,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.56
+    },
+    {
+        "flight_id": "FLT_SYN_0288",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 3.2,
+        "battery_usage_percent": 67,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.61
+    },
+    {
+        "flight_id": "FLT_SYN_0289",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 10,
+        "payload_kg": 9.85,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.83
+    },
+    {
+        "flight_id": "FLT_SYN_0290",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 2.87,
+        "battery_usage_percent": 47,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.71
+    },
+    {
+        "flight_id": "FLT_SYN_0291",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 1.9,
+        "battery_usage_percent": 48,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.8
+    },
+    {
+        "flight_id": "FLT_SYN_0292",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 8.53,
+        "battery_usage_percent": 40,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.03
+    },
+    {
+        "flight_id": "FLT_SYN_0293",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 5.79,
+        "battery_usage_percent": 45,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.32
+    },
+    {
+        "flight_id": "FLT_SYN_0294",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.11,
+        "battery_usage_percent": 41,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.09
+    },
+    {
+        "flight_id": "FLT_SYN_0295",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 46,
+        "payload_kg": 4.34,
+        "battery_usage_percent": 95,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.55
+    },
+    {
+        "flight_id": "FLT_SYN_0296",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 3.15,
+        "battery_usage_percent": 38,
+        "weather_condition": "Clear",
+        "mission_success_rate": 89.44
+    },
+    {
+        "flight_id": "FLT_SYN_0297",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 1.58,
+        "battery_usage_percent": 56,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.77
+    },
+    {
+        "flight_id": "FLT_SYN_0298",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 2.68,
+        "battery_usage_percent": 39,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.7
+    },
+    {
+        "flight_id": "FLT_SYN_0299",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 2.17,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.17
+    },
+    {
+        "flight_id": "FLT_SYN_0300",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 3.78,
+        "battery_usage_percent": 59,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.61
+    },
+    {
+        "flight_id": "FLT_SYN_0301",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 2.68,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.78
+    },
+    {
+        "flight_id": "FLT_SYN_0302",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 11.06,
+        "battery_usage_percent": 41,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.9
+    },
+    {
+        "flight_id": "FLT_SYN_0303",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 6.22,
+        "battery_usage_percent": 70,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.43
+    },
+    {
+        "flight_id": "FLT_SYN_0304",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 1.34,
+        "battery_usage_percent": 58,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.3
+    },
+    {
+        "flight_id": "FLT_SYN_0305",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.0,
+        "battery_usage_percent": 48,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.82
+    },
+    {
+        "flight_id": "FLT_SYN_0306",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 1.65,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.95
+    },
+    {
+        "flight_id": "FLT_SYN_0307",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 39,
+        "payload_kg": 6.95,
+        "battery_usage_percent": 63,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.84
+    },
+    {
+        "flight_id": "FLT_SYN_0308",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 39,
+        "payload_kg": 4.84,
+        "battery_usage_percent": 77,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.28
+    },
+    {
+        "flight_id": "FLT_SYN_0309",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 11.66,
+        "battery_usage_percent": 39,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.19
+    },
+    {
+        "flight_id": "FLT_SYN_0310",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.64,
+        "battery_usage_percent": 38,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.3
+    },
+    {
+        "flight_id": "FLT_SYN_0311",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 0.91,
+        "battery_usage_percent": 90,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.67
+    },
+    {
+        "flight_id": "FLT_SYN_0312",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 2.25,
+        "battery_usage_percent": 67,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.3
+    },
+    {
+        "flight_id": "FLT_SYN_0313",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 2.24,
+        "battery_usage_percent": 43,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.56
+    },
+    {
+        "flight_id": "FLT_SYN_0314",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.86,
+        "battery_usage_percent": 39,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.13
+    },
+    {
+        "flight_id": "FLT_SYN_0315",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.09,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.11
+    },
+    {
+        "flight_id": "FLT_SYN_0316",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 1.6,
+        "battery_usage_percent": 36,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.95
+    },
+    {
+        "flight_id": "FLT_SYN_0317",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.85,
+        "battery_usage_percent": 49,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.87
+    },
+    {
+        "flight_id": "FLT_SYN_0318",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 3.69,
+        "battery_usage_percent": 47,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.34
+    },
+    {
+        "flight_id": "FLT_SYN_0319",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.19,
+        "battery_usage_percent": 45,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.41
+    },
+    {
+        "flight_id": "FLT_SYN_0320",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 1.18,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.58
+    },
+    {
+        "flight_id": "FLT_SYN_0321",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 1.12,
+        "battery_usage_percent": 46,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.46
+    },
+    {
+        "flight_id": "FLT_SYN_0322",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 5.4,
+        "battery_usage_percent": 55,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.06
+    },
+    {
+        "flight_id": "FLT_SYN_0323",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.4,
+        "battery_usage_percent": 43,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.39
+    },
+    {
+        "flight_id": "FLT_SYN_0324",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.51,
+        "battery_usage_percent": 47,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.46
+    },
+    {
+        "flight_id": "FLT_SYN_0325",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 2.62,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.93
+    },
+    {
+        "flight_id": "FLT_SYN_0326",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.67,
+        "battery_usage_percent": 55,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.43
+    },
+    {
+        "flight_id": "FLT_SYN_0327",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.67,
+        "battery_usage_percent": 56,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.16
+    },
+    {
+        "flight_id": "FLT_SYN_0328",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 42,
+        "payload_kg": 2.29,
+        "battery_usage_percent": 85,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.4
+    },
+    {
+        "flight_id": "FLT_SYN_0329",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 4.49,
+        "battery_usage_percent": 37,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.21
+    },
+    {
+        "flight_id": "FLT_SYN_0330",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 36,
+        "payload_kg": 1.21,
+        "battery_usage_percent": 73,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 99.28
+    },
+    {
+        "flight_id": "FLT_SYN_0331",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 9.09,
+        "battery_usage_percent": 39,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.62
+    },
+    {
+        "flight_id": "FLT_SYN_0332",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.05,
+        "battery_usage_percent": 45,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.71
+    },
+    {
+        "flight_id": "FLT_SYN_0333",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.26,
+        "battery_usage_percent": 45,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.94
+    },
+    {
+        "flight_id": "FLT_SYN_0334",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 12,
+        "payload_kg": 1.89,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.24
+    },
+    {
+        "flight_id": "FLT_SYN_0335",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.33,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 93.02
+    },
+    {
+        "flight_id": "FLT_SYN_0336",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 12.94,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.36
+    },
+    {
+        "flight_id": "FLT_SYN_0337",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 2.43,
+        "battery_usage_percent": 58,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.76
+    },
+    {
+        "flight_id": "FLT_SYN_0338",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.27,
+        "battery_usage_percent": 51,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.35
+    },
+    {
+        "flight_id": "FLT_SYN_0339",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 12.23,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.84
+    },
+    {
+        "flight_id": "FLT_SYN_0340",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 5.77,
+        "battery_usage_percent": 55,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.83
+    },
+    {
+        "flight_id": "FLT_SYN_0341",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 0.66,
+        "battery_usage_percent": 41,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.81
+    },
+    {
+        "flight_id": "FLT_SYN_0342",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.41,
+        "battery_usage_percent": 43,
+        "weather_condition": "Clear",
+        "mission_success_rate": 99.02
+    },
+    {
+        "flight_id": "FLT_SYN_0343",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 7.55,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.59
+    },
+    {
+        "flight_id": "FLT_SYN_0344",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 1.75,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.13
+    },
+    {
+        "flight_id": "FLT_SYN_0345",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.84,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.6
+    },
+    {
+        "flight_id": "FLT_SYN_0346",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 14.63,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 95.92
+    },
+    {
+        "flight_id": "FLT_SYN_0347",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 3.45,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.13
+    },
+    {
+        "flight_id": "FLT_SYN_0348",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.28,
+        "battery_usage_percent": 66,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.46
+    },
+    {
+        "flight_id": "FLT_SYN_0349",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.01,
+        "battery_usage_percent": 46,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.39
+    },
+    {
+        "flight_id": "FLT_SYN_0350",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 2.41,
+        "battery_usage_percent": 81,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.64
+    },
+    {
+        "flight_id": "FLT_SYN_0351",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 1.93,
+        "battery_usage_percent": 68,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.92
+    },
+    {
+        "flight_id": "FLT_SYN_0352",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 1.47,
+        "battery_usage_percent": 39,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.8
+    },
+    {
+        "flight_id": "FLT_SYN_0353",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 11.87,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.03
+    },
+    {
+        "flight_id": "FLT_SYN_0354",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 7.18,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.45
+    },
+    {
+        "flight_id": "FLT_SYN_0355",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 14.62,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.15
+    },
+    {
+        "flight_id": "FLT_SYN_0356",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 5.13,
+        "battery_usage_percent": 67,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.82
+    },
+    {
+        "flight_id": "FLT_SYN_0357",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.02,
+        "battery_usage_percent": 55,
+        "weather_condition": "Windy",
+        "mission_success_rate": 91.67
+    },
+    {
+        "flight_id": "FLT_SYN_0358",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 45,
+        "payload_kg": 5.09,
+        "battery_usage_percent": 95,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.41
+    },
+    {
+        "flight_id": "FLT_SYN_0359",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.66,
+        "battery_usage_percent": 43,
+        "weather_condition": "Windy",
+        "mission_success_rate": 91.25
+    },
+    {
+        "flight_id": "FLT_SYN_0360",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 41,
+        "payload_kg": 3.71,
+        "battery_usage_percent": 78,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.98
+    },
+    {
+        "flight_id": "FLT_SYN_0361",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 2.71,
+        "battery_usage_percent": 36,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.22
+    },
+    {
+        "flight_id": "FLT_SYN_0362",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 1.54,
+        "battery_usage_percent": 47,
+        "weather_condition": "Clear",
+        "mission_success_rate": 91.75
+    },
+    {
+        "flight_id": "FLT_SYN_0363",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.86,
+        "battery_usage_percent": 44,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 90.44
+    },
+    {
+        "flight_id": "FLT_SYN_0364",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.63,
+        "battery_usage_percent": 49,
+        "weather_condition": "Windy",
+        "mission_success_rate": 91.79
+    },
+    {
+        "flight_id": "FLT_SYN_0365",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 2.3,
+        "battery_usage_percent": 50,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.5
+    },
+    {
+        "flight_id": "FLT_SYN_0366",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 8.33,
+        "battery_usage_percent": 38,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.28
+    },
+    {
+        "flight_id": "FLT_SYN_0367",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 3.34,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.47
+    },
+    {
+        "flight_id": "FLT_SYN_0368",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 1.28,
+        "battery_usage_percent": 49,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.18
+    },
+    {
+        "flight_id": "FLT_SYN_0369",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.61,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.8
+    },
+    {
+        "flight_id": "FLT_SYN_0370",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 5.79,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.62
+    },
+    {
+        "flight_id": "FLT_SYN_0371",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 9.72,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.84
+    },
+    {
+        "flight_id": "FLT_SYN_0372",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 5.39,
+        "battery_usage_percent": 41,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 94.34
+    },
+    {
+        "flight_id": "FLT_SYN_0373",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.35,
+        "battery_usage_percent": 43,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.04
+    },
+    {
+        "flight_id": "FLT_SYN_0374",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.71,
+        "battery_usage_percent": 53,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.97
+    },
+    {
+        "flight_id": "FLT_SYN_0375",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 3.44,
+        "battery_usage_percent": 56,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.63
+    },
+    {
+        "flight_id": "FLT_SYN_0376",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 4.0,
+        "battery_usage_percent": 49,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.44
+    },
+    {
+        "flight_id": "FLT_SYN_0377",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.9,
+        "battery_usage_percent": 36,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.91
+    },
+    {
+        "flight_id": "FLT_SYN_0378",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 3.23,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.43
+    },
+    {
+        "flight_id": "FLT_SYN_0379",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.4,
+        "battery_usage_percent": 63,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.98
+    },
+    {
+        "flight_id": "FLT_SYN_0380",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 13.29,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.24
+    },
+    {
+        "flight_id": "FLT_SYN_0381",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 5.55,
+        "battery_usage_percent": 59,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.06
+    },
+    {
+        "flight_id": "FLT_SYN_0382",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.76,
+        "battery_usage_percent": 42,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.93
+    },
+    {
+        "flight_id": "FLT_SYN_0383",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 4.2,
+        "battery_usage_percent": 76,
+        "weather_condition": "Clear",
+        "mission_success_rate": 97.94
+    },
+    {
+        "flight_id": "FLT_SYN_0384",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 1.18,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.79
+    },
+    {
+        "flight_id": "FLT_SYN_0385",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 49,
+        "payload_kg": 7.23,
+        "battery_usage_percent": 95,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.21
+    },
+    {
+        "flight_id": "FLT_SYN_0386",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 45,
+        "payload_kg": 1.5,
+        "battery_usage_percent": 89,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.62
+    },
+    {
+        "flight_id": "FLT_SYN_0387",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.48,
+        "battery_usage_percent": 56,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.76
+    },
+    {
+        "flight_id": "FLT_SYN_0388",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.72,
+        "battery_usage_percent": 42,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.16
+    },
+    {
+        "flight_id": "FLT_SYN_0389",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 1.07,
+        "battery_usage_percent": 70,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.87
+    },
+    {
+        "flight_id": "FLT_SYN_0390",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 2.69,
+        "battery_usage_percent": 44,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.36
+    },
+    {
+        "flight_id": "FLT_SYN_0391",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 36,
+        "payload_kg": 3.37,
+        "battery_usage_percent": 73,
+        "weather_condition": "Clear",
+        "mission_success_rate": 89.41
+    },
+    {
+        "flight_id": "FLT_SYN_0392",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 10,
+        "payload_kg": 8.43,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.37
+    },
+    {
+        "flight_id": "FLT_SYN_0393",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 4.81,
+        "battery_usage_percent": 40,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 95.61
+    },
+    {
+        "flight_id": "FLT_SYN_0394",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 43,
+        "payload_kg": 1.5,
+        "battery_usage_percent": 84,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.91
+    },
+    {
+        "flight_id": "FLT_SYN_0395",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 13,
+        "payload_kg": 10.59,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.65
+    },
+    {
+        "flight_id": "FLT_SYN_0396",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.2,
+        "battery_usage_percent": 40,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.94
+    },
+    {
+        "flight_id": "FLT_SYN_0397",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 39,
+        "payload_kg": 0.57,
+        "battery_usage_percent": 79,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.78
+    },
+    {
+        "flight_id": "FLT_SYN_0398",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 0.77,
+        "battery_usage_percent": 62,
+        "weather_condition": "Windy",
+        "mission_success_rate": 94.44
+    },
+    {
+        "flight_id": "FLT_SYN_0399",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 6.43,
+        "battery_usage_percent": 37,
+        "weather_condition": "Windy",
+        "mission_success_rate": 92.77
+    },
+    {
+        "flight_id": "FLT_SYN_0400",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 4.29,
+        "battery_usage_percent": 67,
+        "weather_condition": "Windy",
+        "mission_success_rate": 97.17
+    },
+    {
+        "flight_id": "FLT_SYN_0401",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 2.64,
+        "battery_usage_percent": 70,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.01
+    },
+    {
+        "flight_id": "FLT_SYN_0402",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.61,
+        "battery_usage_percent": 67,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.19
+    },
+    {
+        "flight_id": "FLT_SYN_0403",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 1.79,
+        "battery_usage_percent": 65,
+        "weather_condition": "Windy",
+        "mission_success_rate": 93.39
+    },
+    {
+        "flight_id": "FLT_SYN_0404",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 20,
+        "payload_kg": 2.17,
+        "battery_usage_percent": 39,
+        "weather_condition": "Humid",
+        "mission_success_rate": 95.6
+    },
+    {
+        "flight_id": "FLT_SYN_0405",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 2.5,
+        "battery_usage_percent": 52,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.61
+    },
+    {
+        "flight_id": "FLT_SYN_0406",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 45,
+        "payload_kg": 6.18,
+        "battery_usage_percent": 75,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.62
+    },
+    {
+        "flight_id": "FLT_SYN_0407",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 40,
+        "payload_kg": 1.8,
+        "battery_usage_percent": 68,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.95
+    },
+    {
+        "flight_id": "FLT_SYN_0408",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 12,
+        "payload_kg": 12.42,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.11
+    },
+    {
+        "flight_id": "FLT_SYN_0409",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 1.98,
+        "battery_usage_percent": 66,
+        "weather_condition": "Windy",
+        "mission_success_rate": 89.44
+    },
+    {
+        "flight_id": "FLT_SYN_0410",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 1.25,
+        "battery_usage_percent": 66,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.11
+    },
+    {
+        "flight_id": "FLT_SYN_0411",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 6.06,
+        "battery_usage_percent": 58,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.24
+    },
+    {
+        "flight_id": "FLT_SYN_0412",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 4.26,
+        "battery_usage_percent": 56,
+        "weather_condition": "Clear",
+        "mission_success_rate": 97.87
+    },
+    {
+        "flight_id": "FLT_SYN_0413",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.02,
+        "battery_usage_percent": 41,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 90.19
+    },
+    {
+        "flight_id": "FLT_SYN_0414",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 4.37,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.94
+    },
+    {
+        "flight_id": "FLT_SYN_0415",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.24,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.95
+    },
+    {
+        "flight_id": "FLT_SYN_0416",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 0.79,
+        "battery_usage_percent": 52,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.91
+    },
+    {
+        "flight_id": "FLT_SYN_0417",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 4.39,
+        "battery_usage_percent": 58,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.33
+    },
+    {
+        "flight_id": "FLT_SYN_0418",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.06,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 86.03
+    },
+    {
+        "flight_id": "FLT_SYN_0419",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 1.07,
+        "battery_usage_percent": 55,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.31
+    },
+    {
+        "flight_id": "FLT_SYN_0420",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 1.51,
+        "battery_usage_percent": 47,
+        "weather_condition": "Clear",
+        "mission_success_rate": 90.44
+    },
+    {
+        "flight_id": "FLT_SYN_0421",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 3.15,
+        "battery_usage_percent": 55,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.56
+    },
+    {
+        "flight_id": "FLT_SYN_0422",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 3.9,
+        "battery_usage_percent": 52,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 87.38
+    },
+    {
+        "flight_id": "FLT_SYN_0423",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 37,
+        "payload_kg": 3.49,
+        "battery_usage_percent": 72,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.5
+    },
+    {
+        "flight_id": "FLT_SYN_0424",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 37,
+        "payload_kg": 5.08,
+        "battery_usage_percent": 72,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.09
+    },
+    {
+        "flight_id": "FLT_SYN_0425",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 1.4,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.66
+    },
+    {
+        "flight_id": "FLT_SYN_0426",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 2.63,
+        "battery_usage_percent": 61,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.34
+    },
+    {
+        "flight_id": "FLT_SYN_0427",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 10.6,
+        "battery_usage_percent": 41,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 92.08
+    },
+    {
+        "flight_id": "FLT_SYN_0428",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.12,
+        "battery_usage_percent": 48,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.73
+    },
+    {
+        "flight_id": "FLT_SYN_0429",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 7.58,
+        "battery_usage_percent": 46,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.8
+    },
+    {
+        "flight_id": "FLT_SYN_0430",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 41,
+        "payload_kg": 1.18,
+        "battery_usage_percent": 70,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 93.02
+    },
+    {
+        "flight_id": "FLT_SYN_0431",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 45,
+        "payload_kg": 1.95,
+        "battery_usage_percent": 95,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.11
+    },
+    {
+        "flight_id": "FLT_SYN_0432",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 35,
+        "payload_kg": 1.34,
+        "battery_usage_percent": 74,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.11
+    },
+    {
+        "flight_id": "FLT_SYN_0433",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 10.27,
+        "battery_usage_percent": 41,
+        "weather_condition": "Humid",
+        "mission_success_rate": 89.28
+    },
+    {
+        "flight_id": "FLT_SYN_0434",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 2.7,
+        "battery_usage_percent": 42,
+        "weather_condition": "Windy",
+        "mission_success_rate": 90.27
+    },
+    {
+        "flight_id": "FLT_SYN_0435",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 7.09,
+        "battery_usage_percent": 70,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.7
+    },
+    {
+        "flight_id": "FLT_SYN_0436",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 2.0,
+        "battery_usage_percent": 46,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.38
+    },
+    {
+        "flight_id": "FLT_SYN_0437",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.38,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.82
+    },
+    {
+        "flight_id": "FLT_SYN_0438",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 2.23,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 93.99
+    },
+    {
+        "flight_id": "FLT_SYN_0439",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 34,
+        "payload_kg": 2.98,
+        "battery_usage_percent": 67,
+        "weather_condition": "Humid",
+        "mission_success_rate": 86.87
+    },
+    {
+        "flight_id": "FLT_SYN_0440",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 1.58,
+        "battery_usage_percent": 55,
+        "weather_condition": "Humid",
+        "mission_success_rate": 91.18
+    },
+    {
+        "flight_id": "FLT_SYN_0441",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 2.51,
+        "battery_usage_percent": 63,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.9
+    },
+    {
+        "flight_id": "FLT_SYN_0442",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 2.52,
+        "battery_usage_percent": 61,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.33
+    },
+    {
+        "flight_id": "FLT_SYN_0443",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 1.59,
+        "battery_usage_percent": 39,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.1
+    },
+    {
+        "flight_id": "FLT_SYN_0444",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 5.74,
+        "battery_usage_percent": 56,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.94
+    },
+    {
+        "flight_id": "FLT_SYN_0445",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.06,
+        "battery_usage_percent": 50,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.48
+    },
+    {
+        "flight_id": "FLT_SYN_0446",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 9.01,
+        "battery_usage_percent": 50,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.44
+    },
+    {
+        "flight_id": "FLT_SYN_0447",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 1.04,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.66
+    },
+    {
+        "flight_id": "FLT_SYN_0448",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 37,
+        "payload_kg": 4.51,
+        "battery_usage_percent": 82,
+        "weather_condition": "Clear",
+        "mission_success_rate": 86.23
+    },
+    {
+        "flight_id": "FLT_SYN_0449",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 36,
+        "payload_kg": 1.67,
+        "battery_usage_percent": 66,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.56
+    },
+    {
+        "flight_id": "FLT_SYN_0450",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 3.73,
+        "battery_usage_percent": 49,
+        "weather_condition": "Humid",
+        "mission_success_rate": 99.11
+    },
+    {
+        "flight_id": "FLT_SYN_0451",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.38,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.15
+    },
+    {
+        "flight_id": "FLT_SYN_0452",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 7.57,
+        "battery_usage_percent": 47,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 97.88
+    },
+    {
+        "flight_id": "FLT_SYN_0453",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 3.17,
+        "battery_usage_percent": 41,
+        "weather_condition": "Windy",
+        "mission_success_rate": 92.72
+    },
+    {
+        "flight_id": "FLT_SYN_0454",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 1.13,
+        "battery_usage_percent": 49,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 90.66
+    },
+    {
+        "flight_id": "FLT_SYN_0455",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 2.79,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.35
+    },
+    {
+        "flight_id": "FLT_SYN_0456",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 1.38,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 95.29
+    },
+    {
+        "flight_id": "FLT_SYN_0457",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 7.82,
+        "battery_usage_percent": 51,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.11
+    },
+    {
+        "flight_id": "FLT_SYN_0458",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 1.76,
+        "battery_usage_percent": 66,
+        "weather_condition": "Humid",
+        "mission_success_rate": 98.39
+    },
+    {
+        "flight_id": "FLT_SYN_0459",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 6.53,
+        "battery_usage_percent": 51,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.1
+    },
+    {
+        "flight_id": "FLT_SYN_0460",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 3.37,
+        "battery_usage_percent": 44,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 89.5
+    },
+    {
+        "flight_id": "FLT_SYN_0461",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 46,
+        "payload_kg": 2.16,
+        "battery_usage_percent": 74,
+        "weather_condition": "Windy",
+        "mission_success_rate": 93.29
+    },
+    {
+        "flight_id": "FLT_SYN_0462",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 4.97,
+        "battery_usage_percent": 45,
+        "weather_condition": "Clear",
+        "mission_success_rate": 86.8
+    },
+    {
+        "flight_id": "FLT_SYN_0463",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 3.37,
+        "battery_usage_percent": 47,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.19
+    },
+    {
+        "flight_id": "FLT_SYN_0464",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 2.83,
+        "battery_usage_percent": 61,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.68
+    },
+    {
+        "flight_id": "FLT_SYN_0465",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 2.54,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.55
+    },
+    {
+        "flight_id": "FLT_SYN_0466",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.99,
+        "battery_usage_percent": 45,
+        "weather_condition": "Windy",
+        "mission_success_rate": 86.91
+    },
+    {
+        "flight_id": "FLT_SYN_0467",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 5.64,
+        "battery_usage_percent": 40,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.63
+    },
+    {
+        "flight_id": "FLT_SYN_0468",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.02,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.93
+    },
+    {
+        "flight_id": "FLT_SYN_0469",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 21,
+        "payload_kg": 2.31,
+        "battery_usage_percent": 47,
+        "weather_condition": "Humid",
+        "mission_success_rate": 99.26
+    },
+    {
+        "flight_id": "FLT_SYN_0470",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 1.97,
+        "battery_usage_percent": 41,
+        "weather_condition": "Clear",
+        "mission_success_rate": 88.12
+    },
+    {
+        "flight_id": "FLT_SYN_0471",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 22,
+        "payload_kg": 13.23,
+        "battery_usage_percent": 37,
+        "weather_condition": "Clear",
+        "mission_success_rate": 86.23
+    },
+    {
+        "flight_id": "FLT_SYN_0472",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 31,
+        "payload_kg": 0.72,
+        "battery_usage_percent": 63,
+        "weather_condition": "Humid",
+        "mission_success_rate": 87.11
+    },
+    {
+        "flight_id": "FLT_SYN_0473",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 25,
+        "payload_kg": 1.29,
+        "battery_usage_percent": 50,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.68
+    },
+    {
+        "flight_id": "FLT_SYN_0474",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 8.83,
+        "battery_usage_percent": 44,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 94.44
+    },
+    {
+        "flight_id": "FLT_SYN_0475",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 15,
+        "payload_kg": 3.61,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 94.64
+    },
+    {
+        "flight_id": "FLT_SYN_0476",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 1.15,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.9
+    },
+    {
+        "flight_id": "FLT_SYN_0477",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 39,
+        "payload_kg": 1.82,
+        "battery_usage_percent": 75,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 98.13
+    },
+    {
+        "flight_id": "FLT_SYN_0478",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 1.01,
+        "battery_usage_percent": 53,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 96.78
+    },
+    {
+        "flight_id": "FLT_SYN_0479",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 32,
+        "payload_kg": 1.43,
+        "battery_usage_percent": 71,
+        "weather_condition": "Humid",
+        "mission_success_rate": 92.89
+    },
+    {
+        "flight_id": "FLT_SYN_0480",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 30,
+        "payload_kg": 2.9,
+        "battery_usage_percent": 55,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 91.19
+    },
+    {
+        "flight_id": "FLT_SYN_0481",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 27,
+        "payload_kg": 1.9,
+        "battery_usage_percent": 49,
+        "weather_condition": "Windy",
+        "mission_success_rate": 99.25
+    },
+    {
+        "flight_id": "FLT_SYN_0482",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 1.96,
+        "battery_usage_percent": 87,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.52
+    },
+    {
+        "flight_id": "FLT_SYN_0483",
+        "sector": "Infrastructure",
+        "mission_type": "Infrastructure Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 1.46,
+        "battery_usage_percent": 48,
+        "weather_condition": "Humid",
+        "mission_success_rate": 94.64
+    },
+    {
+        "flight_id": "FLT_SYN_0484",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 2.24,
+        "battery_usage_percent": 39,
+        "weather_condition": "Clear",
+        "mission_success_rate": 87.97
+    },
+    {
+        "flight_id": "FLT_SYN_0485",
+        "sector": "Disaster Management",
+        "mission_type": "Disaster Management Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 2.37,
+        "battery_usage_percent": 64,
+        "weather_condition": "Clear",
+        "mission_success_rate": 96.56
+    },
+    {
+        "flight_id": "FLT_SYN_0486",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 24,
+        "payload_kg": 3.52,
+        "battery_usage_percent": 39,
+        "weather_condition": "Humid",
+        "mission_success_rate": 96.97
+    },
+    {
+        "flight_id": "FLT_SYN_0487",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 14,
+        "payload_kg": 2.29,
+        "battery_usage_percent": 35,
+        "weather_condition": "Humid",
+        "mission_success_rate": 90.52
+    },
+    {
+        "flight_id": "FLT_SYN_0488",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 28,
+        "payload_kg": 6.43,
+        "battery_usage_percent": 49,
+        "weather_condition": "Windy",
+        "mission_success_rate": 96.13
+    },
+    {
+        "flight_id": "FLT_SYN_0489",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 23,
+        "payload_kg": 2.72,
+        "battery_usage_percent": 46,
+        "weather_condition": "Humid",
+        "mission_success_rate": 91.4
+    },
+    {
+        "flight_id": "FLT_SYN_0490",
+        "sector": "Logistics",
+        "mission_type": "Logistics Operation",
+        "flight_duration_min": 19,
+        "payload_kg": 5.85,
+        "battery_usage_percent": 36,
+        "weather_condition": "Humid",
+        "mission_success_rate": 97.65
+    },
+    {
+        "flight_id": "FLT_SYN_0491",
+        "sector": "Mining",
+        "mission_type": "Mining Operation",
+        "flight_duration_min": 17,
+        "payload_kg": 2.63,
+        "battery_usage_percent": 35,
+        "weather_condition": "Clear",
+        "mission_success_rate": 92.23
+    },
+    {
+        "flight_id": "FLT_SYN_0492",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 26,
+        "payload_kg": 2.86,
+        "battery_usage_percent": 45,
+        "weather_condition": "Windy",
+        "mission_success_rate": 88.2
+    },
+    {
+        "flight_id": "FLT_SYN_0493",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 16,
+        "payload_kg": 3.0,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 95.49
+    },
+    {
+        "flight_id": "FLT_SYN_0494",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 44,
+        "payload_kg": 3.08,
+        "battery_usage_percent": 91,
+        "weather_condition": "Windy",
+        "mission_success_rate": 99.2
+    },
+    {
+        "flight_id": "FLT_SYN_0495",
+        "sector": "Agriculture",
+        "mission_type": "Agriculture Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 14.5,
+        "battery_usage_percent": 35,
+        "weather_condition": "Windy",
+        "mission_success_rate": 98.67
+    },
+    {
+        "flight_id": "FLT_SYN_0496",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 29,
+        "payload_kg": 0.75,
+        "battery_usage_percent": 63,
+        "weather_condition": "Clear",
+        "mission_success_rate": 98.48
+    },
+    {
+        "flight_id": "FLT_SYN_0497",
+        "sector": "Healthcare",
+        "mission_type": "Healthcare Operation",
+        "flight_duration_min": 18,
+        "payload_kg": 1.22,
+        "battery_usage_percent": 35,
+        "weather_condition": "Cloudy",
+        "mission_success_rate": 88.51
+    },
+    {
+        "flight_id": "FLT_SYN_0498",
+        "sector": "Oil & Gas",
+        "mission_type": "Oil & Gas Operation",
+        "flight_duration_min": 36,
+        "payload_kg": 2.56,
+        "battery_usage_percent": 59,
+        "weather_condition": "Humid",
+        "mission_success_rate": 88.43
+    },
+    {
+        "flight_id": "FLT_SYN_0499",
+        "sector": "Defense",
+        "mission_type": "Defense Operation",
+        "flight_duration_min": 33,
+        "payload_kg": 2.29,
+        "battery_usage_percent": 75,
+        "weather_condition": "Windy",
+        "mission_success_rate": 87.54
+    },
+    {
+        "flight_id": "FLT_SYN_0500",
+        "sector": "Surveillance",
+        "mission_type": "Surveillance Operation",
+        "flight_duration_min": 38,
+        "payload_kg": 0.71,
+        "battery_usage_percent": 81,
+        "weather_condition": "Clear",
+        "mission_success_rate": 90.73
+    }
+]

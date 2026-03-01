@@ -1,0 +1,38 @@
+[
+    {
+        "regulation_id": "IMP2022_001",
+        "section": "Import Policy",
+        "rule_title": "Drone Import Restriction",
+        "description": "Import of drones in CBU, SKD or CKD form is prohibited except for R&D, defence and security purposes.",
+        "applies_to": "Importers",
+        "authority": "DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "IMP2022_002",
+        "section": "Clearance Requirement",
+        "rule_title": "DGCA Clearance Requirement",
+        "description": "Import of drones requires prior DGCA clearance and import license from DGFT.",
+        "applies_to": "Drone importers",
+        "authority": "DGCA & DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "IMP2022_003",
+        "section": "Nano Drone Exception",
+        "rule_title": "Nano Drone Import Exception",
+        "description": "Nano drones operating below specified altitude require ETA approval but not DGCA import clearance.",
+        "applies_to": "Nano drone importers",
+        "authority": "WPC Wing, DoT",
+        "validity": null
+    },
+    {
+        "regulation_id": "IMP2022_004",
+        "section": "Components Policy",
+        "rule_title": "Drone Components Import",
+        "description": "Import of drone components is categorized as Free.",
+        "applies_to": "Drone component importers",
+        "authority": "DGFT",
+        "validity": null
+    }
+]

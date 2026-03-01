@@ -1,0 +1,52 @@
+[
+    {
+        "usecase_id": "PIPE001",
+        "sector": "Oil & Gas",
+        "use_case": "Pipeline Surveillance",
+        "description": "Drones monitor long-distance pipelines to detect encroachments, damage, and anomalies.",
+        "technology_used": [
+            "Orthomosaic Survey",
+            "Geo-referenced Video",
+            "Cloud Analytics"
+        ],
+        "benefits": [
+            "Periodic monitoring",
+            "Improved asset safety",
+            "Early anomaly detection"
+        ],
+        "impact_metrics": "300+ km pipeline monitored efficiently",
+        "india_relevance": "Critical for national energy infrastructure"
+    },
+    {
+        "usecase_id": "PIPE002",
+        "sector": "Infrastructure Maintenance",
+        "use_case": "Asset Condition Monitoring",
+        "description": "Drone imagery provides accurate records of asset conditions and supports maintenance planning.",
+        "technology_used": [
+            "High-resolution Imaging",
+            "Aerial Intelligence"
+        ],
+        "benefits": [
+            "Better record keeping",
+            "Reduced inspection cost"
+        ],
+        "impact_metrics": "75–80% cost reduction compared to helicopter survey",
+        "india_relevance": "Useful for large-scale industrial assets"
+    },
+    {
+        "usecase_id": "PIPE003",
+        "sector": "Security Monitoring",
+        "use_case": "Illegal Activity Detection",
+        "description": "Drones identify encroachments, illegal digging, and environmental risks along pipeline routes.",
+        "technology_used": [
+            "Geo-tagging",
+            "Video Analytics"
+        ],
+        "benefits": [
+            "Improved security",
+            "Faster response time"
+        ],
+        "impact_metrics": "Detected multiple encroachments and hazards",
+        "india_relevance": "Enhances safety of energy transport networks"
+    }
+]

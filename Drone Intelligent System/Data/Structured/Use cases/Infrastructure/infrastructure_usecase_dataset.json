@@ -1,0 +1,51 @@
+[
+    {
+        "usecase_id": "INF001",
+        "sector": "Infrastructure",
+        "use_case": "Site Survey and Mapping",
+        "description": "Drones provide faster and cheaper aerial surveys compared to traditional surveying methods.",
+        "technology_used": [
+            "Aerial Imaging",
+            "3D Modeling"
+        ],
+        "benefits": [
+            "Faster data collection",
+            "Cost reduction",
+            "Access to unreachable areas"
+        ],
+        "impact_metrics": "Survey completed up to 6x faster",
+        "india_relevance": "Useful for highways, bridges, and railway projects"
+    },
+    {
+        "usecase_id": "INF002",
+        "sector": "Infrastructure",
+        "use_case": "Project Monitoring and Documentation",
+        "description": "Drones capture real-time images and videos to monitor work progress and maintain documentation.",
+        "technology_used": [
+            "Live Video Streaming",
+            "High-resolution Cameras"
+        ],
+        "benefits": [
+            "Improved monitoring",
+            "Better reporting"
+        ],
+        "impact_metrics": "Reduced manual inspection time",
+        "india_relevance": "Helps contractors manage multiple sites efficiently"
+    },
+    {
+        "usecase_id": "INF003",
+        "sector": "Infrastructure",
+        "use_case": "Safety and Risk Monitoring",
+        "description": "Drones inspect hazardous locations reducing safety risks for workers.",
+        "technology_used": [
+            "Thermal Sensors",
+            "Remote Operation"
+        ],
+        "benefits": [
+            "Reduced accidents",
+            "Safer inspections"
+        ],
+        "impact_metrics": "Improved worker safety",
+        "india_relevance": "Important for large infrastructure projects"
+    }
+]

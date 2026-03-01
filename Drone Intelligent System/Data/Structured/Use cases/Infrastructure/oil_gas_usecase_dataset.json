@@ -1,0 +1,52 @@
+[
+    {
+        "usecase_id": "OIL001",
+        "sector": "Oil & Gas",
+        "use_case": "Pipeline Inspection",
+        "description": "Drones inspect pipelines using aerial imaging and thermal sensors to detect corrosion and leaks.",
+        "technology_used": [
+            "Thermal Cameras",
+            "High-resolution Imaging"
+        ],
+        "benefits": [
+            "Reduced inspection cost",
+            "Early fault detection",
+            "Improved safety"
+        ],
+        "impact_metrics": "10x faster data acquisition",
+        "india_relevance": "Critical for maintaining extensive pipeline networks"
+    },
+    {
+        "usecase_id": "OIL002",
+        "sector": "Oil & Gas",
+        "use_case": "Offshore Rig Inspection",
+        "description": "Drones inspect offshore rigs and hard-to-reach areas reducing need for human inspection.",
+        "technology_used": [
+            "Thermal Sensors",
+            "HD Cameras"
+        ],
+        "benefits": [
+            "Lower risk",
+            "Reduced downtime",
+            "Cost savings"
+        ],
+        "impact_metrics": "Improved inspection efficiency",
+        "india_relevance": "Supports offshore energy operations"
+    },
+    {
+        "usecase_id": "OIL003",
+        "sector": "Oil & Gas",
+        "use_case": "Environmental Monitoring",
+        "description": "Drones monitor gas leaks, oil spills, and environmental impacts in oil fields.",
+        "technology_used": [
+            "Gas Sensors",
+            "Aerial Surveillance"
+        ],
+        "benefits": [
+            "Environmental protection",
+            "Real-time monitoring"
+        ],
+        "impact_metrics": "Faster emergency response",
+        "india_relevance": "Helps meet environmental compliance standards"
+    }
+]

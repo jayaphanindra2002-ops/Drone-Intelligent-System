@@ -1,0 +1,38 @@
+[
+    {
+        "regulation_id": "LEXO_001",
+        "section": "General Framework",
+        "rule_title": "Primary Drone Regulations",
+        "description": "Drone operations in India are governed primarily by Drone Rules 2021 enforced by DGCA.",
+        "applies_to": "Drone operators in India",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "LEXO_002",
+        "section": "Classification",
+        "rule_title": "Weight-Based Classification",
+        "description": "Drones are categorized into Nano, Micro, Small, Medium and Large categories based on weight.",
+        "applies_to": "Manufacturers and operators",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "LEXO_003",
+        "section": "Registration",
+        "rule_title": "Digital Sky Registration",
+        "description": "All drones must be registered on the Digital Sky platform to obtain a Unique Identification Number.",
+        "applies_to": "Drone owners",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "LEXO_004",
+        "section": "Licensing",
+        "rule_title": "Remote Pilot Certificate Requirement",
+        "description": "Remote pilots must complete approved training and obtain certification except exempt categories.",
+        "applies_to": "Drone pilots",
+        "authority": "DGCA",
+        "validity": null
+    }
+]

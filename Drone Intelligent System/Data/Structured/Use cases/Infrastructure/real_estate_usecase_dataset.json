@@ -1,0 +1,52 @@
+[
+    {
+        "usecase_id": "RE001",
+        "sector": "Real Estate",
+        "use_case": "Aerial Property Photography",
+        "description": "Drones capture aerial images and videos to enhance marketing of residential and commercial properties.",
+        "technology_used": [
+            "High-resolution Cameras",
+            "Aerial Imaging"
+        ],
+        "benefits": [
+            "Better visualization",
+            "Improved marketing appeal"
+        ],
+        "impact_metrics": "Higher buyer engagement",
+        "india_relevance": "Supports growing real estate marketing industry"
+    },
+    {
+        "usecase_id": "RE002",
+        "sector": "Real Estate",
+        "use_case": "Urban Planning Surveys",
+        "description": "Drone surveys provide accurate mapping data for urban development and planning projects.",
+        "technology_used": [
+            "3D Mapping",
+            "LiDAR",
+            "Photogrammetry"
+        ],
+        "benefits": [
+            "Accurate planning",
+            "Reduced cost",
+            "Faster data collection"
+        ],
+        "impact_metrics": "Significant reduction in survey time",
+        "india_relevance": "Useful for smart city and infrastructure development"
+    },
+    {
+        "usecase_id": "RE003",
+        "sector": "Real Estate",
+        "use_case": "Construction Monitoring",
+        "description": "Drones monitor building construction progress and assist project stakeholders with real-time visuals.",
+        "technology_used": [
+            "Video Monitoring",
+            "Aerial Survey"
+        ],
+        "benefits": [
+            "Improved project tracking",
+            "Better stakeholder communication"
+        ],
+        "impact_metrics": "Enhanced project transparency",
+        "india_relevance": "Supports rapid urbanization projects"
+    }
+]

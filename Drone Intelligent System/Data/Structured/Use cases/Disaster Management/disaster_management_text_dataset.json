@@ -1,0 +1,34 @@
+[
+    {
+        "usecase_id": "DIS004",
+        "sector": "Disaster Response",
+        "use_case": "Crowd and Area Monitoring",
+        "description": "Drones monitor public areas during emergencies and enforce safety protocols.",
+        "technology_used": [
+            "Live Video Streaming",
+            "Surveillance Cameras"
+        ],
+        "benefits": [
+            "Improved monitoring",
+            "Better coordination"
+        ],
+        "impact_metrics": "Enhanced public safety operations",
+        "india_relevance": "Used during pandemic monitoring and disaster response"
+    },
+    {
+        "usecase_id": "DIS005",
+        "sector": "Disaster Response",
+        "use_case": "Infrastructure Inspection After Disaster",
+        "description": "Drones inspect damaged buildings and infrastructure without risking human lives.",
+        "technology_used": [
+            "Infrared Cameras",
+            "Aerial Inspection"
+        ],
+        "benefits": [
+            "Safe inspections",
+            "Quick evaluation"
+        ],
+        "impact_metrics": "Reduced inspection time",
+        "india_relevance": "Useful after earthquakes and floods"
+    }
+]

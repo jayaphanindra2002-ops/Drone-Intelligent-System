@@ -1,0 +1,55 @@
+[
+    {
+        "usecase_id": "CONS001",
+        "sector": "Construction",
+        "use_case": "Site Surveying and Mapping",
+        "description": "Drones perform topographic surveys, zoning analysis, and site inspections during pre‑construction phases.",
+        "technology_used": [
+            "Photogrammetry",
+            "LiDAR",
+            "High‑resolution Cameras"
+        ],
+        "benefits": [
+            "Improved accuracy",
+            "Faster surveys",
+            "Better site planning"
+        ],
+        "impact_metrics": "Improves project efficiency and reduces survey time",
+        "india_relevance": "Supports infrastructure and smart city projects"
+    },
+    {
+        "usecase_id": "CONS002",
+        "sector": "Construction",
+        "use_case": "Construction Progress Monitoring",
+        "description": "Drones capture real-time imagery and videos to track project progress and compare as-built vs planned structures.",
+        "technology_used": [
+            "BIM Integration",
+            "Orthomosaic Imaging",
+            "Aerial Video"
+        ],
+        "benefits": [
+            "Real-time monitoring",
+            "Better coordination",
+            "Reduced miscommunication"
+        ],
+        "impact_metrics": "52% faster data insights and improved collaboration",
+        "india_relevance": "Useful for large government infrastructure projects"
+    },
+    {
+        "usecase_id": "CONS003",
+        "sector": "Construction",
+        "use_case": "Safety and Inspection",
+        "description": "Drones inspect hard-to-reach structures and monitor labor safety conditions.",
+        "technology_used": [
+            "Thermal Imaging",
+            "SLAM",
+            "Laser Scanning"
+        ],
+        "benefits": [
+            "Improved worker safety",
+            "Reduced manual inspection risk"
+        ],
+        "impact_metrics": "Up to 55% safety improvement reported",
+        "india_relevance": "Important for high‑risk construction environments"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "usecase_id": "LOG004",
+        "sector": "Logistics",
+        "use_case": "Drone-Based Medicine Delivery",
+        "description": "Drones deliver vaccines and life-saving medicines in pilot projects such as 'Medicines from the Sky'.",
+        "technology_used": [
+            "BVLOS Flights",
+            "Autonomous Navigation"
+        ],
+        "benefits": [
+            "Improved healthcare access",
+            "Faster delivery"
+        ],
+        "impact_metrics": "6 km delivery completed in 5 minutes",
+        "india_relevance": "Enhances rural healthcare connectivity"
+    },
+    {
+        "usecase_id": "LOG005",
+        "sector": "Logistics",
+        "use_case": "Drone Cargo Corridors",
+        "description": "Government initiatives promote drone corridors for cargo delivery operations.",
+        "technology_used": [
+            "Digital Sky Platform",
+            "Airspace Mapping"
+        ],
+        "benefits": [
+            "Simplified approvals",
+            "Operational scalability"
+        ],
+        "impact_metrics": "Encourages commercial drone adoption",
+        "india_relevance": "Supports India becoming a drone hub"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "usecase_id": "LOG001",
+        "sector": "Logistics & Supply Chain",
+        "use_case": "Last-Mile Delivery Optimization",
+        "description": "Drones enable faster last‑mile delivery by bypassing traffic congestion and reducing delivery time.",
+        "technology_used": [
+            "Autonomous Navigation",
+            "GPS Tracking",
+            "AI Route Optimization"
+        ],
+        "benefits": [
+            "Reduced delivery time",
+            "Lower operational costs",
+            "Improved logistics efficiency"
+        ],
+        "impact_metrics": "Enhanced supply chain agility and responsiveness",
+        "india_relevance": "Supports e‑commerce and urban logistics expansion"
+    },
+    {
+        "usecase_id": "LOG002",
+        "sector": "Logistics & Supply Chain",
+        "use_case": "Warehouse Inventory Monitoring",
+        "description": "Drones automate inventory tracking using sensors and barcode/RFID scanning.",
+        "technology_used": [
+            "RFID Sensors",
+            "Computer Vision",
+            "Aerial Monitoring"
+        ],
+        "benefits": [
+            "Reduced human error",
+            "Faster inventory checks"
+        ],
+        "impact_metrics": "Improved data accuracy in warehouse operations",
+        "india_relevance": "Useful for large logistics hubs"
+    },
+    {
+        "usecase_id": "LOG003",
+        "sector": "Logistics & Supply Chain",
+        "use_case": "Humanitarian Logistics",
+        "description": "Drones deliver essential supplies during emergencies and humanitarian crises.",
+        "technology_used": [
+            "Payload Delivery Systems",
+            "Remote Control Systems"
+        ],
+        "benefits": [
+            "Rapid emergency response",
+            "Access to remote locations"
+        ],
+        "impact_metrics": "Reduced response time in disaster logistics",
+        "india_relevance": "Supports disaster relief operations"
+    }
+]

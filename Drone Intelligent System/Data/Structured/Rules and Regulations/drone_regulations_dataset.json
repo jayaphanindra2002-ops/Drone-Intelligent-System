@@ -1,0 +1,112 @@
+[
+    {
+        "regulation_id": "REG001",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Policy Amendment",
+        "rule_title": "SCOMET Category 5B Coverage",
+        "description": "Unmanned aerial vehicles and related equipment fall under SCOMET Category 5B export control.",
+        "applies_to": "Drone manufacturers and exporters",
+        "requirement": "Export authorization required for controlled UAV systems and components",
+        "authority": "DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "REG002",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Policy Eligibility",
+        "rule_title": "Small Drone Export Exemption",
+        "description": "Drones with range ≤5 km and payload ≤5 kg are exempt from SCOMET authorization under GAED.",
+        "applies_to": "Drone exporters",
+        "requirement": "Follow GAED licensing procedure",
+        "authority": "DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "REG003",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "GAED Procedure",
+        "rule_title": "Application Submission",
+        "description": "Exporter must submit one-time authorization application through SCOMET portal.",
+        "applies_to": "Drone exporters",
+        "requirement": "Submit ANF‑2O application form online",
+        "authority": "DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "REG004",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Documentation",
+        "rule_title": "End‑Use Certificate Requirement",
+        "description": "Entities in the supply chain must submit signed End‑Use Certificates.",
+        "applies_to": "Exporter, buyer, consignee, intermediary",
+        "requirement": "Provide EUC on official company letterhead",
+        "authority": "DGFT",
+        "validity": "Authorization process duration"
+    },
+    {
+        "regulation_id": "REG005",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Undertakings",
+        "rule_title": "Inspection Compliance",
+        "description": "Exporter must allow on‑site inspection if required by authorities.",
+        "applies_to": "Drone exporters",
+        "requirement": "Permit inspection by DGFT or Government representatives",
+        "authority": "DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "REG006",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Post Authorization",
+        "rule_title": "Quarterly Export Reporting",
+        "description": "Exporter must report export activities periodically.",
+        "applies_to": "Authorized exporters",
+        "requirement": "Submit quarterly reports via DGFT portal with EUC and shipment proof",
+        "authority": "DGFT",
+        "validity": "Quarterly reporting requirement"
+    },
+    {
+        "regulation_id": "REG007",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Record Keeping",
+        "rule_title": "Document Retention",
+        "description": "Export records must be retained for regulatory verification.",
+        "applies_to": "Indian exporters",
+        "requirement": "Maintain export documents for 5 years",
+        "authority": "DGFT",
+        "validity": "5 years"
+    },
+    {
+        "regulation_id": "REG008",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "General Conditions",
+        "rule_title": "WMD Restriction",
+        "description": "GAED authorization not issued for items related to weapons of mass destruction.",
+        "applies_to": "Export applicants",
+        "requirement": "Ensure items are not linked to prohibited weapons programs",
+        "authority": "DGFT",
+        "validity": null
+    },
+    {
+        "regulation_id": "REG009",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Validity",
+        "rule_title": "Authorization Validity Period",
+        "description": "GAED authorization remains valid for a fixed duration.",
+        "applies_to": "Authorized exporters",
+        "requirement": "Comply with reporting conditions during validity period",
+        "authority": "DGFT",
+        "validity": "3 years"
+    },
+    {
+        "regulation_id": "REG010",
+        "policy_name": "SCOMET Drone Export Policy",
+        "section": "Suspension / Revocation",
+        "rule_title": "Authorization Suspension",
+        "description": "Authorization may be suspended for non‑compliance or adverse reports.",
+        "applies_to": "Authorized exporters",
+        "requirement": "Submit mandatory reports and comply with policy conditions",
+        "authority": "DGFT",
+        "validity": null
+    }
+]

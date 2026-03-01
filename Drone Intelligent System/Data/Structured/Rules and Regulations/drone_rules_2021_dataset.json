@@ -1,0 +1,47 @@
+[
+    {
+        "regulation_id": "DR2021_001",
+        "section": "Applicability",
+        "rule_title": "Applicability of Drone Rules",
+        "description": "Drone Rules apply to possession, leasing, operating, transferring or maintaining unmanned aircraft systems in India.",
+        "applies_to": "All drone operators and owners in India",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "DR2021_002",
+        "section": "Classification",
+        "rule_title": "Drone Weight Categories",
+        "description": "Drones are classified as Nano, Micro, Small, Medium and Large based on maximum all-up weight.",
+        "applies_to": "Drone manufacturers and operators",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "DR2021_003",
+        "section": "Registration",
+        "rule_title": "Unique Identification Number Requirement",
+        "description": "All drones must be registered on the Digital Sky platform and obtain a unique identification number.",
+        "applies_to": "Drone owners",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "DR2021_004",
+        "section": "Operation",
+        "rule_title": "Prior Permission Requirement",
+        "description": "Drones cannot operate in red or yellow zones without prior permission.",
+        "applies_to": "Drone operators",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "DR2021_005",
+        "section": "Pilot License",
+        "rule_title": "Remote Pilot Licence Requirement",
+        "description": "No person shall operate a drone without a valid remote pilot licence except exempted categories.",
+        "applies_to": "Drone pilots",
+        "authority": "DGCA",
+        "validity": "10 years"
+    }
+]

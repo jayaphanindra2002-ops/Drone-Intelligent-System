@@ -1,0 +1,50 @@
+[
+    {
+        "usecase_id": "DIS006",
+        "sector": "Disaster Management",
+        "use_case": "Surveillance and Situation Awareness",
+        "description": "Drones provide real-time monitoring and surveillance during disasters for better coordination.",
+        "technology_used": [
+            "GPS",
+            "Live Streaming",
+            "Remote Sensors"
+        ],
+        "benefits": [
+            "Real-time decision support",
+            "Improved coordination"
+        ],
+        "impact_metrics": "Enhanced disaster preparedness and response",
+        "india_relevance": "Aligned with NDMA disaster management strategy"
+    },
+    {
+        "usecase_id": "DIS007",
+        "sector": "Disaster Management",
+        "use_case": "Communication Restoration",
+        "description": "Drones act as temporary communication relays in disaster-affected regions.",
+        "technology_used": [
+            "Telecommunication Relay Systems"
+        ],
+        "benefits": [
+            "Restored connectivity",
+            "Improved emergency coordination"
+        ],
+        "impact_metrics": "Faster response coordination",
+        "india_relevance": "Important for cyclone and flood affected areas"
+    },
+    {
+        "usecase_id": "DIS008",
+        "sector": "Disaster Management",
+        "use_case": "Logistics and Relief Planning",
+        "description": "Drone data helps authorities plan evacuation routes and logistics operations.",
+        "technology_used": [
+            "Spatial Mapping",
+            "AI Analytics"
+        ],
+        "benefits": [
+            "Better planning",
+            "Efficient evacuation"
+        ],
+        "impact_metrics": "Reduced disaster impact",
+        "india_relevance": "Supports India’s disaster risk reduction initiatives"
+    }
+]

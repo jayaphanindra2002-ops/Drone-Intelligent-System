@@ -1,0 +1,38 @@
+[
+    {
+        "regulation_id": "CURR_001",
+        "section": "Course Overview",
+        "rule_title": "Drone Pilot Junior Course Duration",
+        "description": "Drone Pilot (Junior) course duration is six months under CTS scheme.",
+        "applies_to": "Trainees",
+        "authority": "Directorate General of Training",
+        "validity": "6 months"
+    },
+    {
+        "regulation_id": "CURR_002",
+        "section": "Eligibility",
+        "rule_title": "Minimum Educational Qualification",
+        "description": "Candidate must pass 10th class with Science and Mathematics or equivalent.",
+        "applies_to": "Course applicants",
+        "authority": "DGT",
+        "validity": null
+    },
+    {
+        "regulation_id": "CURR_003",
+        "section": "Certification",
+        "rule_title": "National Trade Certificate Award",
+        "description": "Successful trainees receive National Trade Certificate recognized worldwide.",
+        "applies_to": "Course graduates",
+        "authority": "DGT",
+        "validity": null
+    },
+    {
+        "regulation_id": "CURR_004",
+        "section": "Learning Outcomes",
+        "rule_title": "DGCA Safety Regulation Training",
+        "description": "Trainees learn DGCA safety regulations, aerodynamics, RPA systems and flight operations.",
+        "applies_to": "Trainees",
+        "authority": "DGT",
+        "validity": null
+    }
+]

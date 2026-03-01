@@ -1,0 +1,33 @@
+[
+    {
+        "usecase_id": "LOG006",
+        "sector": "Drone Delivery Services",
+        "use_case": "E-commerce Package Delivery",
+        "description": "Drone delivery services provide faster, flexible, and eco‑friendly parcel transportation.",
+        "technology_used": [
+            "Autonomous UAV Systems",
+            "AI Navigation"
+        ],
+        "benefits": [
+            "Reduced delivery cost",
+            "Shorter delivery times"
+        ],
+        "impact_metrics": "Lower fuel usage and improved efficiency",
+        "india_relevance": "Supports growing Indian e‑commerce sector"
+    },
+    {
+        "usecase_id": "LOG007",
+        "sector": "Drone Delivery Services",
+        "use_case": "Urban Logistics Optimization",
+        "description": "Drone deliveries reduce congestion and pollution in cities by replacing delivery trucks.",
+        "technology_used": [
+            "Electric UAV Systems"
+        ],
+        "benefits": [
+            "Reduced carbon emissions",
+            "Urban sustainability"
+        ],
+        "impact_metrics": "Lower environmental impact compared to trucks",
+        "india_relevance": "Aligned with Smart Cities Mission"
+    }
+]

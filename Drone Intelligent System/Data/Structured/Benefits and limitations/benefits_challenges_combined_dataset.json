@@ -1,0 +1,94 @@
+[
+    {
+        "dataset_id": "BC001",
+        "sector": "Agriculture",
+        "benefits": [
+            "Time savings through rapid field coverage",
+            "Higher crop yield estimation and monitoring",
+            "Reduced pesticide and water usage",
+            "Improved safety and accessibility in difficult terrain",
+            "Precision spraying and data-driven farming"
+        ],
+        "challenges": [
+            "High initial drone cost (₹6–10 lakhs for spraying drones)",
+            "Lack of farmer training and awareness",
+            "Weather dependency affecting flight operations",
+            "Limited flight time and payload constraints",
+            "Regulatory compliance requirements"
+        ],
+        "source": "Benefits and Challenges in Adoption of Agriculture Drones in India"
+    },
+    {
+        "dataset_id": "BC002",
+        "sector": "Agriculture Survey Insights",
+        "benefits": [
+            "5–10% yield improvement reported by farmers",
+            "Reduced labor consumption",
+            "Improved spraying efficiency",
+            "Better decision-making via aerial analytics"
+        ],
+        "challenges": [
+            "Limited understanding of environmental benefits",
+            "Adoption suitability varies by farm size",
+            "Economic constraints for small farmers"
+        ],
+        "source": "Drone application: Perspectives, benefits and challenges (Agronomy Journal Study)"
+    },
+    {
+        "dataset_id": "BC003",
+        "sector": "Disaster Management",
+        "benefits": [
+            "Faster disaster response",
+            "Enhanced situational awareness",
+            "Improved search and rescue efficiency",
+            "Real-time aerial monitoring"
+        ],
+        "challenges": [
+            "Regulatory and legal deployment barriers",
+            "Limited battery life",
+            "Data processing bottlenecks",
+            "Communication network failures",
+            "Need for skilled operators",
+            "Ethical and privacy concerns"
+        ],
+        "source": "Challenges in Drone-Based Disaster Management"
+    },
+    {
+        "dataset_id": "BC004",
+        "sector": "General Drone Applications",
+        "benefits": [
+            "Cost savings compared to traditional inspection methods",
+            "High precision mapping and monitoring",
+            "Improved worker safety",
+            "Access to hard-to-reach locations",
+            "Faster data collection and decision making",
+            "Environmental sustainability advantages"
+        ],
+        "challenges": [
+            "Privacy invasion risks",
+            "Airspace safety concerns",
+            "Cybersecurity vulnerabilities",
+            "Wildlife disturbance risks",
+            "Regulatory gaps"
+        ],
+        "source": "Drone Pros and Cons Explained with Real Data"
+    },
+    {
+        "dataset_id": "BC005",
+        "sector": "Security & Perimeter Protection",
+        "benefits": [
+            "24/7 automated surveillance",
+            "Real-time threat detection",
+            "Large-area monitoring capability",
+            "AI-driven intrusion detection"
+        ],
+        "challenges": [
+            "Rapid evolution of drone threats",
+            "Difficulty detecting autonomous drones",
+            "High-speed breach risks",
+            "Potential physical harm and smuggling misuse",
+            "Need for advanced counter-UAS systems"
+        ],
+        "source": "Drones and Perimeter Security Challenges"
+    }
+]

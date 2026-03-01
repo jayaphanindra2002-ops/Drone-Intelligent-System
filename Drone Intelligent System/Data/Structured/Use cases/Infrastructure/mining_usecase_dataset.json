@@ -1,0 +1,54 @@
+[
+    {
+        "usecase_id": "MIN001",
+        "sector": "Mining",
+        "use_case": "Aerial Mapping and Surveying",
+        "description": "Drones capture aerial data and generate GIS maps, 3D models, DEMs, and DTMs for mining operations.",
+        "technology_used": [
+            "RGB Sensors",
+            "GIS Mapping",
+            "3D Modeling"
+        ],
+        "benefits": [
+            "Centimeter-level accuracy",
+            "Improved planning",
+            "Enhanced operational efficiency"
+        ],
+        "impact_metrics": "Up to 350x more data points compared to traditional surveys",
+        "india_relevance": "Supports optimization of large mining sites across India"
+    },
+    {
+        "usecase_id": "MIN002",
+        "sector": "Mining",
+        "use_case": "Stockpile Volume Estimation",
+        "description": "Drone surveys calculate stockpile volumes using machine learning and aerial imagery.",
+        "technology_used": [
+            "Machine Learning",
+            "Geotagged Imaging",
+            "Volumetric Analysis"
+        ],
+        "benefits": [
+            "99% accuracy",
+            "Safer measurement",
+            "Reduced manual effort"
+        ],
+        "impact_metrics": "Improved inventory management and financial reporting",
+        "india_relevance": "Useful for mining audits and production monitoring"
+    },
+    {
+        "usecase_id": "MIN003",
+        "sector": "Mining",
+        "use_case": "Mine Monitoring and Planning",
+        "description": "Drone-generated GIS maps assist in haul road design, traffic optimization, and safety planning.",
+        "technology_used": [
+            "GIS Analytics",
+            "Drone Survey Data"
+        ],
+        "benefits": [
+            "Better safety management",
+            "Faster decision making"
+        ],
+        "impact_metrics": "Improved operational coordination",
+        "india_relevance": "Enhances productivity in Indian mining operations"
+    }
+]

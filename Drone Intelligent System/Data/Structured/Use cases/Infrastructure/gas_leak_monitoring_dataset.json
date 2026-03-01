@@ -1,0 +1,52 @@
+[
+    {
+        "usecase_id": "GAS001",
+        "sector": "Industrial Safety",
+        "use_case": "Gas Leak Detection",
+        "description": "Drone equipped with MQ series sensors detects volatile gas concentrations and transmits real-time data.",
+        "technology_used": [
+            "MQ Gas Sensors",
+            "Arduino Nano",
+            "NRF24L01 Communication Module"
+        ],
+        "benefits": [
+            "Reduced human exposure",
+            "Real-time monitoring",
+            "Wide-area inspection"
+        ],
+        "impact_metrics": "Continuous monitoring reduces accident risks",
+        "india_relevance": "Applicable to oil, gas, and chemical industries"
+    },
+    {
+        "usecase_id": "GAS002",
+        "sector": "Disaster Management",
+        "use_case": "Hazard Zone Surveillance",
+        "description": "Autonomous drones monitor hazardous areas where human access is unsafe.",
+        "technology_used": [
+            "Autonomous Navigation",
+            "Telemetry Systems"
+        ],
+        "benefits": [
+            "Improved emergency response",
+            "Safer inspections"
+        ],
+        "impact_metrics": "Faster hazard identification",
+        "india_relevance": "Useful for industrial accident response"
+    },
+    {
+        "usecase_id": "GAS003",
+        "sector": "Environmental Monitoring",
+        "use_case": "Gas Emission Mapping",
+        "description": "Drones map gas concentration spatially using aerial sensing systems.",
+        "technology_used": [
+            "SLAM",
+            "Sensor Arrays"
+        ],
+        "benefits": [
+            "Environmental risk assessment",
+            "Accurate emission tracking"
+        ],
+        "impact_metrics": "Enhanced environmental compliance monitoring",
+        "india_relevance": "Supports pollution monitoring initiatives"
+    }
+]

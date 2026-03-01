@@ -1,0 +1,90 @@
+[
+    {
+        "business_id": "BUS001",
+        "sector": "Indian Drone Industry",
+        "opportunity_type": "Industry Growth",
+        "market_size_estimate": "INR 120–150 billion by 2026",
+        "growth_projection": "Rapid expansion due to regulatory reforms and startup ecosystem growth",
+        "government_initiative": "Liberalized Drone Rules and PLI incentives",
+        "investment_requirement_range": "₹5–20 Crores (enterprise ecosystem level)",
+        "startup_opportunity_level": "High",
+        "india_market_relevance": "India aims to become a global drone hub by 2030"
+    },
+    {
+        "business_id": "BUS002",
+        "sector": "Drone Services (DaaS)",
+        "opportunity_type": "Drone-as-a-Service",
+        "market_size_estimate": "USD 130M (2020) → USD 4.9B by 2030",
+        "growth_projection": "CAGR ~44% driven by enterprise adoption",
+        "government_initiative": "Support for drone training and service ecosystem",
+        "investment_requirement_range": "₹25–75 Lakhs",
+        "startup_opportunity_level": "Very High",
+        "india_market_relevance": "Reduces capital barrier for SMEs adopting drones"
+    },
+    {
+        "business_id": "BUS003",
+        "sector": "Agriculture",
+        "opportunity_type": "Precision Farming & Spraying",
+        "market_size_estimate": "$1.3B agricultural drone market by 2025",
+        "growth_projection": "High adoption due to efficiency and subsidy support",
+        "government_initiative": "Drone Shakti & Agriculture modernization programs",
+        "investment_requirement_range": "₹10–30 Lakhs",
+        "startup_opportunity_level": "High",
+        "india_market_relevance": "Large farming economy accelerates adoption"
+    },
+    {
+        "business_id": "BUS004",
+        "sector": "Defense & Surveillance",
+        "opportunity_type": "Military Drone Development",
+        "market_size_estimate": "$11B defense drone market by 2030",
+        "growth_projection": "Increasing national security investments",
+        "government_initiative": "Indigenisation and Make-in-India initiatives",
+        "investment_requirement_range": "₹50 Crores+",
+        "startup_opportunity_level": "Medium",
+        "india_market_relevance": "Strategic priority sector for India"
+    },
+    {
+        "business_id": "BUS005",
+        "sector": "Global Drone Market",
+        "opportunity_type": "Commercial UAV Expansion",
+        "market_size_estimate": "$19.2B (2021) → $63.1B by 2028",
+        "growth_projection": "CAGR ~16–17% globally",
+        "government_initiative": "International regulatory relaxations",
+        "investment_requirement_range": "Varies globally",
+        "startup_opportunity_level": "High",
+        "india_market_relevance": "Export and manufacturing opportunity"
+    },
+    {
+        "business_id": "BUS006",
+        "sector": "AI + Blockchain Drone Ecosystem",
+        "opportunity_type": "Smart Autonomous Systems",
+        "market_size_estimate": "Emerging multi-industry AI-driven drone economy",
+        "growth_projection": "Strong future growth via Industry 4.0 adoption",
+        "government_initiative": "Digital India & AI innovation ecosystem",
+        "investment_requirement_range": "₹20–80 Lakhs (AI startup level)",
+        "startup_opportunity_level": "Very High",
+        "india_market_relevance": "Integration with geospatial analytics and automation"
+    },
+    {
+        "business_id": "BUS007",
+        "sector": "Startup Ecosystem",
+        "opportunity_type": "Drone Tech Startups",
+        "market_size_estimate": "200+ startups; $140M funding raised",
+        "growth_projection": "Accelerated innovation and VC interest",
+        "government_initiative": "PLI Scheme & Startup India",
+        "investment_requirement_range": "₹15–50 Lakhs (early-stage)",
+        "startup_opportunity_level": "Very High",
+        "india_market_relevance": "Rapid expansion across Tier‑1 & Tier‑2 cities"
+    },
+    {
+        "business_id": "BUS008",
+        "sector": "Logistics & Delivery",
+        "opportunity_type": "Drone Delivery Services",
+        "market_size_estimate": "Growing e‑commerce integration market",
+        "growth_projection": "High demand for last‑mile delivery optimization",
+        "government_initiative": "BVLOS policy relaxations",
+        "investment_requirement_range": "₹30–90 Lakhs",
+        "startup_opportunity_level": "High",
+        "india_market_relevance": "Solves rural and urban delivery challenges"
+    }
+]

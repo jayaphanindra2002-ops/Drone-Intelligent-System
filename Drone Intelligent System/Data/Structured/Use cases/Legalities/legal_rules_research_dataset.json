@@ -1,0 +1,38 @@
+[
+    {
+        "regulation_id": "LEGAL_001",
+        "section": "Regulatory Evolution",
+        "rule_title": "Transition to Drone Rules 2021",
+        "description": "India transitioned from restrictive CAR 2018 framework to liberalized Drone Rules 2021.",
+        "applies_to": "Drone ecosystem stakeholders",
+        "authority": "Ministry of Civil Aviation",
+        "validity": null
+    },
+    {
+        "regulation_id": "LEGAL_002",
+        "section": "Institutional Framework",
+        "rule_title": "DGCA Regulatory Role",
+        "description": "DGCA acts as the primary regulator responsible for safety oversight, licensing and compliance.",
+        "applies_to": "Drone operators and manufacturers",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "LEGAL_003",
+        "section": "Privacy Concerns",
+        "rule_title": "Privacy and Data Protection Risks",
+        "description": "Drone surveillance raises constitutional privacy concerns under Article 21 of the Indian Constitution.",
+        "applies_to": "Drone operators and authorities",
+        "authority": "Indian Judiciary & Regulators",
+        "validity": null
+    },
+    {
+        "regulation_id": "LEGAL_004",
+        "section": "Security Risks",
+        "rule_title": "National Security Concerns",
+        "description": "Drones present risks including terrorism, smuggling and airspace safety threats requiring regulatory oversight.",
+        "applies_to": "Security agencies and operators",
+        "authority": "MHA & MoD",
+        "validity": null
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "record_id": "POL001",
+        "theme": "Civil-Military Fusion",
+        "description": "India aims to integrate military, industry, and academia collaboration to strengthen drone ecosystem development and reduce import dependency.",
+        "source_document": "India’s Drones Ecosystem: Enhancing Civil Military Fusion",
+        "key_insight": "Civil-military collaboration accelerates innovation and strengthens indigenous manufacturing."
+    },
+    {
+        "record_id": "POL002",
+        "theme": "Global Drone Trends",
+        "description": "Global conflicts and surveillance needs are driving rapid UAV innovation and adoption across defense and commercial sectors.",
+        "source_document": "India’s Drones Ecosystem: Enhancing Civil Military Fusion",
+        "key_insight": "Drones are transforming modern warfare and intelligence operations."
+    },
+    {
+        "record_id": "POL003",
+        "theme": "Indian Market Opportunity",
+        "description": "Drone applications across agriculture, logistics, and surveillance offer multi-billion-dollar opportunities in India.",
+        "source_document": "Drone Technology India Opportunity Report 2019",
+        "key_insight": "Agriculture and construction represent major commercial UAV markets."
+    },
+    {
+        "record_id": "POL004",
+        "theme": "Startup Ecosystem",
+        "description": "Indian drone startups face funding and adoption challenges but show strong future potential.",
+        "source_document": "Drone Technology India Opportunity Report 2019",
+        "key_insight": "Deeptech investment growth is increasing despite infrastructure challenges."
+    },
+    {
+        "record_id": "POL005",
+        "theme": "State Drone Policy",
+        "description": "Andhra Pradesh Drone Policy 4.0 promotes manufacturing, testing, training, and ecosystem development with financial incentives.",
+        "source_document": "GO No.18 AP Drone Policy",
+        "key_insight": "State-level incentives accelerate regional drone innovation hubs."
+    },
+    {
+        "record_id": "POL006",
+        "theme": "Government Initiatives",
+        "description": "Indian states promote drone adoption through training centers, research hubs, and innovation festivals.",
+        "source_document": "India Drone Festival 2.0 Report",
+        "key_insight": "Government-led events and research centers build workforce and awareness."
+    },
+    {
+        "record_id": "POL007",
+        "theme": "Skill Development",
+        "description": "Drone training and research centers support workforce development and safe drone operations.",
+        "source_document": "India Drone Festival 2.0 Report",
+        "key_insight": "Skill-building programs are essential for scalable drone adoption."
+    },
+    {
+        "record_id": "POL008",
+        "theme": "Economic Growth Drivers",
+        "description": "Regulatory reforms, PLI schemes, and technology advancements drive rapid expansion of India's drone industry.",
+        "source_document": "GO No.18 AP Drone Policy",
+        "key_insight": "Supportive policies and incentives accelerate market growth."
+    }
+]

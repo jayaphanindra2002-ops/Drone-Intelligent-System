@@ -1,0 +1,53 @@
+[
+    {
+        "usecase_id": "DIS001",
+        "sector": "Disaster Management",
+        "use_case": "Disaster Mapping and Damage Assessment",
+        "description": "Drones capture aerial imagery for mapping disaster zones and assessing structural damage.",
+        "technology_used": [
+            "Aerial Imaging",
+            "Remote Sensing",
+            "GIS Mapping"
+        ],
+        "benefits": [
+            "Rapid assessment",
+            "Accurate damage estimation",
+            "Improved situational awareness"
+        ],
+        "impact_metrics": "Large areas surveyed quickly with reduced response time",
+        "india_relevance": "Useful for floods, earthquakes, and cyclone impact assessment"
+    },
+    {
+        "usecase_id": "DIS002",
+        "sector": "Disaster Management",
+        "use_case": "Search and Rescue Operations",
+        "description": "Drones equipped with thermal and vibration sensors help locate trapped victims.",
+        "technology_used": [
+            "Thermal Imaging",
+            "Noise Sensors",
+            "Heat Detection"
+        ],
+        "benefits": [
+            "Faster victim identification",
+            "Reduced risk to rescuers"
+        ],
+        "impact_metrics": "Reduced rescue response time",
+        "india_relevance": "Critical for earthquake and landslide rescue missions"
+    },
+    {
+        "usecase_id": "DIS003",
+        "sector": "Disaster Management",
+        "use_case": "Emergency Supply Transportation",
+        "description": "Drones deliver medical supplies and emergency aid to inaccessible disaster zones.",
+        "technology_used": [
+            "Autonomous Navigation",
+            "Payload Delivery Systems"
+        ],
+        "benefits": [
+            "Faster logistics",
+            "Access to remote areas"
+        ],
+        "impact_metrics": "Improved humanitarian response efficiency",
+        "india_relevance": "Supports relief operations in remote regions"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "usecase_id": "SUR001",
+        "sector": "Home Security",
+        "use_case": "AI-Based Smart Home Surveillance",
+        "description": "AI-powered drones monitor residential environments, detect anomalies, and dispatch automated responses.",
+        "technology_used": [
+            "AI Algorithms",
+            "Multi-sensor Integration",
+            "Real-time Video Analytics"
+        ],
+        "benefits": [
+            "Proactive threat detection",
+            "Full property coverage",
+            "Reduced false alarms"
+        ],
+        "source": "Enhancing Home Security with AI-Driven Drone Surveillance (2024)"
+    },
+    {
+        "usecase_id": "SUR002",
+        "sector": "Public Security",
+        "use_case": "Autonomous Threat Detection and Monitoring",
+        "description": "Autonomous drones use machine learning and computer vision to detect suspicious activities and security threats.",
+        "technology_used": [
+            "Machine Learning",
+            "Computer Vision",
+            "Predictive Analytics"
+        ],
+        "benefits": [
+            "Improved situational awareness",
+            "Reduced human intervention"
+        ],
+        "source": "Autonomous Drones and Artificial Intelligence: Surveillance Applications"
+    },
+    {
+        "usecase_id": "SUR003",
+        "sector": "Smart Surveillance",
+        "use_case": "Large Area Real-Time Monitoring",
+        "description": "UAV-based surveillance systems provide real-time monitoring across urban, industrial, and public environments.",
+        "technology_used": [
+            "Edge AI",
+            "IoT Integration",
+            "Autonomous Navigation"
+        ],
+        "benefits": [
+            "Scalable monitoring",
+            "Real-time decision support"
+        ],
+        "source": "Rise of UAV-Based Smart Surveillance Systematic Review"
+    },
+    {
+        "usecase_id": "SUR004",
+        "sector": "Border & Law Enforcement",
+        "use_case": "Border Surveillance and Crime Prevention",
+        "description": "AI drones monitor borders and urban areas, identifying threats and tracking suspicious movements.",
+        "technology_used": [
+            "Swarm Intelligence",
+            "Object Detection",
+            "Thermal Imaging"
+        ],
+        "benefits": [
+            "Improved security coverage",
+            "Faster threat response"
+        ],
+        "source": "AI Drone Surveillance Security Study"
+    },
+    {
+        "usecase_id": "SUR005",
+        "sector": "Maritime Security",
+        "use_case": "Port and Vessel Monitoring",
+        "description": "Drone surveillance systems track vessels, monitor encroachments, and maintain maritime situational awareness.",
+        "technology_used": [
+            "Computer Vision",
+            "Geofencing",
+            "Autonomous VTOL Drones"
+        ],
+        "benefits": [
+            "24x7 monitoring",
+            "Cost-effective maritime security"
+        ],
+        "source": "Drone-Based Surveillance System for Port Monitoring"
+    },
+    {
+        "usecase_id": "SUR006",
+        "sector": "Infrastructure & Industrial Security",
+        "use_case": "Critical Infrastructure Surveillance",
+        "description": "Drones inspect and monitor infrastructure assets using aerial imaging and AI analytics.",
+        "technology_used": [
+            "High-resolution Cameras",
+            "Thermal Sensors",
+            "AI Analytics"
+        ],
+        "benefits": [
+            "Reduced inspection risk",
+            "Improved monitoring accuracy"
+        ],
+        "source": "UAV Smart Surveillance Technology Review"
+    },
+    {
+        "usecase_id": "SUR007",
+        "sector": "Emergency & Disaster Surveillance",
+        "use_case": "Search and Rescue Monitoring",
+        "description": "AI drones assist emergency responders by scanning large areas and identifying victims or hazards.",
+        "technology_used": [
+            "Thermal Cameras",
+            "Real-time Data Processing"
+        ],
+        "benefits": [
+            "Faster rescue operations",
+            "Enhanced safety"
+        ],
+        "source": "Smart Surveillance UAV Applications Review"
+    },
+    {
+        "usecase_id": "SUR008",
+        "sector": "Smart Cities",
+        "use_case": "Traffic and Urban Monitoring",
+        "description": "Drone surveillance supports smart city operations including traffic monitoring and urban safety management.",
+        "technology_used": [
+            "Live Streaming",
+            "AI Vision Systems"
+        ],
+        "benefits": [
+            "Improved urban planning",
+            "Traffic optimization"
+        ],
+        "source": "UAV Smart Surveillance Market & Applications Study"
+    }
+]

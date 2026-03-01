@@ -1,0 +1,534 @@
+{
+  "metadata": {
+    "title": "Standard Operating Procedure (SOP) for use of Drone Application with Pesticides for Crop Protection and for Spraying Soil & Crop Nutrients in Agricultural, Forestry, Non-Cropped Areas, etc.",
+    "published_by": "Government of India",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "department": "Department of Agriculture and Farmers Welfare",
+    "location": "Krishi Bhawan, New Delhi",
+    "sections": ["Section-A: SOPs for applying pesticides using drones", "Section-B: SOPs for spraying soil & crop nutrients using drones"]
+  },
+
+  "key_officials": [
+    { "name": "Narendra Singh Tomar", "designation": "Minister of Agriculture & Farmers Welfare", "role": "Message" },
+    { "name": "Kailash Choudhary", "designation": "Minister of State for Agriculture & Farmers Welfare", "role": "Message" },
+    { "name": "Shobha Karandlaje", "designation": "Minister of State for Agriculture & Farmers Welfare", "role": "Message" },
+    { "name": "Sanjay Agarwal", "designation": "Secretary, Department of Agriculture & Farmers Welfare", "role": "Foreword" },
+    { "name": "Dr. Abhilaksh Likhi, IAS", "designation": "Additional Secretary, Department of Agriculture & Farmers Welfare", "role": "Message" },
+    { "name": "Shomita Biswas", "designation": "Joint Secretary, Department of Agriculture & Farmers Welfare", "role": "Acknowledgement" }
+  ],
+
+  "section_A": {
+    "title": "SOP for Applying Pesticides for Crop Protection by Using Drones",
+    "applicable_areas": ["Agricultural", "Forestry", "Non-Cropped Areas"],
+
+    "statutory_provisions": {
+      "insecticides_act": "Insecticides Act, 1968",
+      "insecticides_rules": "Insecticides Rules, 1971",
+      "relevant_rule": "Chapter VIII, Rule 43 - Aerial Spraying Operations",
+      "UAS_rules": "Unmanned Aircraft System (UAS) Rules, 2021 (G.S.R. 589(E) dated 25th August, 2021)",
+      "RPAS_rules": ["Civil Aviation Requirements (CAR) under Rule 15A and Rule 133A of the Aircraft Rules, 1937 under the Aircraft Act, 1934"],
+      "governing_bodies": ["Ministry of Civil Aviation (MoCA)", "Directorate General of Civil Aviation (DGCA)", "Central Insecticides Board and Registration Committee (CIB&RC)"],
+      "aerial_spraying_operator_obligations": [
+        "Marking of the area shall be the responsibility of the operators",
+        "Operators shall use only approved insecticides and their formulations at approved concentration and height",
+        "Washing decontamination and first-aid facilities shall be provided by the operators",
+        "All aerial operations shall be notified to the public not less than 24 hours in advance through competent authorities (Executive Officer of respective Gram Panchayat & Panchayat Samiti, and concerned Agriculture Officer)",
+        "Animals and persons not connected with the operations shall be prevented from entering such areas for a specific period",
+        "Pilots shall undergo specialization training including clinical effects of the insecticides"
+      ],
+      "note": "Operators have flexibility to utilize any RPAS/drone for agricultural pesticide spraying irrespective of weight category or use case, provided the discharge of substance is cleared and mentioned in the UAOP issued by DGCA"
+    },
+
+    "pre_application_checklist": [
+      "Confirm not to fly in drone-forbidden area (airport or electronic station). No prior permission required for operating in green zone",
+      "Ensure drone is Digital Sky Compliant with 'No Permission – No Take-off' hardware and firmware",
+      "Obtain Unique Identification Number (UIN) from DGCA for operating in controlled airspace and affix it on drone",
+      "Obtain Unmanned Aircraft Operator Permit (UAOP) if applicable from DGCA for commercial operations",
+      "Ensure drone is in good condition (not damaged) and fit for flying safely",
+      "Keep an eye on interference from mobile devices or signal blockage",
+      "Fly in visual line of sight (VLOS): Always be within visual range of drone",
+      "Ensure operators are trained on both drone operation and safe use of pesticide",
+      "No alcoholic drinks should be consumed within 8 hours preceding operation",
+      "Calibrate drone spray system to ensure nozzle output and accurate application of labelled rates",
+      "Check if drone is in good condition and that there is no leak in the spraying system",
+      "Confirm a place for take-off, landing and tank mix operations",
+      "Check and mark proposed treated area, boundary, and obstacles (walls, trees) around the field for safe operation",
+      "Set up the least buffer zone (as specified by DGCA/CIB&RC) between drone treatment and the non-target crop",
+      "Confirm presence of water sources - Do not spray pesticides within 100m from water sources to avoid polluting water",
+      "Check if the public has been notified at least 24 hours in advance through written intimation to competent authorities",
+      "Ensure animals and persons not connected with operations are prevented from entering for a specific period",
+      "Log flights and intimate concerned authorities (DGCA, local police) of any incidents/accidents",
+      "Don't fly drone over groups of people, public events, or stadiums without permission",
+      "Don't fly drone over government facilities/military bases or near any no-drone zones",
+      "Don't fly drone over private property unless permission is given",
+      "Don't fly drone in controlled airspace near airports without filing flight plan or AAI/ADC permission (at least 24 hours before)",
+      "Don't drop or carry hazardous material",
+      "Don't fly drone from a moving vehicle, ship or aircraft",
+      "Don't fly drone in contravention to UAS Rules, 2021 (G.S.R. 589(E) dated 25th August, 2021)"
+    ],
+
+    "during_application_checklist": [
+      "Read labels carefully to understand safety guidance",
+      "Wear Personal Protective Equipment (PPE)",
+      "Do not eat, drink or smoke while spraying",
+      "Confirm the flying route was reasonable to minimize turn around",
+      "Operation team shall always stay at the downwind end of the field and backlight direction",
+      "Spray with pure water first to test operation for at least 5 minutes wherever feasible",
+      "Ensure two-step dilutions to fully dissolve the pesticide",
+      "Adopt proper pressure for optimized droplet spectrum (>100µm)",
+      "Check weather conditions for: Appropriate Wind speed, Appropriate Temperature, Appropriate Humidity",
+      "Ensure appropriate flying height above target crop",
+      "Ensure appropriate water volume",
+      "Ensure appropriate flying speed",
+      "Avoid walking through crop contaminated by drifting spray",
+      "Do not spray during active bee foraging period of the day. Avoid spray drift to flowering nectar crop",
+      "When spraying pesticides toxic to non-target organisms (fish, birds, silkworm), strictly abide by product label requirements",
+      "Use anti-drift nozzle to decrease drift to human and environment"
+    ],
+
+    "post_application_checklist": [
+      "Timely evacuation and transfer to fresh air",
+      "Triple rinse of empty container is mandatory",
+      "Ensure waste generated is kept to a minimum",
+      "The disposal of waste must conform to the local laws",
+      "Never burn or bury hazardous waste",
+      "Never leave empty containers in the field. Dispose as per Insecticides Rule 1971",
+      "Set up warning signs in the spray area for reminding people",
+      "Take a shower and put on clean clothes",
+      "To prevent leakage of plant protection products in the process of transport and waiting to use",
+      "Securely store plant protection products away from unauthorized people, animals and food. Safely dispose all spills immediately",
+      "Follow the maintenance schedule as prescribed by the Drone manufacturer"
+    ],
+
+    "critical_parameters": {
+      "drone_related": [
+        "Only DGCA certified/approved drone shall be permitted to carry-out agriculture spray",
+        "Drone must have capability to handle variable payload (depleting tank); nozzle system should ensure continuous spray swath from minimum permitted height above uniformly distributed crop (e.g. paddy/sugarcane)",
+        "Drone must be fitted with accurate altitude sensor to maintain desired height throughout the spraying mission",
+        "GPS accuracy of drone and map shall be characterized and utilized to define safety/buffer margin while creating geo-fencing around the field or obstacles",
+        "Drone spray system must support variable flow control to ensure uniform dispensing of payload",
+        "Drone must have necessary fail-safes including Return to Home (RTH) on empty tank and auto mission restart from the point RTH was engaged",
+        "Drone spray system should be leak proof; dripping of Pesticides/Insecticides should be avoided during application (check before flight)"
+      ],
+      "pesticides_insecticides": [
+        "Only CIB&RC approved Pesticides/Insecticides shall be used",
+        "Dose must remain within the range approved by CIB&RC",
+        "Pesticides/Insecticides (liquid/solid) compatibility with drone spray system shall be established prior to mission for desired dilution - to ensure solubility, formulation stability and ability to spray with nozzle type provided",
+        "In case of mixing more than one Pesticide/Insecticide, CIB&RC specified guidelines must be adhered to",
+        "Minimum dilution shall be decided based on the above requirements ensuring satisfactory coverage both horizontally and vertically",
+        "Pesticides/Insecticides should be diluted only with clean water or other suitable ingredient as approved by CIB&RC"
+      ],
+      "environment_limitations": [
+        "Drone based spray permitted only under conducive weather conditions",
+        "Key environmental parameters: Appropriate Wind speed, Temperature, and Relative Humidity"
+      ],
+      "pilot_training": [
+        "Only DGCA certified pilots shall be permitted to fly agri drones",
+        "Training module as devised by NIPHM, Hyderabad encompassing pesticide/insecticide handling, agri-mission specific operational protocols, and relevant crop protection guidelines shall be mandatory for pilots operating pesticide/insecticide spray drones"
+      ],
+      "drift_management": {
+        "description": "To minimize spray drift, apart from wind limitation, the following are important",
+        "parameters": [
+          "Spray height above crop canopy",
+          "Speed of the drone",
+          "Suitable nozzles and droplet size",
+          "A buffer zone can be demarcated (geo fenced)",
+          "Spray schedule should be at appropriate time gap either before or after rainfall",
+          "Others, as specified in guidelines issued by CIB&RC from time to time"
+        ]
+      },
+      "safeguarding_non_targets": [
+        "Buffer zone as per CIB&RC approved guidelines shall be maintained between adjacent farms or different crops to avoid spray on non-targets",
+        "During spray operation, operator should maintain the distance approved by CIB&RC from the drone and avoid windward direction",
+        "No human or animal movement shall be permitted within the farm during and immediately after spray operations",
+        "Drone based pesticide spray operations should be conducted at a distance approved by CIB&RC from water bodies, residential areas, fodder crops, public utilities, dairy, poultry etc."
+      ]
+    },
+
+    "pesticide_registration": {
+      "authority": "Central Insecticides Board and Registration Committee (CIB&RC)",
+      "governing_act": "Insecticides Act, 1968",
+      "note": "Registration requirements are dynamic and will be considered based on safety, efficacy, statutory and legal requirements and published by CIB&RC from time to time",
+      "application_process": "Applicant shall apply before Secretariat of CIB&RC, in the manner prescribed by CIB&RC under the Insecticides Act, 1968"
+    },
+
+    "spray_monitoring_and_data_submission": {
+      "who": "Operator/service provider",
+      "submission_method": "Email (as mentioned in CIB&RC guidelines) or online portal created for the purpose",
+      "deadline_days": 7,
+      "form": "Annexure-I"
+    },
+
+    "spray_monitoring_form_fields": {
+      "section_1_location_of_trial": ["Date", "Name of the location"],
+      "section_2_vegetation_data": [
+        "Vegetation type (Crop/Grass/Bushes/Trees) - GBTC",
+        "Height from ground/Crop Canopy (m)",
+        "Crop names and pest/disease/weed infection/infestation/intensity (%)"
+      ],
+      "section_3_pesticide_data": [
+        "Trade name & Common name",
+        "Concentration (g a.i./l or %)",
+        "Formulation (EC/ULV/Dust) - EUD",
+        "Expiry date",
+        "Is the insecticide mixed with water or solvent? (Y/N)",
+        "If yes, what solvent and mixing ratio"
+      ],
+      "section_4_weather_conditions": {
+        "recorded_at": ["Start", "End"],
+        "fields": ["Date & time", "Temperature (°C)", "Relative humidity (%)", "Wind speed (m/s)", "Wind direction (degrees from N)", "Spray direction (degrees from N)"]
+      },
+      "section_5_spray_application": [
+        "Sprayer type (Rotary/Air blast/ENS/Hydraulic/Other) - RAEHO",
+        "Sprayer operator (Pilot/Driver/Hired/Other) - PDLHO",
+        "Sprayer manufacturer",
+        "Sprayer model",
+        "Sprayer platform (Aerial/Vehicle/Handheld) - AVH",
+        "Date of last calibration",
+        "Atomizer height above ground (m)",
+        "ROTARY SPRAYERS: speed setting (blade angle, pulley setting, no. batteries)",
+        "Speed of atomizer (rpm)",
+        "Flow rate setting (which nozzle or restrictor used)",
+        "Flow rate/atomizer (l/min)",
+        "Number of atomizers",
+        "Track spacing (m)",
+        "BARRIERS ONLY: width and spacing (m)",
+        "Forward speed (km/h)",
+        "AERIAL SPRAYING: support supplied (GP=ground party/RC=radio communication/TG=DGPS track guidance)",
+        "Ground marking (GPS/Flag/Mirror/Smoke/Vehicle/None) - GFMSVN"
+      ],
+      "section_6_control_efficacy": [
+        "Effectiveness/mortality (%)",
+        "Days after treatment/time after treatment (hours)",
+        "Yield of Crop/method of Effectiveness/mortality estimation (Quadrats/Target size/Visual/Cages/Other) - QTVCO"
+      ],
+      "section_7_safety_and_environment": [
+        "Protective clothing worn by operator (Goggles/Mask/gloves/Overalls/Boots) - GMLOB",
+        "Was soap and water available? (Y/N)",
+        "Who was informed of spraying? (Farmers/Nomads/Villagers/Officials/Beekeeper/others) - FNVOB",
+        "Effect on non-target organisms (Y/N)",
+        "If yes, what type of effect?",
+        "Details of anyone who felt unwell or if other problems were encountered",
+        "Details about nearby water-bodies and water channels"
+      ]
+    }
+  },
+
+  "section_B": {
+    "title": "SOP for Spraying Soil & Crop Nutrients by Using Drones",
+    "applicable_areas": ["Agricultural", "Forestry", "Non-Cropped Areas"],
+
+    "background_statistics": {
+      "food_grain_production_2017_18_MT": 275,
+      "india_pulse_production_global_percent": 25,
+      "india_pulse_consumption_global_percent": 27,
+      "india_pulse_import_global_percent": 14,
+      "additional_food_needed_per_year_MT": 5,
+      "drone_flight_height_above_canopy_m": "1-3",
+      "coverage_per_day_acres": 30,
+      "batteries_needed": 5,
+      "cost_per_acre_INR": "350-450",
+      "flight_duration_per_operation_min": "6-10",
+      "optimal_payload_kg": 10,
+      "common_payload_range_kg": "1-25"
+    },
+
+    "UAV_applications_in_soil_crop_nutrients": {
+      "nutrient_assessment_and_mapping": [
+        "Soil nutrient mapping can be helpful for real-time site-specific nutrients management",
+        "Traditional methods give properties of soil at sampled locations only; UAV provides properties of entire field in short time",
+        "UAV based soil nutrient analysis is less time-consuming and energy efficient; enables precise timely application of deficient nutrients",
+        "Drones fly over field and take high resolution pictures sent to cloud/software facilitating prescription maps",
+        "Maps can be uploaded on farm equipment to precisely regulate delivery of inputs (fertilizers)"
+      ],
+      "spraying_of_soil_crop_nutrients": {
+        "considerations": [
+          "Form/concentration of the nutrient being sprayed/broadcasted",
+          "Sensors/spraying systems installed on the drone"
+        ],
+        "compatible_nutrient_forms": {
+          "solid": ["powder", "crystals", "prills", "granules", "super-granules", "briquettes"],
+          "liquid": ["water soluble powders", "liquid nutrients", "nano-fertilizers", "growth regulators"],
+          "both_organic_and_inorganic": true
+        },
+        "efficiency_vs_knapsack": "At least 10 times more area can be sprayed per day per drone compared to traditional knapsack sprayers",
+        "water_saving_percent": "80-90"
+      },
+      "drone_sensor_arrangements": [
+        "Drone with multispectral camera",
+        "Drone with fertilizer spraying system for granules/liquid",
+        "Drone with multispectral camera and spraying system for granules/liquid"
+      ],
+      "nutrient_delivery_protocols": [
+        {
+          "protocol": "RDF Based Protocol (Recommended Dose of Fertilizer)",
+          "description": "Nutrient application done based on recommendations at each crop stage and soil nutrient requirement. Can be immediately deployed for liquid and granular nutrients (Macro, Micro and Nano-Micro/Macro fertilizers)",
+          "applicable_to": ["liquid nutrients", "granular nutrients"]
+        },
+        {
+          "protocol": "Two-Step Operation Protocol",
+          "step_1": "Soil imaging of the field to assess soil nutrient status; post-process data to generate GPS-tagged precision nutrient requirements map using soil indices; software calculates amounts of primary, secondary and micro nutrients for each crop stage",
+          "step_2": "Drone with fertilizer spraying/dispenser system applies fertilizer by controlling fertilizer metering unit to achieve variable rate application",
+          "status": "Can be standardized in near future"
+        },
+        {
+          "protocol": "Real-Time Operation Protocol",
+          "description": "Imaging and spraying/dispensing of nutrients placed on drone; imaging, live processing and delivery happen simultaneously in real-time. Requires powerful live-processing hardware and software to process multispectral camera data without lag",
+          "status": "Needs more R&D for practical feasibility"
+        }
+      ],
+      "camera_and_sensor_recommendations": [
+        "Multispectral (Coarse bands) and Hyper spectral (Fine bands) can be used for soil analysis using Geo and Time tagged images",
+        "AI and ML algorithms can be used to develop models for soil analysis and identify issues",
+        "LiDAR sensor may be used to capture data in dense canopy crop",
+        "Electrostatic nozzle may be used to avoid drift during foliar application"
+      ],
+      "foliar_application_notes": [
+        "Foliar application is recommended to start with as soil database development is time consuming",
+        "Application of nutrient or urea in foliar form uniformly can be started directly without waiting for R&D on variable mapping",
+        "For variable application, real-time mapping using NDVI or other VIs can be done for prediction of nutrient deficiency",
+        "For foliar application, spraying system may be fitted with rotary atomization nozzles to reduce drift",
+        "Foliar application especially suitable for plantation crops (coffee), hilly terrain crops (apples), and flat land crops (sugarcane)"
+      ]
+    },
+
+    "feasibility_of_sustainable_drone_adoption": [
+      "Drones are available at affordable prices and capable of imaging ground data with corresponding geographic locations",
+      "UAVs are autonomous drones that can be programmed to operate as per a defined plan for precision data collection and input delivery",
+      "Drones provide a quick image of a field in a fraction of time and cover maximum land in a single flight (synoptic view/assessment)",
+      "Drone industry is rapidly increasing in India in several sectors including agriculture",
+      "Micronutrient powder application on cabbage crop can be done with 8-10 litre water to minimize phyto-toxicity",
+      "Drones can be used for spraying nutrients after diluting in water (10 litres) and also to broadcast fine granules up to 10 kg per acre",
+      "Mission Planner Software uses Google Maps for flight planning and Satellite based GPS for precise drone navigation",
+      "Bio liquid fertilizers can be allowed to spray on different crops using drone; chemical liquid fertilizers formulation has to be checked through experimentation",
+      "For variable application, real time mapping of nutrients using NDVI or other suitable VIs can be done",
+      "Rate of flow and amount of soil nutrients to be sprayed through each nozzle is configurable electronically through Ground Control Station (GCS)",
+      "Different nozzle types (Centrifugal, Electrostatic, Atomizer, etc.) can be configured based on type of crop and nutrients",
+      "A drone of 10 kg payload capacity in normal conditions can cover 30 acres per day (6 hours/day) with 5 sets of batteries"
+    ],
+
+    "SOPs_for_soil_crop_nutrient_application": {
+      "storage_procedures_for_FPOs_CHCs_service_providers": [
+        "Maintain a written inventory of all materials",
+        "Follow crop nutrient manufacturer's recommendation for storage",
+        "Do not store fertilizers in damp or dirty places; ensure bags do not absorb moisture from leaky roofs or water seepage",
+        "Store in a secured building to prevent unauthorized access",
+        "Properly label all materials",
+        "Keep crop nutrient materials away from hazardous materials like herbicides, pesticides etc.",
+        "Keep materials as far away as possible from doors or places where spills could reach outside",
+        "Regularly inspect storage area for spills and leaks",
+        "Provide emergency eyewash and emergency drench showers within or near the storage area",
+        "Dispose of waste, excess or obsolete materials and chemicals in accordance with manufacturer's recommendation and state law",
+        "Improper mixing and storage of fertilizers can result in large nutrient losses",
+        "Provide absorbent spill kits in all liquid storage areas"
+      ],
+      "procedures_for_use_and_application_of_crop_nutrients": {
+        "general_rules": [
+          "FCO guidelines to be followed for use of all crop nutrients in agriculture",
+          "Crop nutrients should be applied by properly trained personnel"
+        ],
+        "good_agricultural_application_practices": [
+          "Type and amount of crop nutrients to be used as per recommendation of approved agencies or institutions",
+          "Dose and compatibility of the nutrients should be checked before spraying",
+          "Fertilize when the soil is wet (good agricultural practices provided separately)",
+          "Never apply crop nutrients when heavy rain is anticipated",
+          "Calibrate crop nutrient application (distribution, spraying, and broadcast) system regularly to ensure proper application and loading rates",
+          "Mix crop nutrients in clean application equipment under cover in an area where spills will not come into contact with rainwater or storm-water runoff",
+          "The excess use of crop and soil nutrients and mixing with pesticides may cause phytotoxicity; in this case, guidelines for pesticide application may be referred"
+        ]
+      },
+      "procedures_for_solid_granules_powder_nutrient_application": {
+        "flight_height_above_crop_canopy_m": "1.0-3.0",
+        "forward_speed_ms": "3-8",
+        "dispensers": ["rotating disc type", "pneumatic dispensers"],
+        "max_payload_per_flight_kg": 10,
+        "dispensing_speed_ms": "3-8",
+        "rotational_speed_disc_rpm": "800-1000"
+      },
+      "procedures_for_liquid_nutrient_application": {
+        "compatible_liquids": [
+          "Liquid bio-fertilizers",
+          "Organic (jivamrit, vermiwash, etc.)",
+          "Bio-decomposers",
+          "Nano-fertilizers",
+          "Liquid and soluble micro-nutrients",
+          "Bio-stimulants in existing formulations"
+        ],
+        "flight_height_above_crop_canopy_m": "1.0-2.0",
+        "max_payload_per_flight_liters": 10,
+        "forward_speed_ms": "3.0-6.0",
+        "nozzle_placement": "Preferably keep nozzle beneath the motors to minimize drift of droplets",
+        "note": "Restrict the spraying to the intended area"
+      },
+      "drone_servicing_and_operation": [
+        "Stable and safe drone designs like hexacopter are recommended for spraying of crop nutrient",
+        "Follow the user manual for calibration and maintenance of the drone before and after operations as recommended by the manufacturer",
+        "Follow DGCA guidelines and Dr. Alagusundaram Committee's recommendations for operation of the agricultural 'Krishi' drone"
+      ]
+    },
+
+    "pre_application_standards_for_nutrients": {
+      "drone_components_to_check": [
+        "Real time kinematic global positioning system (RTK GPS)",
+        "Flight controller",
+        "Remote control system",
+        "Battery module",
+        "Motor with propellers",
+        "Spraying system"
+      ],
+      "operator_requirements": [
+        "Service provider and operator should have flying permissions and flying license from DGCA",
+        "Operator must have training certificate on operation, repair and maintenance and safe use of soil and crop nutrient from ICAR/Govt. approved training centers",
+        "Operator should be healthy, of sound mind and steady during operation"
+      ],
+      "recommended_team_size": {
+        "composition": "Preferably 3-4 persons",
+        "roles": ["Pilot", "Co-pilot", "One or two technicians for preparation of formulation and mixing and troubleshooting"]
+      },
+      "weather_conditions_to_record": [
+        "Cloudiness",
+        "Light intensity",
+        "Temperature",
+        "Wind velocity and direction"
+      ],
+      "weather_restrictions": [
+        "Do not operate during cloudy and rainy conditions",
+        "Avoid operation immediately before and after rains",
+        "Avoid operation in opposite wind direction"
+      ],
+      "field_safety_requirements": [
+        "Crop and field conditions and obstacles near the field should be monitored",
+        "Home point of drone should be selected keeping in view the crop and field conditions",
+        "Flying path should be prepared according to field shape and required head space for turning",
+        "Safe distance not less than 10m of nearby people from drone take off place must be ensured",
+        "Operation team shall always stay at the downwind end of the field and backlight direction",
+        "Avoid flying of the drones near high-tension electrical towers to avoid signal interferences"
+      ],
+      "buffer_zone_and_exclusion_zones": {
+        "distance_from_water_bodies_residential_areas_m": 100,
+        "exclusion_areas": ["water bodies", "residential areas", "fodder crops", "public utilities", "dairy", "poultry"]
+      },
+      "bee_and_non_target_organism_protection": [
+        "Reach of soil and crop nutrient spray should be avoided during active bee foraging period in flowering nectar crop",
+        "When spraying nutrients toxic to non-target organisms (fish, birds, silkworm), strictly abide by product label requirements"
+      ],
+      "calibration_and_equipment_check": {
+        "droplet_spectrum_microns": "100-150",
+        "checks_required": ["pump pressure", "nozzle wear out for uniform spraying", "leakage in tank and lines"],
+        "ppe_required": true,
+        "water_requirement": "Always use clean water for preparing the solution of soil and crop nutrient",
+        "container_rule": "Containers and buckets used for mixing soil and crop nutrient should never be used for domestic purpose even after thorough washing"
+      },
+      "spare_parts_to_carry": ["Propellers", "Batteries (minimum 4 sets)", "Motors", "Nozzles"]
+    },
+
+    "during_application_standards_for_nutrients": [
+      "Monitor drone behavior continuously during operation to avoid accidents; spraying system should also be monitored for not being choked during operation",
+      "Drone should be flown at a height of 1.0 to 3.0m above the targeted crop canopy at a speed not exceeding 8 m/s during spraying",
+      "Discharged drone batteries should be replaced immediately",
+      "Never apply over-dose and higher concentration of crop nutrients than the recommended",
+      "Movement of human or animal should not be allowed in the operational field during spraying using drones"
+    ],
+
+    "post_application_standards_for_nutrients": [
+      "After completion of spraying, operator and team should leave the operational site to receive fresh air. Entry to the treated field immediately after operation should be avoided without wearing protective clothing",
+      "Warning sign at least for 2 hours may be put at the sprayed site to avoid hazards to humans",
+      "Left over spray solutions should be disposed-off at safer place like barren and isolated areas. Triple rinse of empty containers should be done",
+      "Disposal of waste must conform to the local laws. Hazardous wastes should never be burnt or buried. Empty containers should never be left in the field",
+      "Empty containers of crop nutrients should not be re-used for storing other articles",
+      "While transporting or storing PPPs (Plant Protection Products), the area should be beyond the reach of children, animals and unauthorized persons",
+      "Hands and face need to be washed with clean water and preferably with soap immediately after the spraying operation. Clothes must be changed. In case any sign of body contamination with hazardous chemicals is perceived, consult a doctor",
+      "After every 20 hours of flight, the drone should be inspected for wear, loosen screws, scratches and distortion in propeller and frames"
+    ]
+  },
+
+  "expert_committees": {
+    "committee_for_pesticide_SOP": {
+      "purpose": "Drafting of SOP for Applying Pesticides for Crop Protection by Using Drones",
+      "constituted_under": "Letter No. 13-8-2017-M&T(I&P) dated 27.05.2019",
+      "core_members": [
+        { "name": "Dr. Ravi Prakash", "designation": "Plant Protection Adviser, CIB&RC, Faridabad", "role": "Chairman" },
+        { "name": "Dr. V.K. Singh", "designation": "Director, ICAR-Central Research Institute for Dryland Agriculture, Santosh nagar, Hyderabad", "role": "Member" },
+        { "name": "Dr. Subhash Chander", "designation": "Director, ICAR-National Centre for Integrated Pest Management, Pusa Campus, Pusa, Delhi", "role": "Member" },
+        { "name": "Dr. V. K. Baranwal", "designation": "Professor, Division of Pathology, IARI, New Delhi", "role": "Member" },
+        { "name": "Dr. Roaf A. Parray", "designation": "Scientist, Agricultural Engineering, IARI, New Delhi", "role": "Member" },
+        { "name": "Dr. Manoj Kumar", "designation": "Director, CPRI, Shimla, HP", "role": "Member" },
+        { "name": "Shri. C. R. Lohi", "designation": "Deputy Commissioner (M&T), DA&FW", "role": "Convener" }
+      ],
+      "technical_experts_government": [
+        { "name": "Shri. Y. Raghunadha Babu", "designation": "Chairman, Tobacco Board, Ministry of Commerce and Industry, G.T. Road, Guntur, (A.P)" },
+        { "name": "Dr. Brijesh Tripathi", "designation": "DD (Chem.), CIB&RC, DPPQ&S, Faridabad" },
+        { "name": "Dr. K.L. Gurjar", "designation": "DD(PP), CIB&RC, DPPQ&S, Faridabad" },
+        { "name": "Dr. C.S. Patni", "designation": "DD(PP), IPQ Division, DPPQ&S, Faridabad" }
+      ],
+      "technical_experts_manufacturers_associations": [
+        { "name": "Shri. Smith Shah", "designation": "Director, Drone Federation of India" },
+        { "name": "Shri. Deepak Bhardwaj", "designation": "IoTech World Aviation Pvt. Ltd., Gurgaon" },
+        { "name": "Shri. Anoop Kumar Upadhyay", "designation": "IoTech World Aviation Pvt. Ltd., Gurgaon" },
+        { "name": "Shri. Asitav Sen", "designation": "CEO, Crop Life India, New Delhi" },
+        { "name": "Dr. Sangeeta Mendiratta", "designation": "Crop Science Division, Bayer Crop Science Ltd, New Delhi" },
+        { "name": "Shri. Amit Shekhar", "designation": "Mahindra & Mahindra Ltd." },
+        { "name": "Shri. Abhishek Burman", "designation": "CEO, General Aeronautics Pvt. Ltd., Bengaluru, Karnataka" },
+        { "name": "Shri. J. Gaur", "designation": "Dhanuka Agritech, Gurgaon, Haryana" },
+        { "name": "Shri. Ombeer Tyagi", "designation": "Vice President, UPL Ltd." },
+        { "name": "Dr. Sandeep Singh Panwar", "designation": "Advisor Scientific and Policy, PMFAI" }
+      ]
+    },
+    "committee_for_soil_crop_nutrient_SOP": {
+      "purpose": "Drafting of SOP for Spraying Soil & Crop Nutrients by Using Drones",
+      "constituted_under": "Letter No. 13-8-2017-M&T(I&P) dated 27.05.2019",
+      "core_members": [
+        { "name": "Dr. Indramani", "designation": "Prof. & Head, Division of Agricultural Engineering, IARI", "role": "Chairman" },
+        { "name": "Dr. V. N. Kale", "designation": "Additional Commissioner (Machinery), M&T, DA&FW", "role": "Member" },
+        { "name": "Dr. V K Singh", "designation": "Director, ICAR-Central Research Institute for Dryland Agriculture (CRIDA), Santoshnagar, Hyderabad, Telangana 500059", "role": "Member" },
+        { "name": "Dr. Subhash Chander", "designation": "Director, ICAR-National Centre for Integrated Pest Management, Pusa Campus, Pusa, Delhi", "role": "Member" },
+        { "name": "Dr. Dilip Kumar Kushwaha", "designation": "Scientist, Division of Agricultural Engineering, IARI", "role": "Member" },
+        { "name": "Dr. Sambaiah", "designation": "Sr. Scientist and PI (Ag. Engg.), NG Ranga Ag. University, Guntur", "role": "Member" },
+        { "name": "Dr. Sunil D. Gorantiwar", "designation": "Head, Agril. Engg., Faculty of Agriculture, MPKV, Rahuri", "role": "Member" },
+        { "name": "Shri P.K. Chopra", "designation": "Asstt. Commissioner (M&T), DA&FW", "role": "Convener" }
+      ],
+      "special_academic_experts_invited": [
+        { "name": "Dr. B.S. Dwivedi", "designation": "Director, ICAR-NBSS&LUP, Nagpur" },
+        { "name": "Dr. K. Sadsiva Rao", "designation": "Dean, CAE &T, PJTSAU, Hyderabad" },
+        { "name": "Dr. Rintu Banerjee", "designation": "Head, Department of Agricultural & Food Engineering, IIT Kharagpur" },
+        { "name": "Dr. Manjeet Singh", "designation": "Principal Scientist, Department of FMPE, CAE&T, PAU Ludhiana" },
+        { "name": "Dr. S.K Singh", "designation": "Professor, Department of Renewable Engg., PAU Ludhiana" }
+      ]
+    }
+  },
+
+  "key_technical_specifications_summary": {
+    "pesticide_application": {
+      "min_public_notification_advance_hours": 24,
+      "water_source_exclusion_zone_m": 100,
+      "min_droplet_spectrum_microns": 100,
+      "alcohol_restriction_before_operation_hours": 8
+    },
+    "nutrient_application": {
+      "solid_nutrient": {
+        "flight_height_above_canopy_m": "1.0-3.0",
+        "forward_speed_ms": "3-8",
+        "max_payload_per_flight_kg": 10,
+        "disc_rotational_speed_rpm": "800-1000"
+      },
+      "liquid_nutrient": {
+        "flight_height_above_canopy_m": "1.0-2.0",
+        "max_payload_per_flight_liters": 10,
+        "forward_speed_ms": "3.0-6.0",
+        "max_speed_during_spraying_ms": 8
+      },
+      "general": {
+        "water_saving_vs_traditional_percent": "80-90",
+        "coverage_vs_knapsack": "10x more area per day",
+        "daily_coverage_acres": 30,
+        "batteries_needed": 5,
+        "cost_per_acre_INR": "350-450",
+        "operation_duration_min_per_acre": "6-10",
+        "buffer_from_water_bodies_residential_m": 100,
+        "post_spray_warning_sign_duration_hours": 2,
+        "maintenance_inspection_after_flight_hours": 20,
+        "droplet_spectrum_optimal_microns": "100-150"
+      }
+    }
+  }
+}

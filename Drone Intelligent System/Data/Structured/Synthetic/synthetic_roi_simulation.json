@@ -1,0 +1,5002 @@
+[
+    {
+        "scenario_id": "ROI_SYN_0001",
+        "sector": "Defense",
+        "initial_investment_inr": 1170695,
+        "operational_cost_monthly": 54487,
+        "revenue_monthly": 113805,
+        "roi_percent": 60.8,
+        "break_even_months": 19,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0002",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1248435,
+        "operational_cost_monthly": 83296,
+        "revenue_monthly": 120217,
+        "roi_percent": 35.49,
+        "break_even_months": 33,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0003",
+        "sector": "Defense",
+        "initial_investment_inr": 1361977,
+        "operational_cost_monthly": 66044,
+        "revenue_monthly": 101387,
+        "roi_percent": 31.14,
+        "break_even_months": 38,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0004",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 456190,
+        "operational_cost_monthly": 101052,
+        "revenue_monthly": 148419,
+        "roi_percent": 124.6,
+        "break_even_months": 9,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0005",
+        "sector": "Healthcare",
+        "initial_investment_inr": 607199,
+        "operational_cost_monthly": 54113,
+        "revenue_monthly": 86716,
+        "roi_percent": 64.43,
+        "break_even_months": 18,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0006",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2040867,
+        "operational_cost_monthly": 47054,
+        "revenue_monthly": 68913,
+        "roi_percent": 12.85,
+        "break_even_months": 93,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0007",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1931735,
+        "operational_cost_monthly": 91179,
+        "revenue_monthly": 190051,
+        "roi_percent": 61.42,
+        "break_even_months": 19,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0008",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1347703,
+        "operational_cost_monthly": 125851,
+        "revenue_monthly": 181011,
+        "roi_percent": 49.11,
+        "break_even_months": 24,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0009",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1597358,
+        "operational_cost_monthly": 139085,
+        "revenue_monthly": 234055,
+        "roi_percent": 71.35,
+        "break_even_months": 16,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0010",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1405862,
+        "operational_cost_monthly": 71447,
+        "revenue_monthly": 157153,
+        "roi_percent": 73.16,
+        "break_even_months": 16,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0011",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2205380,
+        "operational_cost_monthly": 131030,
+        "revenue_monthly": 240148,
+        "roi_percent": 59.37,
+        "break_even_months": 20,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0012",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1466519,
+        "operational_cost_monthly": 57675,
+        "revenue_monthly": 131245,
+        "roi_percent": 60.2,
+        "break_even_months": 19,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0013",
+        "sector": "Surveillance",
+        "initial_investment_inr": 806387,
+        "operational_cost_monthly": 130311,
+        "revenue_monthly": 195493,
+        "roi_percent": 97.0,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0014",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1622618,
+        "operational_cost_monthly": 109725,
+        "revenue_monthly": 137674,
+        "roi_percent": 20.67,
+        "break_even_months": 58,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0015",
+        "sector": "Defense",
+        "initial_investment_inr": 1247839,
+        "operational_cost_monthly": 119486,
+        "revenue_monthly": 173542,
+        "roi_percent": 51.98,
+        "break_even_months": 23,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0016",
+        "sector": "Healthcare",
+        "initial_investment_inr": 412229,
+        "operational_cost_monthly": 83037,
+        "revenue_monthly": 132885,
+        "roi_percent": 145.11,
+        "break_even_months": 8,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0017",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1920379,
+        "operational_cost_monthly": 121067,
+        "revenue_monthly": 230458,
+        "roi_percent": 68.36,
+        "break_even_months": 17,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0018",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2260706,
+        "operational_cost_monthly": 98919,
+        "revenue_monthly": 149384,
+        "roi_percent": 26.79,
+        "break_even_months": 44,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0019",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2205023,
+        "operational_cost_monthly": 73489,
+        "revenue_monthly": 139539,
+        "roi_percent": 35.95,
+        "break_even_months": 33,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0020",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1568487,
+        "operational_cost_monthly": 95962,
+        "revenue_monthly": 214034,
+        "roi_percent": 90.33,
+        "break_even_months": 13,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0021",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1753733,
+        "operational_cost_monthly": 84770,
+        "revenue_monthly": 128132,
+        "roi_percent": 29.67,
+        "break_even_months": 40,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0022",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1027932,
+        "operational_cost_monthly": 123222,
+        "revenue_monthly": 184992,
+        "roi_percent": 72.11,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0023",
+        "sector": "Mining",
+        "initial_investment_inr": 1102984,
+        "operational_cost_monthly": 60578,
+        "revenue_monthly": 99601,
+        "roi_percent": 42.46,
+        "break_even_months": 28,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0024",
+        "sector": "Mining",
+        "initial_investment_inr": 2102072,
+        "operational_cost_monthly": 39327,
+        "revenue_monthly": 83689,
+        "roi_percent": 25.32,
+        "break_even_months": 47,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0025",
+        "sector": "Logistics",
+        "initial_investment_inr": 1210443,
+        "operational_cost_monthly": 40334,
+        "revenue_monthly": 61007,
+        "roi_percent": 20.49,
+        "break_even_months": 58,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0026",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2219634,
+        "operational_cost_monthly": 56308,
+        "revenue_monthly": 85462,
+        "roi_percent": 15.76,
+        "break_even_months": 76,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0027",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1628911,
+        "operational_cost_monthly": 37100,
+        "revenue_monthly": 84258,
+        "roi_percent": 34.74,
+        "break_even_months": 34,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0028",
+        "sector": "Mining",
+        "initial_investment_inr": 1596008,
+        "operational_cost_monthly": 106554,
+        "revenue_monthly": 155153,
+        "roi_percent": 36.54,
+        "break_even_months": 32,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0029",
+        "sector": "Healthcare",
+        "initial_investment_inr": 711088,
+        "operational_cost_monthly": 121011,
+        "revenue_monthly": 149511,
+        "roi_percent": 48.1,
+        "break_even_months": 24,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0030",
+        "sector": "Logistics",
+        "initial_investment_inr": 1168275,
+        "operational_cost_monthly": 54816,
+        "revenue_monthly": 128799,
+        "roi_percent": 75.99,
+        "break_even_months": 15,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0031",
+        "sector": "Logistics",
+        "initial_investment_inr": 1075793,
+        "operational_cost_monthly": 72336,
+        "revenue_monthly": 168788,
+        "roi_percent": 107.59,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0032",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1168493,
+        "operational_cost_monthly": 89101,
+        "revenue_monthly": 179072,
+        "roi_percent": 92.4,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0033",
+        "sector": "Defense",
+        "initial_investment_inr": 1940071,
+        "operational_cost_monthly": 72260,
+        "revenue_monthly": 167903,
+        "roi_percent": 59.16,
+        "break_even_months": 20,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0034",
+        "sector": "Defense",
+        "initial_investment_inr": 1562390,
+        "operational_cost_monthly": 91902,
+        "revenue_monthly": 151040,
+        "roi_percent": 45.42,
+        "break_even_months": 26,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0035",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1217180,
+        "operational_cost_monthly": 46462,
+        "revenue_monthly": 65917,
+        "roi_percent": 19.18,
+        "break_even_months": 62,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0036",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2488281,
+        "operational_cost_monthly": 69106,
+        "revenue_monthly": 113436,
+        "roi_percent": 21.38,
+        "break_even_months": 56,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0037",
+        "sector": "Mining",
+        "initial_investment_inr": 508611,
+        "operational_cost_monthly": 119572,
+        "revenue_monthly": 248341,
+        "roi_percent": 303.81,
+        "break_even_months": 3,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0038",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1253282,
+        "operational_cost_monthly": 28720,
+        "revenue_monthly": 62616,
+        "roi_percent": 32.45,
+        "break_even_months": 36,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0039",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1110600,
+        "operational_cost_monthly": 118743,
+        "revenue_monthly": 215461,
+        "roi_percent": 104.5,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0040",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1228203,
+        "operational_cost_monthly": 123309,
+        "revenue_monthly": 267526,
+        "roi_percent": 140.91,
+        "break_even_months": 8,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0041",
+        "sector": "Agriculture",
+        "initial_investment_inr": 863690,
+        "operational_cost_monthly": 80329,
+        "revenue_monthly": 160363,
+        "roi_percent": 111.2,
+        "break_even_months": 10,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0042",
+        "sector": "Mining",
+        "initial_investment_inr": 2326439,
+        "operational_cost_monthly": 119431,
+        "revenue_monthly": 177130,
+        "roi_percent": 29.76,
+        "break_even_months": 40,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0043",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 566151,
+        "operational_cost_monthly": 132406,
+        "revenue_monthly": 247930,
+        "roi_percent": 244.86,
+        "break_even_months": 4,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0044",
+        "sector": "Healthcare",
+        "initial_investment_inr": 830932,
+        "operational_cost_monthly": 58576,
+        "revenue_monthly": 78077,
+        "roi_percent": 28.16,
+        "break_even_months": 42,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0045",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1091916,
+        "operational_cost_monthly": 117526,
+        "revenue_monthly": 236252,
+        "roi_percent": 130.48,
+        "break_even_months": 9,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0046",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1264720,
+        "operational_cost_monthly": 131678,
+        "revenue_monthly": 231038,
+        "roi_percent": 94.28,
+        "break_even_months": 12,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0047",
+        "sector": "Logistics",
+        "initial_investment_inr": 2003097,
+        "operational_cost_monthly": 36778,
+        "revenue_monthly": 72548,
+        "roi_percent": 21.43,
+        "break_even_months": 55,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0048",
+        "sector": "Defense",
+        "initial_investment_inr": 1128376,
+        "operational_cost_monthly": 106198,
+        "revenue_monthly": 160221,
+        "roi_percent": 57.45,
+        "break_even_months": 20,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0049",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2082879,
+        "operational_cost_monthly": 109476,
+        "revenue_monthly": 139254,
+        "roi_percent": 17.16,
+        "break_even_months": 69,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0050",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2296556,
+        "operational_cost_monthly": 70824,
+        "revenue_monthly": 150765,
+        "roi_percent": 41.77,
+        "break_even_months": 28,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0051",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2199612,
+        "operational_cost_monthly": 135913,
+        "revenue_monthly": 302215,
+        "roi_percent": 90.73,
+        "break_even_months": 13,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0052",
+        "sector": "Defense",
+        "initial_investment_inr": 1724602,
+        "operational_cost_monthly": 119558,
+        "revenue_monthly": 193792,
+        "roi_percent": 51.65,
+        "break_even_months": 23,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0053",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1961816,
+        "operational_cost_monthly": 91853,
+        "revenue_monthly": 162459,
+        "roi_percent": 43.19,
+        "break_even_months": 27,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0054",
+        "sector": "Logistics",
+        "initial_investment_inr": 464862,
+        "operational_cost_monthly": 44672,
+        "revenue_monthly": 56697,
+        "roi_percent": 31.04,
+        "break_even_months": 38,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0055",
+        "sector": "Logistics",
+        "initial_investment_inr": 1844505,
+        "operational_cost_monthly": 118000,
+        "revenue_monthly": 195523,
+        "roi_percent": 50.43,
+        "break_even_months": 23,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0056",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1604468,
+        "operational_cost_monthly": 60131,
+        "revenue_monthly": 133709,
+        "roi_percent": 55.03,
+        "break_even_months": 21,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0057",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 483150,
+        "operational_cost_monthly": 43207,
+        "revenue_monthly": 73095,
+        "roi_percent": 74.23,
+        "break_even_months": 16,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0058",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2460212,
+        "operational_cost_monthly": 88751,
+        "revenue_monthly": 139686,
+        "roi_percent": 24.84,
+        "break_even_months": 48,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0059",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2158262,
+        "operational_cost_monthly": 61477,
+        "revenue_monthly": 128956,
+        "roi_percent": 37.52,
+        "break_even_months": 31,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0060",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1203793,
+        "operational_cost_monthly": 90208,
+        "revenue_monthly": 129088,
+        "roi_percent": 38.76,
+        "break_even_months": 30,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0061",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 439167,
+        "operational_cost_monthly": 27919,
+        "revenue_monthly": 62308,
+        "roi_percent": 93.97,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0062",
+        "sector": "Defense",
+        "initial_investment_inr": 2452117,
+        "operational_cost_monthly": 113315,
+        "revenue_monthly": 207016,
+        "roi_percent": 45.85,
+        "break_even_months": 26,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0063",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2312035,
+        "operational_cost_monthly": 111142,
+        "revenue_monthly": 158037,
+        "roi_percent": 24.34,
+        "break_even_months": 49,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0064",
+        "sector": "Logistics",
+        "initial_investment_inr": 2009130,
+        "operational_cost_monthly": 122468,
+        "revenue_monthly": 178426,
+        "roi_percent": 33.42,
+        "break_even_months": 35,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0065",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 441284,
+        "operational_cost_monthly": 128092,
+        "revenue_monthly": 271666,
+        "roi_percent": 390.43,
+        "break_even_months": 3,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0066",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2414248,
+        "operational_cost_monthly": 135083,
+        "revenue_monthly": 168242,
+        "roi_percent": 16.48,
+        "break_even_months": 72,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0067",
+        "sector": "Mining",
+        "initial_investment_inr": 2334116,
+        "operational_cost_monthly": 90064,
+        "revenue_monthly": 194470,
+        "roi_percent": 53.68,
+        "break_even_months": 22,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0068",
+        "sector": "Mining",
+        "initial_investment_inr": 744272,
+        "operational_cost_monthly": 60885,
+        "revenue_monthly": 125847,
+        "roi_percent": 104.74,
+        "break_even_months": 11,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0069",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2125917,
+        "operational_cost_monthly": 75740,
+        "revenue_monthly": 174306,
+        "roi_percent": 55.64,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0070",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1520430,
+        "operational_cost_monthly": 94238,
+        "revenue_monthly": 203122,
+        "roi_percent": 85.94,
+        "break_even_months": 13,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0071",
+        "sector": "Defense",
+        "initial_investment_inr": 2140847,
+        "operational_cost_monthly": 117575,
+        "revenue_monthly": 146175,
+        "roi_percent": 16.03,
+        "break_even_months": 74,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0072",
+        "sector": "Mining",
+        "initial_investment_inr": 686242,
+        "operational_cost_monthly": 74087,
+        "revenue_monthly": 141275,
+        "roi_percent": 117.49,
+        "break_even_months": 10,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0073",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1971399,
+        "operational_cost_monthly": 103052,
+        "revenue_monthly": 139059,
+        "roi_percent": 21.92,
+        "break_even_months": 54,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0074",
+        "sector": "Defense",
+        "initial_investment_inr": 840764,
+        "operational_cost_monthly": 116307,
+        "revenue_monthly": 172885,
+        "roi_percent": 80.75,
+        "break_even_months": 14,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0075",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1381582,
+        "operational_cost_monthly": 120841,
+        "revenue_monthly": 188895,
+        "roi_percent": 59.11,
+        "break_even_months": 20,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0076",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1571627,
+        "operational_cost_monthly": 127509,
+        "revenue_monthly": 180202,
+        "roi_percent": 40.23,
+        "break_even_months": 29,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0077",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1092729,
+        "operational_cost_monthly": 25942,
+        "revenue_monthly": 52896,
+        "roi_percent": 29.6,
+        "break_even_months": 40,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0078",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2478504,
+        "operational_cost_monthly": 66869,
+        "revenue_monthly": 153843,
+        "roi_percent": 42.11,
+        "break_even_months": 28,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0079",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1287682,
+        "operational_cost_monthly": 35043,
+        "revenue_monthly": 72913,
+        "roi_percent": 35.29,
+        "break_even_months": 34,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0080",
+        "sector": "Mining",
+        "initial_investment_inr": 1983334,
+        "operational_cost_monthly": 85394,
+        "revenue_monthly": 137871,
+        "roi_percent": 31.75,
+        "break_even_months": 37,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0081",
+        "sector": "Defense",
+        "initial_investment_inr": 745082,
+        "operational_cost_monthly": 70879,
+        "revenue_monthly": 155589,
+        "roi_percent": 136.43,
+        "break_even_months": 8,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0082",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2027776,
+        "operational_cost_monthly": 83501,
+        "revenue_monthly": 140689,
+        "roi_percent": 33.84,
+        "break_even_months": 35,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0083",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2130749,
+        "operational_cost_monthly": 53746,
+        "revenue_monthly": 103911,
+        "roi_percent": 28.25,
+        "break_even_months": 42,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0084",
+        "sector": "Defense",
+        "initial_investment_inr": 515272,
+        "operational_cost_monthly": 138298,
+        "revenue_monthly": 264832,
+        "roi_percent": 294.68,
+        "break_even_months": 4,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0085",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1568318,
+        "operational_cost_monthly": 124162,
+        "revenue_monthly": 251523,
+        "roi_percent": 97.45,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0086",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2165481,
+        "operational_cost_monthly": 113269,
+        "revenue_monthly": 186178,
+        "roi_percent": 40.4,
+        "break_even_months": 29,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0087",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 443515,
+        "operational_cost_monthly": 107266,
+        "revenue_monthly": 179579,
+        "roi_percent": 195.65,
+        "break_even_months": 6,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0088",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1210680,
+        "operational_cost_monthly": 122978,
+        "revenue_monthly": 156830,
+        "roi_percent": 33.55,
+        "break_even_months": 35,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0089",
+        "sector": "Mining",
+        "initial_investment_inr": 817169,
+        "operational_cost_monthly": 108914,
+        "revenue_monthly": 149681,
+        "roi_percent": 59.87,
+        "break_even_months": 20,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0090",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 861044,
+        "operational_cost_monthly": 110893,
+        "revenue_monthly": 237122,
+        "roi_percent": 175.92,
+        "break_even_months": 6,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0091",
+        "sector": "Defense",
+        "initial_investment_inr": 1252181,
+        "operational_cost_monthly": 69934,
+        "revenue_monthly": 121583,
+        "roi_percent": 49.5,
+        "break_even_months": 24,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0092",
+        "sector": "Agriculture",
+        "initial_investment_inr": 642174,
+        "operational_cost_monthly": 76142,
+        "revenue_monthly": 174543,
+        "roi_percent": 183.88,
+        "break_even_months": 6,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0093",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2201424,
+        "operational_cost_monthly": 47114,
+        "revenue_monthly": 60566,
+        "roi_percent": 7.33,
+        "break_even_months": 163,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0094",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2325260,
+        "operational_cost_monthly": 40374,
+        "revenue_monthly": 51922,
+        "roi_percent": 5.96,
+        "break_even_months": 201,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0095",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1199504,
+        "operational_cost_monthly": 56693,
+        "revenue_monthly": 81182,
+        "roi_percent": 24.5,
+        "break_even_months": 48,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0096",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1238007,
+        "operational_cost_monthly": 61151,
+        "revenue_monthly": 115149,
+        "roi_percent": 52.34,
+        "break_even_months": 22,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0097",
+        "sector": "Defense",
+        "initial_investment_inr": 1006856,
+        "operational_cost_monthly": 29000,
+        "revenue_monthly": 50483,
+        "roi_percent": 25.6,
+        "break_even_months": 46,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0098",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1431781,
+        "operational_cost_monthly": 33457,
+        "revenue_monthly": 75700,
+        "roi_percent": 35.4,
+        "break_even_months": 33,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0099",
+        "sector": "Mining",
+        "initial_investment_inr": 595748,
+        "operational_cost_monthly": 35795,
+        "revenue_monthly": 49186,
+        "roi_percent": 26.97,
+        "break_even_months": 44,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0100",
+        "sector": "Healthcare",
+        "initial_investment_inr": 626684,
+        "operational_cost_monthly": 31460,
+        "revenue_monthly": 65766,
+        "roi_percent": 65.69,
+        "break_even_months": 18,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0101",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1117533,
+        "operational_cost_monthly": 73640,
+        "revenue_monthly": 170273,
+        "roi_percent": 103.76,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0102",
+        "sector": "Healthcare",
+        "initial_investment_inr": 680172,
+        "operational_cost_monthly": 32659,
+        "revenue_monthly": 42093,
+        "roi_percent": 16.64,
+        "break_even_months": 72,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0103",
+        "sector": "Defense",
+        "initial_investment_inr": 1548465,
+        "operational_cost_monthly": 46534,
+        "revenue_monthly": 90443,
+        "roi_percent": 34.03,
+        "break_even_months": 35,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0104",
+        "sector": "Mining",
+        "initial_investment_inr": 449544,
+        "operational_cost_monthly": 124705,
+        "revenue_monthly": 284430,
+        "roi_percent": 426.37,
+        "break_even_months": 2,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0105",
+        "sector": "Logistics",
+        "initial_investment_inr": 1690385,
+        "operational_cost_monthly": 118884,
+        "revenue_monthly": 229662,
+        "roi_percent": 78.64,
+        "break_even_months": 15,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0106",
+        "sector": "Healthcare",
+        "initial_investment_inr": 864292,
+        "operational_cost_monthly": 91520,
+        "revenue_monthly": 181315,
+        "roi_percent": 124.67,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0107",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1334217,
+        "operational_cost_monthly": 61215,
+        "revenue_monthly": 127649,
+        "roi_percent": 59.75,
+        "break_even_months": 20,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0108",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2123771,
+        "operational_cost_monthly": 107005,
+        "revenue_monthly": 226471,
+        "roi_percent": 67.5,
+        "break_even_months": 17,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0109",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1605367,
+        "operational_cost_monthly": 132274,
+        "revenue_monthly": 186506,
+        "roi_percent": 40.54,
+        "break_even_months": 29,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0110",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2079288,
+        "operational_cost_monthly": 80079,
+        "revenue_monthly": 146206,
+        "roi_percent": 38.16,
+        "break_even_months": 31,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0111",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1818324,
+        "operational_cost_monthly": 112836,
+        "revenue_monthly": 135581,
+        "roi_percent": 15.01,
+        "break_even_months": 79,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0112",
+        "sector": "Mining",
+        "initial_investment_inr": 929725,
+        "operational_cost_monthly": 60488,
+        "revenue_monthly": 121061,
+        "roi_percent": 78.18,
+        "break_even_months": 15,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0113",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2310082,
+        "operational_cost_monthly": 86127,
+        "revenue_monthly": 162995,
+        "roi_percent": 39.93,
+        "break_even_months": 30,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0114",
+        "sector": "Mining",
+        "initial_investment_inr": 615752,
+        "operational_cost_monthly": 103284,
+        "revenue_monthly": 219973,
+        "roi_percent": 227.41,
+        "break_even_months": 5,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0115",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2207071,
+        "operational_cost_monthly": 137754,
+        "revenue_monthly": 219774,
+        "roi_percent": 44.59,
+        "break_even_months": 26,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0116",
+        "sector": "Logistics",
+        "initial_investment_inr": 913817,
+        "operational_cost_monthly": 37975,
+        "revenue_monthly": 49013,
+        "roi_percent": 14.49,
+        "break_even_months": 82,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0117",
+        "sector": "Surveillance",
+        "initial_investment_inr": 587265,
+        "operational_cost_monthly": 125702,
+        "revenue_monthly": 287731,
+        "roi_percent": 331.09,
+        "break_even_months": 3,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0118",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1219463,
+        "operational_cost_monthly": 122701,
+        "revenue_monthly": 246118,
+        "roi_percent": 121.45,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0119",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1047467,
+        "operational_cost_monthly": 117086,
+        "revenue_monthly": 211839,
+        "roi_percent": 108.55,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0120",
+        "sector": "Logistics",
+        "initial_investment_inr": 1784831,
+        "operational_cost_monthly": 111954,
+        "revenue_monthly": 177147,
+        "roi_percent": 43.83,
+        "break_even_months": 27,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0121",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1280858,
+        "operational_cost_monthly": 106447,
+        "revenue_monthly": 198631,
+        "roi_percent": 86.36,
+        "break_even_months": 13,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0122",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2180305,
+        "operational_cost_monthly": 116311,
+        "revenue_monthly": 264678,
+        "roi_percent": 81.66,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0123",
+        "sector": "Logistics",
+        "initial_investment_inr": 2240381,
+        "operational_cost_monthly": 39137,
+        "revenue_monthly": 83608,
+        "roi_percent": 23.82,
+        "break_even_months": 50,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0124",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2091633,
+        "operational_cost_monthly": 66743,
+        "revenue_monthly": 80301,
+        "roi_percent": 7.78,
+        "break_even_months": 154,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0125",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2012779,
+        "operational_cost_monthly": 54845,
+        "revenue_monthly": 108698,
+        "roi_percent": 32.11,
+        "break_even_months": 37,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0126",
+        "sector": "Logistics",
+        "initial_investment_inr": 972443,
+        "operational_cost_monthly": 79200,
+        "revenue_monthly": 135562,
+        "roi_percent": 69.55,
+        "break_even_months": 17,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0127",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1959245,
+        "operational_cost_monthly": 62069,
+        "revenue_monthly": 135305,
+        "roi_percent": 44.86,
+        "break_even_months": 26,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0128",
+        "sector": "Logistics",
+        "initial_investment_inr": 1643908,
+        "operational_cost_monthly": 127674,
+        "revenue_monthly": 187169,
+        "roi_percent": 43.43,
+        "break_even_months": 27,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0129",
+        "sector": "Defense",
+        "initial_investment_inr": 1209644,
+        "operational_cost_monthly": 126485,
+        "revenue_monthly": 194343,
+        "roi_percent": 67.32,
+        "break_even_months": 17,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0130",
+        "sector": "Mining",
+        "initial_investment_inr": 881253,
+        "operational_cost_monthly": 131898,
+        "revenue_monthly": 236096,
+        "roi_percent": 141.89,
+        "break_even_months": 8,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0131",
+        "sector": "Mining",
+        "initial_investment_inr": 1079156,
+        "operational_cost_monthly": 109701,
+        "revenue_monthly": 224978,
+        "roi_percent": 128.19,
+        "break_even_months": 9,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0132",
+        "sector": "Surveillance",
+        "initial_investment_inr": 519093,
+        "operational_cost_monthly": 127320,
+        "revenue_monthly": 211408,
+        "roi_percent": 194.39,
+        "break_even_months": 6,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0133",
+        "sector": "Defense",
+        "initial_investment_inr": 2432704,
+        "operational_cost_monthly": 127082,
+        "revenue_monthly": 165178,
+        "roi_percent": 18.79,
+        "break_even_months": 63,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0134",
+        "sector": "Defense",
+        "initial_investment_inr": 2369276,
+        "operational_cost_monthly": 115498,
+        "revenue_monthly": 198049,
+        "roi_percent": 41.81,
+        "break_even_months": 28,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0135",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1462262,
+        "operational_cost_monthly": 135873,
+        "revenue_monthly": 271010,
+        "roi_percent": 110.9,
+        "break_even_months": 10,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0136",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1752706,
+        "operational_cost_monthly": 117599,
+        "revenue_monthly": 269383,
+        "roi_percent": 103.92,
+        "break_even_months": 11,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0137",
+        "sector": "Defense",
+        "initial_investment_inr": 1046490,
+        "operational_cost_monthly": 38816,
+        "revenue_monthly": 66096,
+        "roi_percent": 31.28,
+        "break_even_months": 38,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0138",
+        "sector": "Agriculture",
+        "initial_investment_inr": 946460,
+        "operational_cost_monthly": 36678,
+        "revenue_monthly": 65580,
+        "roi_percent": 36.64,
+        "break_even_months": 32,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0139",
+        "sector": "Defense",
+        "initial_investment_inr": 2391712,
+        "operational_cost_monthly": 52937,
+        "revenue_monthly": 70375,
+        "roi_percent": 8.75,
+        "break_even_months": 137,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0140",
+        "sector": "Mining",
+        "initial_investment_inr": 421387,
+        "operational_cost_monthly": 54196,
+        "revenue_monthly": 127386,
+        "roi_percent": 208.43,
+        "break_even_months": 5,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0141",
+        "sector": "Defense",
+        "initial_investment_inr": 1227740,
+        "operational_cost_monthly": 88118,
+        "revenue_monthly": 157565,
+        "roi_percent": 67.88,
+        "break_even_months": 17,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0142",
+        "sector": "Defense",
+        "initial_investment_inr": 480657,
+        "operational_cost_monthly": 61471,
+        "revenue_monthly": 101805,
+        "roi_percent": 100.7,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0143",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 581065,
+        "operational_cost_monthly": 129959,
+        "revenue_monthly": 280732,
+        "roi_percent": 311.37,
+        "break_even_months": 3,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0144",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1621418,
+        "operational_cost_monthly": 43871,
+        "revenue_monthly": 98983,
+        "roi_percent": 40.79,
+        "break_even_months": 29,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0145",
+        "sector": "Healthcare",
+        "initial_investment_inr": 857524,
+        "operational_cost_monthly": 115524,
+        "revenue_monthly": 168075,
+        "roi_percent": 73.54,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0146",
+        "sector": "Healthcare",
+        "initial_investment_inr": 853065,
+        "operational_cost_monthly": 89746,
+        "revenue_monthly": 201295,
+        "roi_percent": 156.92,
+        "break_even_months": 7,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0147",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1723446,
+        "operational_cost_monthly": 92171,
+        "revenue_monthly": 149600,
+        "roi_percent": 39.99,
+        "break_even_months": 30,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0148",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1130009,
+        "operational_cost_monthly": 109448,
+        "revenue_monthly": 205999,
+        "roi_percent": 102.53,
+        "break_even_months": 11,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0149",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1773191,
+        "operational_cost_monthly": 37153,
+        "revenue_monthly": 45123,
+        "roi_percent": 5.39,
+        "break_even_months": 222,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0150",
+        "sector": "Logistics",
+        "initial_investment_inr": 513737,
+        "operational_cost_monthly": 34511,
+        "revenue_monthly": 78197,
+        "roi_percent": 102.04,
+        "break_even_months": 11,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0151",
+        "sector": "Mining",
+        "initial_investment_inr": 1328297,
+        "operational_cost_monthly": 78495,
+        "revenue_monthly": 103120,
+        "roi_percent": 22.25,
+        "break_even_months": 53,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0152",
+        "sector": "Defense",
+        "initial_investment_inr": 696500,
+        "operational_cost_monthly": 95079,
+        "revenue_monthly": 170545,
+        "roi_percent": 130.02,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0153",
+        "sector": "Mining",
+        "initial_investment_inr": 1546220,
+        "operational_cost_monthly": 42070,
+        "revenue_monthly": 82560,
+        "roi_percent": 31.42,
+        "break_even_months": 38,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0154",
+        "sector": "Healthcare",
+        "initial_investment_inr": 590531,
+        "operational_cost_monthly": 105077,
+        "revenue_monthly": 207470,
+        "roi_percent": 208.07,
+        "break_even_months": 5,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0155",
+        "sector": "Healthcare",
+        "initial_investment_inr": 851026,
+        "operational_cost_monthly": 105098,
+        "revenue_monthly": 127863,
+        "roi_percent": 32.1,
+        "break_even_months": 37,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0156",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1582623,
+        "operational_cost_monthly": 67487,
+        "revenue_monthly": 125758,
+        "roi_percent": 44.18,
+        "break_even_months": 27,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0157",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 972877,
+        "operational_cost_monthly": 37311,
+        "revenue_monthly": 57013,
+        "roi_percent": 24.3,
+        "break_even_months": 49,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0158",
+        "sector": "Mining",
+        "initial_investment_inr": 1996576,
+        "operational_cost_monthly": 58107,
+        "revenue_monthly": 134525,
+        "roi_percent": 45.93,
+        "break_even_months": 26,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0159",
+        "sector": "Mining",
+        "initial_investment_inr": 2310491,
+        "operational_cost_monthly": 93855,
+        "revenue_monthly": 116537,
+        "roi_percent": 11.78,
+        "break_even_months": 101,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0160",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2396114,
+        "operational_cost_monthly": 59830,
+        "revenue_monthly": 74304,
+        "roi_percent": 7.25,
+        "break_even_months": 165,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0161",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1605132,
+        "operational_cost_monthly": 50444,
+        "revenue_monthly": 69148,
+        "roi_percent": 13.98,
+        "break_even_months": 85,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0162",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 866996,
+        "operational_cost_monthly": 95997,
+        "revenue_monthly": 168507,
+        "roi_percent": 100.36,
+        "break_even_months": 11,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0163",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2272186,
+        "operational_cost_monthly": 135744,
+        "revenue_monthly": 221066,
+        "roi_percent": 45.06,
+        "break_even_months": 26,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0164",
+        "sector": "Mining",
+        "initial_investment_inr": 969076,
+        "operational_cost_monthly": 130400,
+        "revenue_monthly": 215114,
+        "roi_percent": 104.9,
+        "break_even_months": 11,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0165",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2088049,
+        "operational_cost_monthly": 67926,
+        "revenue_monthly": 110030,
+        "roi_percent": 24.2,
+        "break_even_months": 49,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0166",
+        "sector": "Mining",
+        "initial_investment_inr": 1608443,
+        "operational_cost_monthly": 57220,
+        "revenue_monthly": 94420,
+        "roi_percent": 27.75,
+        "break_even_months": 43,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0167",
+        "sector": "Mining",
+        "initial_investment_inr": 2106618,
+        "operational_cost_monthly": 35612,
+        "revenue_monthly": 51737,
+        "roi_percent": 9.19,
+        "break_even_months": 130,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0168",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2056818,
+        "operational_cost_monthly": 96655,
+        "revenue_monthly": 194594,
+        "roi_percent": 57.14,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0169",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1590598,
+        "operational_cost_monthly": 41728,
+        "revenue_monthly": 50459,
+        "roi_percent": 6.59,
+        "break_even_months": 182,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0170",
+        "sector": "Agriculture",
+        "initial_investment_inr": 465821,
+        "operational_cost_monthly": 56368,
+        "revenue_monthly": 114339,
+        "roi_percent": 149.34,
+        "break_even_months": 8,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0171",
+        "sector": "Logistics",
+        "initial_investment_inr": 489858,
+        "operational_cost_monthly": 131712,
+        "revenue_monthly": 311180,
+        "roi_percent": 439.64,
+        "break_even_months": 2,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0172",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1642236,
+        "operational_cost_monthly": 64917,
+        "revenue_monthly": 98611,
+        "roi_percent": 24.62,
+        "break_even_months": 48,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0173",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2130629,
+        "operational_cost_monthly": 133873,
+        "revenue_monthly": 194947,
+        "roi_percent": 34.4,
+        "break_even_months": 34,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0174",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 554292,
+        "operational_cost_monthly": 38519,
+        "revenue_monthly": 77586,
+        "roi_percent": 84.58,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0175",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1765875,
+        "operational_cost_monthly": 28751,
+        "revenue_monthly": 46867,
+        "roi_percent": 12.31,
+        "break_even_months": 97,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0176",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1814692,
+        "operational_cost_monthly": 106583,
+        "revenue_monthly": 219883,
+        "roi_percent": 74.92,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0177",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2438065,
+        "operational_cost_monthly": 74913,
+        "revenue_monthly": 173395,
+        "roi_percent": 48.47,
+        "break_even_months": 24,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0178",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 462527,
+        "operational_cost_monthly": 85607,
+        "revenue_monthly": 201423,
+        "roi_percent": 300.48,
+        "break_even_months": 3,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0179",
+        "sector": "Mining",
+        "initial_investment_inr": 2208512,
+        "operational_cost_monthly": 106505,
+        "revenue_monthly": 154499,
+        "roi_percent": 26.08,
+        "break_even_months": 46,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0180",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1921274,
+        "operational_cost_monthly": 38041,
+        "revenue_monthly": 64333,
+        "roi_percent": 16.42,
+        "break_even_months": 73,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0181",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1957191,
+        "operational_cost_monthly": 79433,
+        "revenue_monthly": 169870,
+        "roi_percent": 55.45,
+        "break_even_months": 21,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0182",
+        "sector": "Defense",
+        "initial_investment_inr": 1781287,
+        "operational_cost_monthly": 89428,
+        "revenue_monthly": 183339,
+        "roi_percent": 63.27,
+        "break_even_months": 18,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0183",
+        "sector": "Defense",
+        "initial_investment_inr": 1607399,
+        "operational_cost_monthly": 35555,
+        "revenue_monthly": 52518,
+        "roi_percent": 12.66,
+        "break_even_months": 94,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0184",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2216090,
+        "operational_cost_monthly": 88908,
+        "revenue_monthly": 129875,
+        "roi_percent": 22.18,
+        "break_even_months": 54,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0185",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1187134,
+        "operational_cost_monthly": 121623,
+        "revenue_monthly": 180164,
+        "roi_percent": 59.18,
+        "break_even_months": 20,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0186",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 479951,
+        "operational_cost_monthly": 120623,
+        "revenue_monthly": 211722,
+        "roi_percent": 227.77,
+        "break_even_months": 5,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0187",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 476259,
+        "operational_cost_monthly": 101486,
+        "revenue_monthly": 197844,
+        "roi_percent": 242.79,
+        "break_even_months": 4,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0188",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1407280,
+        "operational_cost_monthly": 44175,
+        "revenue_monthly": 82005,
+        "roi_percent": 32.26,
+        "break_even_months": 37,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0189",
+        "sector": "Logistics",
+        "initial_investment_inr": 542229,
+        "operational_cost_monthly": 89088,
+        "revenue_monthly": 190535,
+        "roi_percent": 224.51,
+        "break_even_months": 5,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0190",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1518883,
+        "operational_cost_monthly": 29588,
+        "revenue_monthly": 59745,
+        "roi_percent": 23.83,
+        "break_even_months": 50,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0191",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2080894,
+        "operational_cost_monthly": 34554,
+        "revenue_monthly": 46310,
+        "roi_percent": 6.78,
+        "break_even_months": 177,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0192",
+        "sector": "Logistics",
+        "initial_investment_inr": 1421605,
+        "operational_cost_monthly": 49843,
+        "revenue_monthly": 89646,
+        "roi_percent": 33.6,
+        "break_even_months": 35,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0193",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2054691,
+        "operational_cost_monthly": 58165,
+        "revenue_monthly": 108220,
+        "roi_percent": 29.23,
+        "break_even_months": 41,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0194",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1143858,
+        "operational_cost_monthly": 85874,
+        "revenue_monthly": 163809,
+        "roi_percent": 81.76,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0195",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1812053,
+        "operational_cost_monthly": 120944,
+        "revenue_monthly": 202645,
+        "roi_percent": 54.11,
+        "break_even_months": 22,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0196",
+        "sector": "Logistics",
+        "initial_investment_inr": 717974,
+        "operational_cost_monthly": 110032,
+        "revenue_monthly": 262107,
+        "roi_percent": 254.17,
+        "break_even_months": 4,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0197",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1016721,
+        "operational_cost_monthly": 83556,
+        "revenue_monthly": 160456,
+        "roi_percent": 90.76,
+        "break_even_months": 13,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0198",
+        "sector": "Defense",
+        "initial_investment_inr": 706162,
+        "operational_cost_monthly": 37440,
+        "revenue_monthly": 86134,
+        "roi_percent": 82.75,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0199",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 905020,
+        "operational_cost_monthly": 76920,
+        "revenue_monthly": 134265,
+        "roi_percent": 76.04,
+        "break_even_months": 15,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0200",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2214211,
+        "operational_cost_monthly": 107659,
+        "revenue_monthly": 162429,
+        "roi_percent": 29.68,
+        "break_even_months": 40,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0201",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1621871,
+        "operational_cost_monthly": 66782,
+        "revenue_monthly": 135254,
+        "roi_percent": 50.66,
+        "break_even_months": 23,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0202",
+        "sector": "Defense",
+        "initial_investment_inr": 2422965,
+        "operational_cost_monthly": 41318,
+        "revenue_monthly": 80388,
+        "roi_percent": 19.35,
+        "break_even_months": 62,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0203",
+        "sector": "Logistics",
+        "initial_investment_inr": 2210812,
+        "operational_cost_monthly": 80008,
+        "revenue_monthly": 96017,
+        "roi_percent": 8.69,
+        "break_even_months": 138,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0204",
+        "sector": "Logistics",
+        "initial_investment_inr": 601208,
+        "operational_cost_monthly": 131038,
+        "revenue_monthly": 245076,
+        "roi_percent": 227.62,
+        "break_even_months": 5,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0205",
+        "sector": "Defense",
+        "initial_investment_inr": 1796505,
+        "operational_cost_monthly": 112004,
+        "revenue_monthly": 194706,
+        "roi_percent": 55.24,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0206",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1184237,
+        "operational_cost_monthly": 29287,
+        "revenue_monthly": 39390,
+        "roi_percent": 10.24,
+        "break_even_months": 117,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0207",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 498929,
+        "operational_cost_monthly": 45223,
+        "revenue_monthly": 74377,
+        "roi_percent": 70.12,
+        "break_even_months": 17,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0208",
+        "sector": "Surveillance",
+        "initial_investment_inr": 575941,
+        "operational_cost_monthly": 123824,
+        "revenue_monthly": 273483,
+        "roi_percent": 311.82,
+        "break_even_months": 3,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0209",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2364606,
+        "operational_cost_monthly": 71769,
+        "revenue_monthly": 92639,
+        "roi_percent": 10.59,
+        "break_even_months": 113,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0210",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2244671,
+        "operational_cost_monthly": 75101,
+        "revenue_monthly": 156187,
+        "roi_percent": 43.35,
+        "break_even_months": 27,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0211",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1852491,
+        "operational_cost_monthly": 27146,
+        "revenue_monthly": 58615,
+        "roi_percent": 20.38,
+        "break_even_months": 58,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0212",
+        "sector": "Agriculture",
+        "initial_investment_inr": 950210,
+        "operational_cost_monthly": 43985,
+        "revenue_monthly": 103179,
+        "roi_percent": 74.75,
+        "break_even_months": 16,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0213",
+        "sector": "Defense",
+        "initial_investment_inr": 1020182,
+        "operational_cost_monthly": 128273,
+        "revenue_monthly": 307038,
+        "roi_percent": 210.27,
+        "break_even_months": 5,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0214",
+        "sector": "Defense",
+        "initial_investment_inr": 575524,
+        "operational_cost_monthly": 55896,
+        "revenue_monthly": 105916,
+        "roi_percent": 104.29,
+        "break_even_months": 11,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0215",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1865542,
+        "operational_cost_monthly": 99123,
+        "revenue_monthly": 149754,
+        "roi_percent": 32.57,
+        "break_even_months": 36,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0216",
+        "sector": "Logistics",
+        "initial_investment_inr": 892162,
+        "operational_cost_monthly": 106829,
+        "revenue_monthly": 141309,
+        "roi_percent": 46.38,
+        "break_even_months": 25,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0217",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2252183,
+        "operational_cost_monthly": 86235,
+        "revenue_monthly": 176755,
+        "roi_percent": 48.23,
+        "break_even_months": 24,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0218",
+        "sector": "Logistics",
+        "initial_investment_inr": 607437,
+        "operational_cost_monthly": 129926,
+        "revenue_monthly": 291333,
+        "roi_percent": 318.86,
+        "break_even_months": 3,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0219",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1338720,
+        "operational_cost_monthly": 59828,
+        "revenue_monthly": 106634,
+        "roi_percent": 41.96,
+        "break_even_months": 28,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0220",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1857244,
+        "operational_cost_monthly": 113174,
+        "revenue_monthly": 169759,
+        "roi_percent": 36.56,
+        "break_even_months": 32,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0221",
+        "sector": "Surveillance",
+        "initial_investment_inr": 419075,
+        "operational_cost_monthly": 42961,
+        "revenue_monthly": 84559,
+        "roi_percent": 119.11,
+        "break_even_months": 10,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0222",
+        "sector": "Agriculture",
+        "initial_investment_inr": 443331,
+        "operational_cost_monthly": 57583,
+        "revenue_monthly": 123207,
+        "roi_percent": 177.63,
+        "break_even_months": 6,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0223",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1240583,
+        "operational_cost_monthly": 49728,
+        "revenue_monthly": 83667,
+        "roi_percent": 32.83,
+        "break_even_months": 36,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0224",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1338804,
+        "operational_cost_monthly": 83831,
+        "revenue_monthly": 173546,
+        "roi_percent": 80.41,
+        "break_even_months": 14,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0225",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1361848,
+        "operational_cost_monthly": 126984,
+        "revenue_monthly": 249772,
+        "roi_percent": 108.2,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0226",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1765544,
+        "operational_cost_monthly": 76255,
+        "revenue_monthly": 121522,
+        "roi_percent": 30.77,
+        "break_even_months": 39,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0227",
+        "sector": "Healthcare",
+        "initial_investment_inr": 501515,
+        "operational_cost_monthly": 63900,
+        "revenue_monthly": 152422,
+        "roi_percent": 211.81,
+        "break_even_months": 5,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0228",
+        "sector": "Defense",
+        "initial_investment_inr": 928679,
+        "operational_cost_monthly": 138941,
+        "revenue_monthly": 212734,
+        "roi_percent": 95.35,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0229",
+        "sector": "Logistics",
+        "initial_investment_inr": 982085,
+        "operational_cost_monthly": 25968,
+        "revenue_monthly": 46032,
+        "roi_percent": 24.52,
+        "break_even_months": 48,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0230",
+        "sector": "Mining",
+        "initial_investment_inr": 1711080,
+        "operational_cost_monthly": 104768,
+        "revenue_monthly": 146218,
+        "roi_percent": 29.07,
+        "break_even_months": 41,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0231",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 720389,
+        "operational_cost_monthly": 58059,
+        "revenue_monthly": 109504,
+        "roi_percent": 85.7,
+        "break_even_months": 14,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0232",
+        "sector": "Mining",
+        "initial_investment_inr": 1599608,
+        "operational_cost_monthly": 86524,
+        "revenue_monthly": 143631,
+        "roi_percent": 42.84,
+        "break_even_months": 28,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0233",
+        "sector": "Logistics",
+        "initial_investment_inr": 2082009,
+        "operational_cost_monthly": 120684,
+        "revenue_monthly": 216553,
+        "roi_percent": 55.26,
+        "break_even_months": 21,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0234",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2265541,
+        "operational_cost_monthly": 67510,
+        "revenue_monthly": 134145,
+        "roi_percent": 35.29,
+        "break_even_months": 33,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0235",
+        "sector": "Defense",
+        "initial_investment_inr": 864572,
+        "operational_cost_monthly": 123708,
+        "revenue_monthly": 209937,
+        "roi_percent": 119.68,
+        "break_even_months": 10,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0236",
+        "sector": "Mining",
+        "initial_investment_inr": 1823698,
+        "operational_cost_monthly": 137474,
+        "revenue_monthly": 182609,
+        "roi_percent": 29.7,
+        "break_even_months": 40,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0237",
+        "sector": "Mining",
+        "initial_investment_inr": 898966,
+        "operational_cost_monthly": 101552,
+        "revenue_monthly": 229743,
+        "roi_percent": 171.12,
+        "break_even_months": 7,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0238",
+        "sector": "Defense",
+        "initial_investment_inr": 1358818,
+        "operational_cost_monthly": 94352,
+        "revenue_monthly": 163144,
+        "roi_percent": 60.75,
+        "break_even_months": 19,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0239",
+        "sector": "Mining",
+        "initial_investment_inr": 1658882,
+        "operational_cost_monthly": 62138,
+        "revenue_monthly": 79387,
+        "roi_percent": 12.48,
+        "break_even_months": 96,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0240",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2437203,
+        "operational_cost_monthly": 40420,
+        "revenue_monthly": 48877,
+        "roi_percent": 4.16,
+        "break_even_months": 288,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0241",
+        "sector": "Mining",
+        "initial_investment_inr": 1704671,
+        "operational_cost_monthly": 69997,
+        "revenue_monthly": 94710,
+        "roi_percent": 17.4,
+        "break_even_months": 68,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0242",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 641865,
+        "operational_cost_monthly": 47594,
+        "revenue_monthly": 112200,
+        "roi_percent": 120.78,
+        "break_even_months": 9,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0243",
+        "sector": "Logistics",
+        "initial_investment_inr": 2321681,
+        "operational_cost_monthly": 46049,
+        "revenue_monthly": 64445,
+        "roi_percent": 9.51,
+        "break_even_months": 126,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0244",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1857462,
+        "operational_cost_monthly": 39029,
+        "revenue_monthly": 73121,
+        "roi_percent": 22.02,
+        "break_even_months": 54,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0245",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1504710,
+        "operational_cost_monthly": 132996,
+        "revenue_monthly": 299460,
+        "roi_percent": 132.75,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0246",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 938403,
+        "operational_cost_monthly": 26406,
+        "revenue_monthly": 40555,
+        "roi_percent": 18.09,
+        "break_even_months": 66,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0247",
+        "sector": "Agriculture",
+        "initial_investment_inr": 508522,
+        "operational_cost_monthly": 109024,
+        "revenue_monthly": 257923,
+        "roi_percent": 351.37,
+        "break_even_months": 3,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0248",
+        "sector": "Healthcare",
+        "initial_investment_inr": 465861,
+        "operational_cost_monthly": 27739,
+        "revenue_monthly": 38582,
+        "roi_percent": 27.93,
+        "break_even_months": 42,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0249",
+        "sector": "Healthcare",
+        "initial_investment_inr": 899964,
+        "operational_cost_monthly": 55730,
+        "revenue_monthly": 96759,
+        "roi_percent": 54.71,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0250",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1908859,
+        "operational_cost_monthly": 104913,
+        "revenue_monthly": 250939,
+        "roi_percent": 91.8,
+        "break_even_months": 13,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0251",
+        "sector": "Defense",
+        "initial_investment_inr": 1394921,
+        "operational_cost_monthly": 115166,
+        "revenue_monthly": 211698,
+        "roi_percent": 83.04,
+        "break_even_months": 14,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0252",
+        "sector": "Defense",
+        "initial_investment_inr": 1914258,
+        "operational_cost_monthly": 78828,
+        "revenue_monthly": 156965,
+        "roi_percent": 48.98,
+        "break_even_months": 24,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0253",
+        "sector": "Mining",
+        "initial_investment_inr": 2150875,
+        "operational_cost_monthly": 117674,
+        "revenue_monthly": 256876,
+        "roi_percent": 77.66,
+        "break_even_months": 15,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0254",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2415271,
+        "operational_cost_monthly": 40930,
+        "revenue_monthly": 79182,
+        "roi_percent": 19.01,
+        "break_even_months": 63,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0255",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 489361,
+        "operational_cost_monthly": 117430,
+        "revenue_monthly": 175848,
+        "roi_percent": 143.25,
+        "break_even_months": 8,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0256",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1968917,
+        "operational_cost_monthly": 119837,
+        "revenue_monthly": 214558,
+        "roi_percent": 57.73,
+        "break_even_months": 20,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0257",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1845529,
+        "operational_cost_monthly": 125285,
+        "revenue_monthly": 238142,
+        "roi_percent": 73.38,
+        "break_even_months": 16,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0258",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1554720,
+        "operational_cost_monthly": 55284,
+        "revenue_monthly": 98806,
+        "roi_percent": 33.59,
+        "break_even_months": 35,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0259",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 908882,
+        "operational_cost_monthly": 134783,
+        "revenue_monthly": 226552,
+        "roi_percent": 121.16,
+        "break_even_months": 9,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0260",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2075806,
+        "operational_cost_monthly": 73018,
+        "revenue_monthly": 130267,
+        "roi_percent": 33.1,
+        "break_even_months": 36,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0261",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1516025,
+        "operational_cost_monthly": 31404,
+        "revenue_monthly": 49692,
+        "roi_percent": 14.48,
+        "break_even_months": 82,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0262",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1082084,
+        "operational_cost_monthly": 41063,
+        "revenue_monthly": 56317,
+        "roi_percent": 16.92,
+        "break_even_months": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0263",
+        "sector": "Mining",
+        "initial_investment_inr": 1827600,
+        "operational_cost_monthly": 96496,
+        "revenue_monthly": 125474,
+        "roi_percent": 19.03,
+        "break_even_months": 63,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0264",
+        "sector": "Mining",
+        "initial_investment_inr": 1087963,
+        "operational_cost_monthly": 61419,
+        "revenue_monthly": 84809,
+        "roi_percent": 25.8,
+        "break_even_months": 46,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0265",
+        "sector": "Mining",
+        "initial_investment_inr": 1993999,
+        "operational_cost_monthly": 49848,
+        "revenue_monthly": 70766,
+        "roi_percent": 12.59,
+        "break_even_months": 95,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0266",
+        "sector": "Mining",
+        "initial_investment_inr": 1872879,
+        "operational_cost_monthly": 82932,
+        "revenue_monthly": 120227,
+        "roi_percent": 23.9,
+        "break_even_months": 50,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0267",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1879705,
+        "operational_cost_monthly": 35053,
+        "revenue_monthly": 61067,
+        "roi_percent": 16.61,
+        "break_even_months": 72,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0268",
+        "sector": "Defense",
+        "initial_investment_inr": 1595035,
+        "operational_cost_monthly": 73636,
+        "revenue_monthly": 143850,
+        "roi_percent": 52.82,
+        "break_even_months": 22,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0269",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2113369,
+        "operational_cost_monthly": 34681,
+        "revenue_monthly": 48158,
+        "roi_percent": 7.65,
+        "break_even_months": 156,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0270",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2032745,
+        "operational_cost_monthly": 36485,
+        "revenue_monthly": 75505,
+        "roi_percent": 23.03,
+        "break_even_months": 52,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0271",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1947181,
+        "operational_cost_monthly": 83966,
+        "revenue_monthly": 195684,
+        "roi_percent": 68.85,
+        "break_even_months": 17,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0272",
+        "sector": "Defense",
+        "initial_investment_inr": 1773329,
+        "operational_cost_monthly": 99425,
+        "revenue_monthly": 152410,
+        "roi_percent": 35.85,
+        "break_even_months": 33,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0273",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1885666,
+        "operational_cost_monthly": 75327,
+        "revenue_monthly": 145088,
+        "roi_percent": 44.39,
+        "break_even_months": 27,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0274",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2071269,
+        "operational_cost_monthly": 61428,
+        "revenue_monthly": 115399,
+        "roi_percent": 31.27,
+        "break_even_months": 38,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0275",
+        "sector": "Healthcare",
+        "initial_investment_inr": 608249,
+        "operational_cost_monthly": 74366,
+        "revenue_monthly": 177930,
+        "roi_percent": 204.32,
+        "break_even_months": 5,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0276",
+        "sector": "Healthcare",
+        "initial_investment_inr": 909064,
+        "operational_cost_monthly": 83578,
+        "revenue_monthly": 111101,
+        "roi_percent": 36.33,
+        "break_even_months": 33,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0277",
+        "sector": "Surveillance",
+        "initial_investment_inr": 568496,
+        "operational_cost_monthly": 131816,
+        "revenue_monthly": 170095,
+        "roi_percent": 80.8,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0278",
+        "sector": "Defense",
+        "initial_investment_inr": 1011002,
+        "operational_cost_monthly": 45130,
+        "revenue_monthly": 75193,
+        "roi_percent": 35.68,
+        "break_even_months": 33,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0279",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1906623,
+        "operational_cost_monthly": 103268,
+        "revenue_monthly": 244917,
+        "roi_percent": 89.15,
+        "break_even_months": 13,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0280",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1713342,
+        "operational_cost_monthly": 76047,
+        "revenue_monthly": 93919,
+        "roi_percent": 12.52,
+        "break_even_months": 95,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0281",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1294771,
+        "operational_cost_monthly": 48646,
+        "revenue_monthly": 105815,
+        "roi_percent": 52.98,
+        "break_even_months": 22,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0282",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1139030,
+        "operational_cost_monthly": 125305,
+        "revenue_monthly": 240157,
+        "roi_percent": 121.0,
+        "break_even_months": 9,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0283",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1139876,
+        "operational_cost_monthly": 41626,
+        "revenue_monthly": 69855,
+        "roi_percent": 29.72,
+        "break_even_months": 40,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0284",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1309072,
+        "operational_cost_monthly": 99087,
+        "revenue_monthly": 178616,
+        "roi_percent": 72.9,
+        "break_even_months": 16,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0285",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1171074,
+        "operational_cost_monthly": 113521,
+        "revenue_monthly": 212211,
+        "roi_percent": 101.13,
+        "break_even_months": 11,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0286",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 424435,
+        "operational_cost_monthly": 110560,
+        "revenue_monthly": 168907,
+        "roi_percent": 164.96,
+        "break_even_months": 7,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0287",
+        "sector": "Healthcare",
+        "initial_investment_inr": 580055,
+        "operational_cost_monthly": 56680,
+        "revenue_monthly": 112991,
+        "roi_percent": 116.49,
+        "break_even_months": 10,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0288",
+        "sector": "Healthcare",
+        "initial_investment_inr": 537090,
+        "operational_cost_monthly": 35348,
+        "revenue_monthly": 43992,
+        "roi_percent": 19.31,
+        "break_even_months": 62,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0289",
+        "sector": "Agriculture",
+        "initial_investment_inr": 762526,
+        "operational_cost_monthly": 92671,
+        "revenue_monthly": 173343,
+        "roi_percent": 126.95,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0290",
+        "sector": "Defense",
+        "initial_investment_inr": 1635204,
+        "operational_cost_monthly": 127117,
+        "revenue_monthly": 263903,
+        "roi_percent": 100.38,
+        "break_even_months": 11,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0291",
+        "sector": "Logistics",
+        "initial_investment_inr": 1376097,
+        "operational_cost_monthly": 118061,
+        "revenue_monthly": 233336,
+        "roi_percent": 100.52,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0292",
+        "sector": "Defense",
+        "initial_investment_inr": 1783504,
+        "operational_cost_monthly": 38463,
+        "revenue_monthly": 57645,
+        "roi_percent": 12.91,
+        "break_even_months": 92,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0293",
+        "sector": "Mining",
+        "initial_investment_inr": 1664052,
+        "operational_cost_monthly": 123153,
+        "revenue_monthly": 286321,
+        "roi_percent": 117.67,
+        "break_even_months": 10,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0294",
+        "sector": "Mining",
+        "initial_investment_inr": 572848,
+        "operational_cost_monthly": 108518,
+        "revenue_monthly": 221765,
+        "roi_percent": 237.23,
+        "break_even_months": 5,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0295",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1558436,
+        "operational_cost_monthly": 86656,
+        "revenue_monthly": 190095,
+        "roi_percent": 79.65,
+        "break_even_months": 15,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0296",
+        "sector": "Logistics",
+        "initial_investment_inr": 2091740,
+        "operational_cost_monthly": 128858,
+        "revenue_monthly": 192386,
+        "roi_percent": 36.45,
+        "break_even_months": 32,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0297",
+        "sector": "Logistics",
+        "initial_investment_inr": 1685972,
+        "operational_cost_monthly": 70105,
+        "revenue_monthly": 151714,
+        "roi_percent": 58.09,
+        "break_even_months": 20,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0298",
+        "sector": "Defense",
+        "initial_investment_inr": 1710551,
+        "operational_cost_monthly": 118420,
+        "revenue_monthly": 192778,
+        "roi_percent": 52.16,
+        "break_even_months": 23,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0299",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1519052,
+        "operational_cost_monthly": 38054,
+        "revenue_monthly": 62953,
+        "roi_percent": 19.67,
+        "break_even_months": 61,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0300",
+        "sector": "Healthcare",
+        "initial_investment_inr": 761210,
+        "operational_cost_monthly": 25934,
+        "revenue_monthly": 39617,
+        "roi_percent": 21.57,
+        "break_even_months": 55,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0301",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1213853,
+        "operational_cost_monthly": 61438,
+        "revenue_monthly": 92278,
+        "roi_percent": 30.49,
+        "break_even_months": 39,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0302",
+        "sector": "Surveillance",
+        "initial_investment_inr": 427162,
+        "operational_cost_monthly": 40661,
+        "revenue_monthly": 65900,
+        "roi_percent": 70.9,
+        "break_even_months": 16,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0303",
+        "sector": "Surveillance",
+        "initial_investment_inr": 900818,
+        "operational_cost_monthly": 91382,
+        "revenue_monthly": 153453,
+        "roi_percent": 82.69,
+        "break_even_months": 14,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0304",
+        "sector": "Healthcare",
+        "initial_investment_inr": 441725,
+        "operational_cost_monthly": 128768,
+        "revenue_monthly": 251986,
+        "roi_percent": 334.74,
+        "break_even_months": 3,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0305",
+        "sector": "Agriculture",
+        "initial_investment_inr": 519523,
+        "operational_cost_monthly": 100224,
+        "revenue_monthly": 143490,
+        "roi_percent": 99.94,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0306",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 960621,
+        "operational_cost_monthly": 62871,
+        "revenue_monthly": 139798,
+        "roi_percent": 96.1,
+        "break_even_months": 12,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0307",
+        "sector": "Mining",
+        "initial_investment_inr": 1528126,
+        "operational_cost_monthly": 83161,
+        "revenue_monthly": 119308,
+        "roi_percent": 28.39,
+        "break_even_months": 42,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0308",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 437778,
+        "operational_cost_monthly": 85017,
+        "revenue_monthly": 150305,
+        "roi_percent": 178.96,
+        "break_even_months": 6,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0309",
+        "sector": "Defense",
+        "initial_investment_inr": 1668926,
+        "operational_cost_monthly": 42185,
+        "revenue_monthly": 60911,
+        "roi_percent": 13.46,
+        "break_even_months": 89,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0310",
+        "sector": "Agriculture",
+        "initial_investment_inr": 994090,
+        "operational_cost_monthly": 122395,
+        "revenue_monthly": 284594,
+        "roi_percent": 195.8,
+        "break_even_months": 6,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0311",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1981690,
+        "operational_cost_monthly": 92315,
+        "revenue_monthly": 219224,
+        "roi_percent": 76.85,
+        "break_even_months": 15,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0312",
+        "sector": "Healthcare",
+        "initial_investment_inr": 520988,
+        "operational_cost_monthly": 48028,
+        "revenue_monthly": 102588,
+        "roi_percent": 125.67,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0313",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1120094,
+        "operational_cost_monthly": 113497,
+        "revenue_monthly": 223081,
+        "roi_percent": 117.4,
+        "break_even_months": 10,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0314",
+        "sector": "Defense",
+        "initial_investment_inr": 601482,
+        "operational_cost_monthly": 68649,
+        "revenue_monthly": 122757,
+        "roi_percent": 107.95,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0315",
+        "sector": "Healthcare",
+        "initial_investment_inr": 607103,
+        "operational_cost_monthly": 50033,
+        "revenue_monthly": 97686,
+        "roi_percent": 94.19,
+        "break_even_months": 12,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0316",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1565652,
+        "operational_cost_monthly": 112997,
+        "revenue_monthly": 189625,
+        "roi_percent": 58.73,
+        "break_even_months": 20,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0317",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1152416,
+        "operational_cost_monthly": 132371,
+        "revenue_monthly": 190291,
+        "roi_percent": 60.31,
+        "break_even_months": 19,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0318",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1522264,
+        "operational_cost_monthly": 28086,
+        "revenue_monthly": 34830,
+        "roi_percent": 5.32,
+        "break_even_months": 225,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0319",
+        "sector": "Defense",
+        "initial_investment_inr": 2097017,
+        "operational_cost_monthly": 133435,
+        "revenue_monthly": 164006,
+        "roi_percent": 17.49,
+        "break_even_months": 68,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0320",
+        "sector": "Agriculture",
+        "initial_investment_inr": 743719,
+        "operational_cost_monthly": 100318,
+        "revenue_monthly": 175839,
+        "roi_percent": 121.85,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0321",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2267933,
+        "operational_cost_monthly": 93539,
+        "revenue_monthly": 170239,
+        "roi_percent": 40.58,
+        "break_even_months": 29,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0322",
+        "sector": "Defense",
+        "initial_investment_inr": 1073105,
+        "operational_cost_monthly": 28426,
+        "revenue_monthly": 44874,
+        "roi_percent": 18.39,
+        "break_even_months": 65,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0323",
+        "sector": "Defense",
+        "initial_investment_inr": 546160,
+        "operational_cost_monthly": 104878,
+        "revenue_monthly": 183017,
+        "roi_percent": 171.68,
+        "break_even_months": 6,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0324",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1242759,
+        "operational_cost_monthly": 94658,
+        "revenue_monthly": 206254,
+        "roi_percent": 107.76,
+        "break_even_months": 11,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0325",
+        "sector": "Surveillance",
+        "initial_investment_inr": 516776,
+        "operational_cost_monthly": 55066,
+        "revenue_monthly": 119420,
+        "roi_percent": 149.44,
+        "break_even_months": 8,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0326",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1874336,
+        "operational_cost_monthly": 74448,
+        "revenue_monthly": 103884,
+        "roi_percent": 18.85,
+        "break_even_months": 63,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0327",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2414265,
+        "operational_cost_monthly": 66287,
+        "revenue_monthly": 97750,
+        "roi_percent": 15.64,
+        "break_even_months": 76,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0328",
+        "sector": "Defense",
+        "initial_investment_inr": 1509695,
+        "operational_cost_monthly": 95988,
+        "revenue_monthly": 130872,
+        "roi_percent": 27.73,
+        "break_even_months": 43,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0329",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1100652,
+        "operational_cost_monthly": 98412,
+        "revenue_monthly": 150801,
+        "roi_percent": 57.12,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0330",
+        "sector": "Surveillance",
+        "initial_investment_inr": 831336,
+        "operational_cost_monthly": 30328,
+        "revenue_monthly": 38799,
+        "roi_percent": 12.23,
+        "break_even_months": 98,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0331",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 517453,
+        "operational_cost_monthly": 103411,
+        "revenue_monthly": 185191,
+        "roi_percent": 189.65,
+        "break_even_months": 6,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0332",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2398409,
+        "operational_cost_monthly": 52070,
+        "revenue_monthly": 77802,
+        "roi_percent": 12.87,
+        "break_even_months": 93,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0333",
+        "sector": "Mining",
+        "initial_investment_inr": 569879,
+        "operational_cost_monthly": 71827,
+        "revenue_monthly": 169547,
+        "roi_percent": 205.77,
+        "break_even_months": 5,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0334",
+        "sector": "Defense",
+        "initial_investment_inr": 499835,
+        "operational_cost_monthly": 33836,
+        "revenue_monthly": 51888,
+        "roi_percent": 43.34,
+        "break_even_months": 27,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0335",
+        "sector": "Defense",
+        "initial_investment_inr": 639392,
+        "operational_cost_monthly": 71429,
+        "revenue_monthly": 124199,
+        "roi_percent": 99.04,
+        "break_even_months": 12,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0336",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2354987,
+        "operational_cost_monthly": 133667,
+        "revenue_monthly": 177713,
+        "roi_percent": 22.44,
+        "break_even_months": 53,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0337",
+        "sector": "Agriculture",
+        "initial_investment_inr": 741026,
+        "operational_cost_monthly": 111445,
+        "revenue_monthly": 233272,
+        "roi_percent": 197.28,
+        "break_even_months": 6,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0338",
+        "sector": "Mining",
+        "initial_investment_inr": 1146189,
+        "operational_cost_monthly": 68322,
+        "revenue_monthly": 158198,
+        "roi_percent": 94.1,
+        "break_even_months": 12,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0339",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 668000,
+        "operational_cost_monthly": 82673,
+        "revenue_monthly": 122402,
+        "roi_percent": 71.37,
+        "break_even_months": 16,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0340",
+        "sector": "Defense",
+        "initial_investment_inr": 2190683,
+        "operational_cost_monthly": 121002,
+        "revenue_monthly": 155517,
+        "roi_percent": 18.91,
+        "break_even_months": 63,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0341",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1407830,
+        "operational_cost_monthly": 26297,
+        "revenue_monthly": 42385,
+        "roi_percent": 13.71,
+        "break_even_months": 87,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0342",
+        "sector": "Mining",
+        "initial_investment_inr": 903904,
+        "operational_cost_monthly": 28038,
+        "revenue_monthly": 58832,
+        "roi_percent": 40.88,
+        "break_even_months": 29,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0343",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1730748,
+        "operational_cost_monthly": 89106,
+        "revenue_monthly": 142638,
+        "roi_percent": 37.12,
+        "break_even_months": 32,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0344",
+        "sector": "Agriculture",
+        "initial_investment_inr": 590892,
+        "operational_cost_monthly": 94394,
+        "revenue_monthly": 168514,
+        "roi_percent": 150.52,
+        "break_even_months": 7,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0345",
+        "sector": "Mining",
+        "initial_investment_inr": 1324417,
+        "operational_cost_monthly": 115314,
+        "revenue_monthly": 243420,
+        "roi_percent": 116.07,
+        "break_even_months": 10,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0346",
+        "sector": "Defense",
+        "initial_investment_inr": 1064514,
+        "operational_cost_monthly": 74045,
+        "revenue_monthly": 165093,
+        "roi_percent": 102.64,
+        "break_even_months": 11,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0347",
+        "sector": "Mining",
+        "initial_investment_inr": 1854234,
+        "operational_cost_monthly": 64061,
+        "revenue_monthly": 149301,
+        "roi_percent": 55.16,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0348",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1124560,
+        "operational_cost_monthly": 64586,
+        "revenue_monthly": 103528,
+        "roi_percent": 41.55,
+        "break_even_months": 28,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0349",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2146053,
+        "operational_cost_monthly": 54306,
+        "revenue_monthly": 79030,
+        "roi_percent": 13.82,
+        "break_even_months": 86,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0350",
+        "sector": "Logistics",
+        "initial_investment_inr": 2054676,
+        "operational_cost_monthly": 88868,
+        "revenue_monthly": 107016,
+        "roi_percent": 10.6,
+        "break_even_months": 113,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0351",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1852761,
+        "operational_cost_monthly": 55814,
+        "revenue_monthly": 114062,
+        "roi_percent": 37.73,
+        "break_even_months": 31,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0352",
+        "sector": "Logistics",
+        "initial_investment_inr": 2312447,
+        "operational_cost_monthly": 69044,
+        "revenue_monthly": 145490,
+        "roi_percent": 39.67,
+        "break_even_months": 30,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0353",
+        "sector": "Defense",
+        "initial_investment_inr": 785005,
+        "operational_cost_monthly": 124494,
+        "revenue_monthly": 189719,
+        "roi_percent": 99.71,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0354",
+        "sector": "Agriculture",
+        "initial_investment_inr": 798607,
+        "operational_cost_monthly": 118734,
+        "revenue_monthly": 210723,
+        "roi_percent": 138.22,
+        "break_even_months": 8,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0355",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 778880,
+        "operational_cost_monthly": 128136,
+        "revenue_monthly": 241345,
+        "roi_percent": 174.42,
+        "break_even_months": 6,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0356",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1064318,
+        "operational_cost_monthly": 34495,
+        "revenue_monthly": 47431,
+        "roi_percent": 14.59,
+        "break_even_months": 82,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0357",
+        "sector": "Defense",
+        "initial_investment_inr": 1492456,
+        "operational_cost_monthly": 89973,
+        "revenue_monthly": 181208,
+        "roi_percent": 73.36,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0358",
+        "sector": "Defense",
+        "initial_investment_inr": 1006785,
+        "operational_cost_monthly": 58229,
+        "revenue_monthly": 89397,
+        "roi_percent": 37.15,
+        "break_even_months": 32,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0359",
+        "sector": "Agriculture",
+        "initial_investment_inr": 930315,
+        "operational_cost_monthly": 82567,
+        "revenue_monthly": 142433,
+        "roi_percent": 77.22,
+        "break_even_months": 15,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0360",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1068589,
+        "operational_cost_monthly": 123577,
+        "revenue_monthly": 264055,
+        "roi_percent": 157.75,
+        "break_even_months": 7,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0361",
+        "sector": "Mining",
+        "initial_investment_inr": 2027868,
+        "operational_cost_monthly": 128060,
+        "revenue_monthly": 167740,
+        "roi_percent": 23.48,
+        "break_even_months": 51,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0362",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2015592,
+        "operational_cost_monthly": 112575,
+        "revenue_monthly": 172061,
+        "roi_percent": 35.42,
+        "break_even_months": 33,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0363",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2374066,
+        "operational_cost_monthly": 119940,
+        "revenue_monthly": 173721,
+        "roi_percent": 27.18,
+        "break_even_months": 44,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0364",
+        "sector": "Defense",
+        "initial_investment_inr": 1766469,
+        "operational_cost_monthly": 121794,
+        "revenue_monthly": 217221,
+        "roi_percent": 64.83,
+        "break_even_months": 18,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0365",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1242427,
+        "operational_cost_monthly": 78010,
+        "revenue_monthly": 110887,
+        "roi_percent": 31.75,
+        "break_even_months": 37,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0366",
+        "sector": "Defense",
+        "initial_investment_inr": 518460,
+        "operational_cost_monthly": 124390,
+        "revenue_monthly": 176697,
+        "roi_percent": 121.07,
+        "break_even_months": 9,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0367",
+        "sector": "Mining",
+        "initial_investment_inr": 549601,
+        "operational_cost_monthly": 28678,
+        "revenue_monthly": 51660,
+        "roi_percent": 50.18,
+        "break_even_months": 23,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0368",
+        "sector": "Mining",
+        "initial_investment_inr": 1434598,
+        "operational_cost_monthly": 43199,
+        "revenue_monthly": 97478,
+        "roi_percent": 45.4,
+        "break_even_months": 26,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0369",
+        "sector": "Defense",
+        "initial_investment_inr": 1490758,
+        "operational_cost_monthly": 79525,
+        "revenue_monthly": 145002,
+        "roi_percent": 52.71,
+        "break_even_months": 22,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0370",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1293101,
+        "operational_cost_monthly": 69763,
+        "revenue_monthly": 94506,
+        "roi_percent": 22.96,
+        "break_even_months": 52,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0371",
+        "sector": "Logistics",
+        "initial_investment_inr": 1422171,
+        "operational_cost_monthly": 105194,
+        "revenue_monthly": 215968,
+        "roi_percent": 93.47,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0372",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1151285,
+        "operational_cost_monthly": 122908,
+        "revenue_monthly": 239797,
+        "roi_percent": 121.83,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0373",
+        "sector": "Agriculture",
+        "initial_investment_inr": 937237,
+        "operational_cost_monthly": 56471,
+        "revenue_monthly": 110291,
+        "roi_percent": 68.91,
+        "break_even_months": 17,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0374",
+        "sector": "Logistics",
+        "initial_investment_inr": 591470,
+        "operational_cost_monthly": 101486,
+        "revenue_monthly": 170337,
+        "roi_percent": 139.69,
+        "break_even_months": 8,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0375",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1735680,
+        "operational_cost_monthly": 85587,
+        "revenue_monthly": 119020,
+        "roi_percent": 23.11,
+        "break_even_months": 51,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0376",
+        "sector": "Mining",
+        "initial_investment_inr": 1023751,
+        "operational_cost_monthly": 81238,
+        "revenue_monthly": 108037,
+        "roi_percent": 31.41,
+        "break_even_months": 38,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0377",
+        "sector": "Defense",
+        "initial_investment_inr": 1363665,
+        "operational_cost_monthly": 56259,
+        "revenue_monthly": 127999,
+        "roi_percent": 63.13,
+        "break_even_months": 19,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0378",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 639284,
+        "operational_cost_monthly": 37123,
+        "revenue_monthly": 47390,
+        "roi_percent": 19.27,
+        "break_even_months": 62,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0379",
+        "sector": "Defense",
+        "initial_investment_inr": 2174305,
+        "operational_cost_monthly": 133712,
+        "revenue_monthly": 261821,
+        "roi_percent": 70.7,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0380",
+        "sector": "Healthcare",
+        "initial_investment_inr": 839564,
+        "operational_cost_monthly": 29461,
+        "revenue_monthly": 61181,
+        "roi_percent": 45.34,
+        "break_even_months": 26,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0381",
+        "sector": "Logistics",
+        "initial_investment_inr": 981053,
+        "operational_cost_monthly": 52201,
+        "revenue_monthly": 121376,
+        "roi_percent": 84.61,
+        "break_even_months": 14,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0382",
+        "sector": "Defense",
+        "initial_investment_inr": 1632002,
+        "operational_cost_monthly": 122124,
+        "revenue_monthly": 250736,
+        "roi_percent": 94.57,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0383",
+        "sector": "Defense",
+        "initial_investment_inr": 416046,
+        "operational_cost_monthly": 77388,
+        "revenue_monthly": 161187,
+        "roi_percent": 241.7,
+        "break_even_months": 4,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0384",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2019702,
+        "operational_cost_monthly": 27204,
+        "revenue_monthly": 49240,
+        "roi_percent": 13.09,
+        "break_even_months": 91,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0385",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1709564,
+        "operational_cost_monthly": 74940,
+        "revenue_monthly": 142344,
+        "roi_percent": 47.31,
+        "break_even_months": 25,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0386",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1539791,
+        "operational_cost_monthly": 124034,
+        "revenue_monthly": 173335,
+        "roi_percent": 38.42,
+        "break_even_months": 31,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0387",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 895079,
+        "operational_cost_monthly": 139071,
+        "revenue_monthly": 325826,
+        "roi_percent": 250.38,
+        "break_even_months": 4,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0388",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1082811,
+        "operational_cost_monthly": 62190,
+        "revenue_monthly": 125891,
+        "roi_percent": 70.6,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0389",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 481493,
+        "operational_cost_monthly": 51004,
+        "revenue_monthly": 106466,
+        "roi_percent": 138.23,
+        "break_even_months": 8,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0390",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1467597,
+        "operational_cost_monthly": 30351,
+        "revenue_monthly": 66803,
+        "roi_percent": 29.81,
+        "break_even_months": 40,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0391",
+        "sector": "Logistics",
+        "initial_investment_inr": 1026855,
+        "operational_cost_monthly": 30467,
+        "revenue_monthly": 46243,
+        "roi_percent": 18.44,
+        "break_even_months": 65,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0392",
+        "sector": "Defense",
+        "initial_investment_inr": 424852,
+        "operational_cost_monthly": 116458,
+        "revenue_monthly": 252557,
+        "roi_percent": 384.41,
+        "break_even_months": 3,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0393",
+        "sector": "Logistics",
+        "initial_investment_inr": 804694,
+        "operational_cost_monthly": 75689,
+        "revenue_monthly": 122551,
+        "roi_percent": 69.88,
+        "break_even_months": 17,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0394",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1761497,
+        "operational_cost_monthly": 30785,
+        "revenue_monthly": 52747,
+        "roi_percent": 14.96,
+        "break_even_months": 80,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0395",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1687466,
+        "operational_cost_monthly": 35343,
+        "revenue_monthly": 79035,
+        "roi_percent": 31.07,
+        "break_even_months": 38,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0396",
+        "sector": "Defense",
+        "initial_investment_inr": 1448722,
+        "operational_cost_monthly": 34007,
+        "revenue_monthly": 76249,
+        "roi_percent": 34.99,
+        "break_even_months": 34,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0397",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1793042,
+        "operational_cost_monthly": 62146,
+        "revenue_monthly": 127594,
+        "roi_percent": 43.8,
+        "break_even_months": 27,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0398",
+        "sector": "Mining",
+        "initial_investment_inr": 2031476,
+        "operational_cost_monthly": 110040,
+        "revenue_monthly": 255721,
+        "roi_percent": 86.05,
+        "break_even_months": 13,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0399",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1764000,
+        "operational_cost_monthly": 119550,
+        "revenue_monthly": 157948,
+        "roi_percent": 26.12,
+        "break_even_months": 45,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0400",
+        "sector": "Agriculture",
+        "initial_investment_inr": 531585,
+        "operational_cost_monthly": 129662,
+        "revenue_monthly": 163143,
+        "roi_percent": 75.58,
+        "break_even_months": 15,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0401",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1614067,
+        "operational_cost_monthly": 115461,
+        "revenue_monthly": 275330,
+        "roi_percent": 118.86,
+        "break_even_months": 10,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0402",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1505572,
+        "operational_cost_monthly": 110489,
+        "revenue_monthly": 193699,
+        "roi_percent": 66.32,
+        "break_even_months": 18,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0403",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2333128,
+        "operational_cost_monthly": 95106,
+        "revenue_monthly": 142184,
+        "roi_percent": 24.21,
+        "break_even_months": 49,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0404",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2181135,
+        "operational_cost_monthly": 114391,
+        "revenue_monthly": 217329,
+        "roi_percent": 56.63,
+        "break_even_months": 21,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0405",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1942219,
+        "operational_cost_monthly": 27642,
+        "revenue_monthly": 37434,
+        "roi_percent": 6.05,
+        "break_even_months": 198,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0406",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1334682,
+        "operational_cost_monthly": 105261,
+        "revenue_monthly": 140249,
+        "roi_percent": 31.46,
+        "break_even_months": 38,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0407",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1187599,
+        "operational_cost_monthly": 27122,
+        "revenue_monthly": 61033,
+        "roi_percent": 34.27,
+        "break_even_months": 35,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0408",
+        "sector": "Agriculture",
+        "initial_investment_inr": 482648,
+        "operational_cost_monthly": 135358,
+        "revenue_monthly": 170091,
+        "roi_percent": 86.36,
+        "break_even_months": 13,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0409",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2054182,
+        "operational_cost_monthly": 126126,
+        "revenue_monthly": 194247,
+        "roi_percent": 39.79,
+        "break_even_months": 30,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0410",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1521469,
+        "operational_cost_monthly": 105854,
+        "revenue_monthly": 168182,
+        "roi_percent": 49.16,
+        "break_even_months": 24,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0411",
+        "sector": "Mining",
+        "initial_investment_inr": 1318813,
+        "operational_cost_monthly": 110665,
+        "revenue_monthly": 150080,
+        "roi_percent": 35.86,
+        "break_even_months": 33,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0412",
+        "sector": "Logistics",
+        "initial_investment_inr": 1211258,
+        "operational_cost_monthly": 84205,
+        "revenue_monthly": 184663,
+        "roi_percent": 99.52,
+        "break_even_months": 12,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0413",
+        "sector": "Healthcare",
+        "initial_investment_inr": 635820,
+        "operational_cost_monthly": 132361,
+        "revenue_monthly": 312644,
+        "roi_percent": 340.25,
+        "break_even_months": 3,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0414",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1692410,
+        "operational_cost_monthly": 70503,
+        "revenue_monthly": 157303,
+        "roi_percent": 61.55,
+        "break_even_months": 19,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0415",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2338954,
+        "operational_cost_monthly": 127784,
+        "revenue_monthly": 174605,
+        "roi_percent": 24.02,
+        "break_even_months": 49,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0416",
+        "sector": "Mining",
+        "initial_investment_inr": 2211143,
+        "operational_cost_monthly": 109634,
+        "revenue_monthly": 145681,
+        "roi_percent": 19.56,
+        "break_even_months": 61,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0417",
+        "sector": "Defense",
+        "initial_investment_inr": 627196,
+        "operational_cost_monthly": 138577,
+        "revenue_monthly": 326844,
+        "roi_percent": 360.21,
+        "break_even_months": 3,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0418",
+        "sector": "Logistics",
+        "initial_investment_inr": 1805231,
+        "operational_cost_monthly": 139756,
+        "revenue_monthly": 318345,
+        "roi_percent": 118.71,
+        "break_even_months": 10,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0419",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 2189569,
+        "operational_cost_monthly": 92351,
+        "revenue_monthly": 186477,
+        "roi_percent": 51.59,
+        "break_even_months": 23,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0420",
+        "sector": "Logistics",
+        "initial_investment_inr": 878088,
+        "operational_cost_monthly": 87288,
+        "revenue_monthly": 202387,
+        "roi_percent": 157.29,
+        "break_even_months": 7,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0421",
+        "sector": "Mining",
+        "initial_investment_inr": 2305044,
+        "operational_cost_monthly": 33677,
+        "revenue_monthly": 54064,
+        "roi_percent": 10.61,
+        "break_even_months": 113,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0422",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1413732,
+        "operational_cost_monthly": 78048,
+        "revenue_monthly": 115412,
+        "roi_percent": 31.72,
+        "break_even_months": 37,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0423",
+        "sector": "Mining",
+        "initial_investment_inr": 2083935,
+        "operational_cost_monthly": 64877,
+        "revenue_monthly": 77911,
+        "roi_percent": 7.51,
+        "break_even_months": 159,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0424",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1648781,
+        "operational_cost_monthly": 58011,
+        "revenue_monthly": 118540,
+        "roi_percent": 44.05,
+        "break_even_months": 27,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0425",
+        "sector": "Mining",
+        "initial_investment_inr": 535205,
+        "operational_cost_monthly": 35325,
+        "revenue_monthly": 47018,
+        "roi_percent": 26.22,
+        "break_even_months": 45,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0426",
+        "sector": "Logistics",
+        "initial_investment_inr": 1880287,
+        "operational_cost_monthly": 94035,
+        "revenue_monthly": 223597,
+        "roi_percent": 82.69,
+        "break_even_months": 14,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0427",
+        "sector": "Mining",
+        "initial_investment_inr": 1676199,
+        "operational_cost_monthly": 88542,
+        "revenue_monthly": 118730,
+        "roi_percent": 21.61,
+        "break_even_months": 55,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0428",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1270382,
+        "operational_cost_monthly": 37795,
+        "revenue_monthly": 87331,
+        "roi_percent": 46.79,
+        "break_even_months": 25,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0429",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1542190,
+        "operational_cost_monthly": 124989,
+        "revenue_monthly": 276618,
+        "roi_percent": 117.98,
+        "break_even_months": 10,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0430",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1549971,
+        "operational_cost_monthly": 84252,
+        "revenue_monthly": 187943,
+        "roi_percent": 80.28,
+        "break_even_months": 14,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0431",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1055547,
+        "operational_cost_monthly": 64106,
+        "revenue_monthly": 150463,
+        "roi_percent": 98.18,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0432",
+        "sector": "Healthcare",
+        "initial_investment_inr": 704517,
+        "operational_cost_monthly": 86561,
+        "revenue_monthly": 167423,
+        "roi_percent": 137.73,
+        "break_even_months": 8,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0433",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2206662,
+        "operational_cost_monthly": 137105,
+        "revenue_monthly": 264352,
+        "roi_percent": 69.2,
+        "break_even_months": 17,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0434",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1191049,
+        "operational_cost_monthly": 113491,
+        "revenue_monthly": 219325,
+        "roi_percent": 106.63,
+        "break_even_months": 11,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0435",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1678852,
+        "operational_cost_monthly": 97989,
+        "revenue_monthly": 234174,
+        "roi_percent": 97.34,
+        "break_even_months": 12,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0436",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2263968,
+        "operational_cost_monthly": 54333,
+        "revenue_monthly": 108068,
+        "roi_percent": 28.48,
+        "break_even_months": 42,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0437",
+        "sector": "Agriculture",
+        "initial_investment_inr": 686400,
+        "operational_cost_monthly": 110890,
+        "revenue_monthly": 188771,
+        "roi_percent": 136.16,
+        "break_even_months": 8,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0438",
+        "sector": "Mining",
+        "initial_investment_inr": 1317341,
+        "operational_cost_monthly": 49734,
+        "revenue_monthly": 108997,
+        "roi_percent": 53.98,
+        "break_even_months": 22,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0439",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 513938,
+        "operational_cost_monthly": 68715,
+        "revenue_monthly": 163010,
+        "roi_percent": 220.17,
+        "break_even_months": 5,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0440",
+        "sector": "Defense",
+        "initial_investment_inr": 1886252,
+        "operational_cost_monthly": 115375,
+        "revenue_monthly": 232964,
+        "roi_percent": 74.81,
+        "break_even_months": 16,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0441",
+        "sector": "Surveillance",
+        "initial_investment_inr": 828611,
+        "operational_cost_monthly": 99471,
+        "revenue_monthly": 225366,
+        "roi_percent": 182.32,
+        "break_even_months": 6,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0442",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1460775,
+        "operational_cost_monthly": 109669,
+        "revenue_monthly": 230836,
+        "roi_percent": 99.54,
+        "break_even_months": 12,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0443",
+        "sector": "Defense",
+        "initial_investment_inr": 1794702,
+        "operational_cost_monthly": 122325,
+        "revenue_monthly": 184319,
+        "roi_percent": 41.45,
+        "break_even_months": 28,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0444",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2092658,
+        "operational_cost_monthly": 60517,
+        "revenue_monthly": 95068,
+        "roi_percent": 19.81,
+        "break_even_months": 60,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0445",
+        "sector": "Logistics",
+        "initial_investment_inr": 691218,
+        "operational_cost_monthly": 91171,
+        "revenue_monthly": 142001,
+        "roi_percent": 88.24,
+        "break_even_months": 13,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0446",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1500041,
+        "operational_cost_monthly": 134186,
+        "revenue_monthly": 291397,
+        "roi_percent": 125.77,
+        "break_even_months": 9,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0447",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1812920,
+        "operational_cost_monthly": 42640,
+        "revenue_monthly": 71473,
+        "roi_percent": 19.09,
+        "break_even_months": 62,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0448",
+        "sector": "Defense",
+        "initial_investment_inr": 2091146,
+        "operational_cost_monthly": 104620,
+        "revenue_monthly": 132961,
+        "roi_percent": 16.26,
+        "break_even_months": 73,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0449",
+        "sector": "Healthcare",
+        "initial_investment_inr": 842333,
+        "operational_cost_monthly": 83263,
+        "revenue_monthly": 131695,
+        "roi_percent": 69.0,
+        "break_even_months": 17,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0450",
+        "sector": "Logistics",
+        "initial_investment_inr": 1342204,
+        "operational_cost_monthly": 101931,
+        "revenue_monthly": 202279,
+        "roi_percent": 89.72,
+        "break_even_months": 13,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0451",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2273972,
+        "operational_cost_monthly": 55894,
+        "revenue_monthly": 122667,
+        "roi_percent": 35.24,
+        "break_even_months": 34,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0452",
+        "sector": "Logistics",
+        "initial_investment_inr": 1638364,
+        "operational_cost_monthly": 134743,
+        "revenue_monthly": 234301,
+        "roi_percent": 72.92,
+        "break_even_months": 16,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0453",
+        "sector": "Logistics",
+        "initial_investment_inr": 1778673,
+        "operational_cost_monthly": 82457,
+        "revenue_monthly": 149906,
+        "roi_percent": 45.51,
+        "break_even_months": 26,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0454",
+        "sector": "Surveillance",
+        "initial_investment_inr": 970377,
+        "operational_cost_monthly": 63146,
+        "revenue_monthly": 80841,
+        "roi_percent": 21.88,
+        "break_even_months": 54,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0455",
+        "sector": "Logistics",
+        "initial_investment_inr": 845274,
+        "operational_cost_monthly": 63002,
+        "revenue_monthly": 80769,
+        "roi_percent": 25.22,
+        "break_even_months": 47,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0456",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1399652,
+        "operational_cost_monthly": 74135,
+        "revenue_monthly": 143092,
+        "roi_percent": 59.12,
+        "break_even_months": 20,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0457",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2478127,
+        "operational_cost_monthly": 59215,
+        "revenue_monthly": 126318,
+        "roi_percent": 32.49,
+        "break_even_months": 36,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0458",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1310822,
+        "operational_cost_monthly": 111010,
+        "revenue_monthly": 207769,
+        "roi_percent": 88.58,
+        "break_even_months": 13,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0459",
+        "sector": "Agriculture",
+        "initial_investment_inr": 509160,
+        "operational_cost_monthly": 74575,
+        "revenue_monthly": 152598,
+        "roi_percent": 183.89,
+        "break_even_months": 6,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0460",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 1821560,
+        "operational_cost_monthly": 107445,
+        "revenue_monthly": 193997,
+        "roi_percent": 57.02,
+        "break_even_months": 21,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0461",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 1495220,
+        "operational_cost_monthly": 76878,
+        "revenue_monthly": 133086,
+        "roi_percent": 45.11,
+        "break_even_months": 26,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0462",
+        "sector": "Defense",
+        "initial_investment_inr": 612592,
+        "operational_cost_monthly": 136746,
+        "revenue_monthly": 203405,
+        "roi_percent": 130.58,
+        "break_even_months": 9,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0463",
+        "sector": "Logistics",
+        "initial_investment_inr": 1025054,
+        "operational_cost_monthly": 110891,
+        "revenue_monthly": 196094,
+        "roi_percent": 99.74,
+        "break_even_months": 12,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0464",
+        "sector": "Agriculture",
+        "initial_investment_inr": 855046,
+        "operational_cost_monthly": 51830,
+        "revenue_monthly": 87622,
+        "roi_percent": 50.23,
+        "break_even_months": 23,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0465",
+        "sector": "Surveillance",
+        "initial_investment_inr": 915906,
+        "operational_cost_monthly": 99654,
+        "revenue_monthly": 164388,
+        "roi_percent": 84.81,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0466",
+        "sector": "Agriculture",
+        "initial_investment_inr": 850309,
+        "operational_cost_monthly": 61210,
+        "revenue_monthly": 99804,
+        "roi_percent": 54.47,
+        "break_even_months": 22,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0467",
+        "sector": "Mining",
+        "initial_investment_inr": 1209605,
+        "operational_cost_monthly": 40276,
+        "revenue_monthly": 89686,
+        "roi_percent": 49.02,
+        "break_even_months": 24,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0468",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2360038,
+        "operational_cost_monthly": 96389,
+        "revenue_monthly": 208670,
+        "roi_percent": 57.09,
+        "break_even_months": 21,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0469",
+        "sector": "Mining",
+        "initial_investment_inr": 1437424,
+        "operational_cost_monthly": 50158,
+        "revenue_monthly": 109795,
+        "roi_percent": 49.79,
+        "break_even_months": 24,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0470",
+        "sector": "Agriculture",
+        "initial_investment_inr": 808196,
+        "operational_cost_monthly": 105538,
+        "revenue_monthly": 128107,
+        "roi_percent": 33.51,
+        "break_even_months": 35,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0471",
+        "sector": "Disaster Management",
+        "initial_investment_inr": 2469623,
+        "operational_cost_monthly": 116187,
+        "revenue_monthly": 162746,
+        "roi_percent": 22.62,
+        "break_even_months": 53,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0472",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1748335,
+        "operational_cost_monthly": 70863,
+        "revenue_monthly": 132799,
+        "roi_percent": 42.51,
+        "break_even_months": 28,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0473",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 498535,
+        "operational_cost_monthly": 110323,
+        "revenue_monthly": 217647,
+        "roi_percent": 258.33,
+        "break_even_months": 4,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0474",
+        "sector": "Infrastructure",
+        "initial_investment_inr": 2005227,
+        "operational_cost_monthly": 48054,
+        "revenue_monthly": 88139,
+        "roi_percent": 23.99,
+        "break_even_months": 50,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0475",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1901559,
+        "operational_cost_monthly": 74738,
+        "revenue_monthly": 113241,
+        "roi_percent": 24.3,
+        "break_even_months": 49,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0476",
+        "sector": "Healthcare",
+        "initial_investment_inr": 1407501,
+        "operational_cost_monthly": 41256,
+        "revenue_monthly": 68668,
+        "roi_percent": 23.37,
+        "break_even_months": 51,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0477",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1468064,
+        "operational_cost_monthly": 56359,
+        "revenue_monthly": 106446,
+        "roi_percent": 40.94,
+        "break_even_months": 29,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0478",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1647516,
+        "operational_cost_monthly": 73595,
+        "revenue_monthly": 117754,
+        "roi_percent": 32.16,
+        "break_even_months": 37,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0479",
+        "sector": "Defense",
+        "initial_investment_inr": 843257,
+        "operational_cost_monthly": 94295,
+        "revenue_monthly": 184531,
+        "roi_percent": 128.41,
+        "break_even_months": 9,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0480",
+        "sector": "Agriculture",
+        "initial_investment_inr": 485952,
+        "operational_cost_monthly": 40307,
+        "revenue_monthly": 96581,
+        "roi_percent": 138.96,
+        "break_even_months": 8,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0481",
+        "sector": "Agriculture",
+        "initial_investment_inr": 2023567,
+        "operational_cost_monthly": 117702,
+        "revenue_monthly": 177746,
+        "roi_percent": 35.61,
+        "break_even_months": 33,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0482",
+        "sector": "Mining",
+        "initial_investment_inr": 1079554,
+        "operational_cost_monthly": 119130,
+        "revenue_monthly": 282870,
+        "roi_percent": 182.01,
+        "break_even_months": 6,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0483",
+        "sector": "Mining",
+        "initial_investment_inr": 2094879,
+        "operational_cost_monthly": 135623,
+        "revenue_monthly": 301171,
+        "roi_percent": 94.83,
+        "break_even_months": 12,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0484",
+        "sector": "Logistics",
+        "initial_investment_inr": 1253662,
+        "operational_cost_monthly": 56552,
+        "revenue_monthly": 95882,
+        "roi_percent": 37.65,
+        "break_even_months": 31,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0485",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1821339,
+        "operational_cost_monthly": 40387,
+        "revenue_monthly": 82987,
+        "roi_percent": 28.07,
+        "break_even_months": 42,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0486",
+        "sector": "Surveillance",
+        "initial_investment_inr": 1185954,
+        "operational_cost_monthly": 30832,
+        "revenue_monthly": 58122,
+        "roi_percent": 27.61,
+        "break_even_months": 43,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0487",
+        "sector": "Defense",
+        "initial_investment_inr": 1106612,
+        "operational_cost_monthly": 126189,
+        "revenue_monthly": 292979,
+        "roi_percent": 180.87,
+        "break_even_months": 6,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0488",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 528925,
+        "operational_cost_monthly": 58170,
+        "revenue_monthly": 115748,
+        "roi_percent": 130.63,
+        "break_even_months": 9,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0489",
+        "sector": "Defense",
+        "initial_investment_inr": 1917343,
+        "operational_cost_monthly": 27232,
+        "revenue_monthly": 61888,
+        "roi_percent": 21.69,
+        "break_even_months": 55,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0490",
+        "sector": "Surveillance",
+        "initial_investment_inr": 2176273,
+        "operational_cost_monthly": 75761,
+        "revenue_monthly": 137431,
+        "roi_percent": 34.0,
+        "break_even_months": 35,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0491",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 580466,
+        "operational_cost_monthly": 35117,
+        "revenue_monthly": 76395,
+        "roi_percent": 85.33,
+        "break_even_months": 14,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0492",
+        "sector": "Healthcare",
+        "initial_investment_inr": 2391330,
+        "operational_cost_monthly": 73863,
+        "revenue_monthly": 152865,
+        "roi_percent": 39.64,
+        "break_even_months": 30,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0493",
+        "sector": "Mining",
+        "initial_investment_inr": 542056,
+        "operational_cost_monthly": 43793,
+        "revenue_monthly": 66675,
+        "roi_percent": 50.66,
+        "break_even_months": 23,
+        "risk_level": "Low"
+    },
+    {
+        "scenario_id": "ROI_SYN_0494",
+        "sector": "Agriculture",
+        "initial_investment_inr": 751187,
+        "operational_cost_monthly": 27540,
+        "revenue_monthly": 53832,
+        "roi_percent": 42.0,
+        "break_even_months": 28,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0495",
+        "sector": "Oil & Gas",
+        "initial_investment_inr": 1014478,
+        "operational_cost_monthly": 81230,
+        "revenue_monthly": 126582,
+        "roi_percent": 53.65,
+        "break_even_months": 22,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0496",
+        "sector": "Logistics",
+        "initial_investment_inr": 1209022,
+        "operational_cost_monthly": 60906,
+        "revenue_monthly": 145707,
+        "roi_percent": 84.17,
+        "break_even_months": 14,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0497",
+        "sector": "Defense",
+        "initial_investment_inr": 1559877,
+        "operational_cost_monthly": 30336,
+        "revenue_monthly": 53720,
+        "roi_percent": 17.99,
+        "break_even_months": 66,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0498",
+        "sector": "Logistics",
+        "initial_investment_inr": 1022638,
+        "operational_cost_monthly": 45109,
+        "revenue_monthly": 103535,
+        "roi_percent": 68.56,
+        "break_even_months": 17,
+        "risk_level": "High"
+    },
+    {
+        "scenario_id": "ROI_SYN_0499",
+        "sector": "Agriculture",
+        "initial_investment_inr": 1340608,
+        "operational_cost_monthly": 134887,
+        "revenue_monthly": 185331,
+        "roi_percent": 45.15,
+        "break_even_months": 26,
+        "risk_level": "Medium"
+    },
+    {
+        "scenario_id": "ROI_SYN_0500",
+        "sector": "Defense",
+        "initial_investment_inr": 2402258,
+        "operational_cost_monthly": 34028,
+        "revenue_monthly": 53224,
+        "roi_percent": 9.59,
+        "break_even_months": 125,
+        "risk_level": "Medium"
+    }
+]

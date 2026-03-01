@@ -1,0 +1,306 @@
+Even before the pandemic, at Airworks 2019, DJI announced that drones saved the lives of 279 people around the world. The number probably represents a small fraction of documented cases where drones were used as a means for public safety. For example, during the lockdown that followed after the onset of COVID-19, drones helped Indian authorities to contain the spread of the virus by monitoring the streets for unlawful gathering. Read the full case study.
+
+
+dronelab COVID monitoring
+‍
+
+‍
+
+We have just scratched the surface when it comes to commercial drone usage - drones have tremendous potential in disaster management alone.
+
+{{pdf-form}}
+
+In a report from the United Nations, it has been stated that 1.2 million lives were lost, 1.7 trillion dollars of damage was done and 2.9 billion people were affected due to global disasters that occurred between 2002 and 2012. With economic and human losses of this magnitude, every new technology that promises to save lives has a huge potential, including drone technology.
+
+‍
+
+How are drones used in disaster response
+There are several pre-existing protocols that are supposed to be followed during disaster response. Most of them have been successful so far, but they create their own set of challenges. The main one is the response time, which is of great importance during disaster management. The second one is logistical support.
+
+‍
+
+For example, in 2015, an earthquake of magnitude 7.8 devastated the Kathmandu region of Nepal, which claimed the lives of 9000 people. All means of transportation were destroyed which drastically affected the disaster response and relief work. Many people, trapped under the rubble, lost their lives since help didn’t reach them on time.
+
+‍
+
+‍
+
+drone disaster monitoring
+‍
+
+When the Nepali government appealed for assistance to the international community, help arrived in the form of medical support, food, and relief equipment. Several international agencies came and deployed drones to help better assess the situation and to aid the search and rescue process.
+
+‍
+
+Another case study in 2022 conducted by the Tennessee Department of Transportation (TDOT) Research Division highlights the promising potential of drone technology in emergency response operations. The study investigated the application of Unmanned Aerial Systems (UAS) across four key areas: traffic incident management, natural disaster response, hazardous material incident response, and search and rescue operations.
+
+‍
+
+Drones help improve the response time, since they can be deployed much faster, as compared to traditional vehicles like a helicopter. Vertical Takeoff and Landing (VTOL) drones can cover large distances and assess the situation in an event where all transportation routes have been destroyed or made inaccessible.
+
+‍
+
+Benefits of using drones in disaster relief
+The process of disaster management can be broken down into the following stages:
+
+Prevention
+Preparation
+Response
+Recovery
+Using drones for disaster response can add value to all of the above-mentioned stages according to a study from Zurich North America. The study highlights the correlation between a short response during the early phase of disaster recovery with increased success in search and rescue operations.
+
+‍
+
+To better appreciate the benefits of using drones, consider the following:
+
+Drones can ensure the safety of people. During the Fukushima Daiichi nuclear disaster 2011, drones were used to survey the extent of the disaster without risking the lives of the relief workers.
+Drones are quite effective as first responders since they can be deployed fast and easily, as compared to manned aerial vehicles.
+Drones are relatively inexpensive, and with the help of a drone fleet management system, can be deployed in large numbers as autonomous fleets.
+‍
+
+Popular Drones Used During Disaster Management
+Disaster relief drones are becoming increasingly essential for emergency response operations. These unmanned aerial systems (UAS) offer a range of benefits that make them invaluable in disaster situations. Here are some notable drones that are making a significant impact in disaster relief:
+‍
+
+DJI Phantom 4 RTK: Renowned for its high-resolution imaging capabilities, the DJI Phantom 4 RTK is perfect for mapping and surveying disaster-stricken areas. Its real-time kinematic (RTK) technology ensures greater positional accuracy.
+‍
+Parrot Anafi USA: Developed with emergency responders in mind, the Parrot Anafi USA features a 32x zoom camera and a FLIR thermal sensor. This combination allows for visible and thermal imaging, which is particularly helpful for search and rescue efforts and damage assessment.
+‍
+DJI Matrice 300 RTK: This industrial-strength drone has an impressive flight time of up to 55 minutes and can carry multiple payloads, such as high-resolution cameras, thermal sensors, and LiDAR sensors. Its capabilities make it an excellent choice for surveying large disaster-affected areas and providing situational awareness.
+‍
+SenseFly eBee X: A fixed-wing drone designed for long-range flights and high-resolution aerial mapping, the eBee X can quickly cover vast areas. Its speed and efficiency make it well-suited for damage assessment after natural disasters and search and rescue missions.
+‍
+Aeryon SkyRanger R70: This adaptable drone can be equipped with various payloads, including high-definition video, thermal imaging, and zoom cameras. With a 50-minute flight time and a durable design, the SkyRanger R70 can tackle a wide range of disaster response scenarios.
+‍
+
+Drone Applications for Supporting Disaster Response
+Drones are a versatile tool, to be used in various ways, as a critical aid in disaster response.
+
+‍
+
+‍
+
+drones for disaster response
+‍
+
+Drones have long been in use for aerial mapping and surveys. The same application can be easily extended to disaster response. For example, drones were used during the landslide of Oso, Washington in 2014 to map the region after the incident.
+‍
+
+It often happens during an earthquake that a partially damaged building or a civic structure requires a thorough inspection before it can be deemed safe for humans to go there. Drones equipped with sensors like infrared (IR) cameras can do the job safely.
+‍
+
+Drones can be used for medical delivery. A US-based company called Matternet did its first field trial of medical delivery using drones to camps set up after the 2010 Haiti earthquake.
+‍
+
+Drones can be used for search and rescue operations. In 2005, fixed-wing drones were used to search for survivors after the devastation of Hurricane Katrina in Mississippi.
+
+How FlytBase Enables Drones for Disaster Relief
+Drones are not just a piece of hardware; they are usually paired with intelligent software to make them truly effective. In a disaster situation of a large magnitude, having multiple drones can be advantageous, but managing a swarm of drones is not easy. FlytBase, with its cloud-based software solution, solves the problem of simultaneously controlling and managing a large number of drones.
+‍
+
+In brief, FlytBase works as a cloud application that provides a unified dashboard to manage drones connected to the system.
+
+‍
+
+When a request comes for deploying a drone, an emergency response operator can use the advanced mission planner to create a flight path for the drone and initiate the launch. Once in the air, the drone flies with full autonomy as per the mission plan. Below is an illustration of how a drone public safety operation might operate:
+
+‍
+
+‍
+
+‍
+
+drones for public safety
+‍
+
+FlytBase is available in two versions, FlytBase Business and Enterprise; the latter offers a host of customization options.
+
+‍
+
+FlytBase Business
+‍
+
+This is a standard offering that provides usability out of the box. The offering comes with features specifically designed for disaster response and public safety operations. Here are some of those features and how they benefit disaster relief operations:
+
+‍
+
+The ability to control drones over 4G/LTE/5G networks. By combining this feature with VTOL drones, a disaster response team can fly drones for long distances, and conduct surveys and mapping of an affected area.
+‍
+Role-based access to the system. Disaster response teams are multi-faceted and not all require the same level of access to the drones. A relief worker on the ground might require only video access compared to someone who is required to assess the entire situation for planning logistics.
+‍
+A mixed fleet of drones. FlytBase is a hardware-agnostic platform i.e. it supports both off-the-shelf and custom drones based on PX4 and Ardupilot. In a disaster situation, different types of drones might be required. For example, delivery drones are heavy and can carry large packages. Whereas, drones meant for surveys are smaller in size and may even have fixed wings for long-distance flight.
+‍
+Live video streaming and sharing. Video feeds from a swarm of drones flying over a disaster-affected area can be streamed onto a single unified dashboard, which is ideal for command center operations.
+‍
+FlytBase Enterprise
+‍
+
+The Enterprise version includes FlytBase Business as well as customization and add-ons, for operations that need scalability and a high degree of automation. This edition includes an operating system, which is installed on a single-board computer (SBC) - the SBC is then attached to the flight controller of a drone. This configuration allows for add-ons and integration, some of them are as follows:
+
+‍
+
+AI-based features:
+
+‍
+
+drone traffic monitoring
+‍
+
+Obstacle avoidance, also known as FlytCAS, allows a drone to fly over a complex environment. This feature is useful when a drone is flying over or near ruins which can throw unexpected obstacles.
+‍
+Precision landing, also known as FlytDock, allows a drone to land precisely on a machine-generated visual tag. This feature can be used when a drone has to land on a specific location to make a delivery.
+‍
+Object detection, also known as FlytAI, allows a drone to detect objects from its video feed. This feature can be used to detect moving objects or humans on the ground during a search and resume operation.
+‍
+
+drone AI
+‍
+
+Support for third-party integrations: The FlytBase application supports integration with third-party applications. During a disaster scenario, it is important to accurately log the drone flights and to make sure the drones don’t interfere with other aircraft. There are service providers like DronelogBook for flight data recording and Airdata for airspace intelligence, which can be integrated with FlytBase easily.
+
+‍
+
+Advanced geofence: For the safety of the drones and compliance with airspace norms, it is necessary to restrict the area of operation during any relief work. FlytBase supports polygon geofences for operators to work on complex geography.
+
+‍
+
+Integration with ground-based hardware: FlytBase has native support for ground-based hardware like charging pads and Drone-in-a-Box systems. By using such hardware, a first-responder system can be set up where the launch and docking of a drone are fully automated. When disaster strikes, such systems can be activated for faster response and expedite the overall relief process.
+
+‍
+
+Some Instances of FlytBase in Use
+‍
+
+During the recent lockdown for COVID-19, India's first drone command center was established in Ahmedabad, by Dronelab, using FlytBase, which allowed local drone pilots to launch coordinated operations to monitor the streets for unlawful gathering.
+
+‍
+
+One of our partners in Belgium, DR ONE, is using FlytBase for airport asset monitoring.
+
+History was created in the city of Lillestrøm, Norway, when Droneverkstedet, one of our partners, conducted the very first remote drone construction site inspection using FlytBase over a 5G network.
+
+‍
+
+Summary
+In this blog, we discussed the usability of drones in disaster response and the problems they help solve. Then we reviewed the benefits of using drones for use cases in disaster situations. Finally, we ended on the note of how the FlytBase drone fleet management system enables disaster management teams to quickly deploy and manage drones for disaster relief. Leverage the power of FlytBase to conduct remote public safety operations with capabilities of automation and AI.
+
+A DST institute, NECTAR showcases Innovative Aerostatic Drone for Enhanced Surveillance and Disaster Management
+Forest surveillance, wildlife monitoring, border and disaster surveillance in the North East, may soon be much easier -- thanks to the Aerostatic Drone developed with support from North East Centre for Technology Application and Reach (NECTAR).
+
+NECTAR, an autonomous body under Department of Science and Technology, Government of India organized a live demonstration of the technology developed by Airbotix Technologies, Gurgaon.
+
+It is the first of its kind in India, designed with high endurance and aero-statically stable capabilities to deploy for forest surveillance, wildlife monitoring, border and disaster surveillance application. Aerostatic drones are aerial platforms that derive their lift from both buoyancy and aerodynamics.
+
+This makes them very energy efficient making them a better alternative for tethered drones. Aerostatic drones are silent as they do not require constant thrust to stay afloat, making them cost-effective and versatile solution for providing persistent surveillance. 
+
+The aerostatic drone provides a silent aerial platform that can persistently stay afloat for surveillance with an endurance of over 4 hours. The system is designed to be modular and could be integrated with any ground vehicle or can be installed at any site. The drone can be utilized for a variety of use cases such as wildlife monitoring, forest surveillance, crowd monitoring, border security and disaster surveillance to name a few.
+
+The flexibility to equip the drone with both day and night camera as well as any other payload such as telecommunication relay and anti-drone payload. The Day and Night Vision Camera cameras further enhances its utility, especially in tracking monitoring forests for illegal activities such as poaching, smuggling and logging, as well as by providing support for security operations along borders.
+
+Participants from various organizations interacted with Airbotix Technologyy about the drone's technical capabilities. The Drone has features related to surveillance using thermal imaging and detection capabilities. 
+
+Officials from the CRPF showing a keen interest in how the drone could enhance their operations, particularly in border surveillance and security in challenging terrains. The ability of the drone to operate in both daylight and low-visibility conditions using thermal cameras could be a significant asset for security personnel.
+
+Aerostatic Drone
+
+Fig: Aerostatic Drone for Enhanced Surveillance and Disaster Management
+
+The drones could play a crucial role in monitoring forest health and wildlife populations, enabling conservationists to track animal movements and assess habitat conditions without disturbing the ecosystem as they are silent. In military and security contexts, aerostatic drones are employed for ISR missions, providing real-time data and situational awareness, which enhances strategic planning and operational effectiveness. Furthermore, as they have very little metal components, they are practically invisible to the RADAR.
+
+Aerostatic drones can serve as temporary communication relays in remote areas or during emergencies, ensuring connectivity where traditional infrastructure may be lacking or compromised. Aerostatic drones can also be integrated into systems designed to detect unauthorized drone activity, enhancing security measures at sensitive locations such as airports and military bases.
+
+During public events, these drones could assist law enforcement by monitoring crowd behavior, helping to ensure safety and manage potential disturbances effectively. Moreover, they can be utilized to monitor traffic conditions in urban areas, providing valuable data for traffic management systems and aiding in the reduction of congestion through real-time information dissemination.
+
+The officials from Brahmaputra Board expressed their keenness to use the aerostatic drone for disaster management and for monitoring civil construction such as roads.
+
+The Aerostatic Drone is expected to be a game-changer in its field, with its versatility and high-performance features setting a new standard for unmanned aerial vehicle technology in India.
+
+Flying Guardians- UAVs for Disaster Management! 
+ 
+
+Ever thought of utilizing drones for disaster response or relief operations? Disaster, whether natural or anthropogenic, can strike at any time and have devastating consequences on human lives and infrastructure. In such critical situations, time is of the essence, and rapid response is crucial. UAVs or Drones for disaster management pave a smarter way to approach such uncertainty.  
+
+ 
+
+It’s not a secret today that drones can cater to myriads of applications— from playful companions for your hobbies to agents in confidential cross-border missions; drones are versatile. Drones for surveillance can be deployed for crime scene surveillance, border security, coastal surveillance, forest management, and more. Yet, they don't stop there– further applications of drones may include drones for mapping, agriculture, mining, and surveying. But how about drone applications for supporting disaster management?
+
+ 
+
+Use Drone for Disaster Emergency Management
+ 
+
+Disaster brings havoc! Amid such chaos and urgency during a calamity, UAVs- Unmanned Aerial Vehicles can be used for search and rescue, delivering essentials, or even mapping disaster zones. These versatile tools can be utilized in various stages of disaster response to enhance efficiency, safety, and effectiveness.  
+
+ 
+
+In simpler terms, drones emerge as more than just gadgets; they become beacons of hope, utilizing their capabilities to alleviate suffering, enhance preparedness, and contribute to the safety and well-being of communities in times of utmost need.
+
+ 
+
+What are the benefits of using drones in disaster management?
+ 
+
+Rapid and comprehensive aerial assessment of disaster-affected areas.
+Enhanced safety for responders by accessing hazardous zones remotely.
+Increased efficiency in search and rescue operations.
+Quick and targeted delivery of essential supplies to inaccessible locations.
+Real-time data collection for informed decision-making and resource allocation.
+Read more About:- Drones Transforming Disaster Management
+
+ 
+
+How can drones be used in emergency response?
+ 
+
+The simple answer to this is— drones can be used to get precise details to better prepare and faster recovery during a disaster. A staggering report highlights the grim toll: 1.2 million lives lost, $1.7 trillion in damages, and a staggering 2.9 billion people affected by global disasters from 2002 to 2012. These figures paint a gruesome reality!  
+
+ 
+
+In the aftermath of a disaster, it calls for a lot of inconveniences and challenges at the same time. Communication breakdowns, disrupted transportation, widespread damage – these hurdles impede crucial humanitarian aid. And in these challenges, drones come to the rescue. When disaster strikes, drones soar to the rescue, bridging gaps and surmounting obstacles. Armed with innovation and technology, their swift aerial capabilities transcend the barriers once hindered for various reasons.  
+
+ 
+
+In the wake of a calamity, here's a quick checklist of applications of drones during disaster management—
+
+ 
+
+Search and rescue operations
+Drones play a crucial role in locating and rescuing survivors in hard-to-reach or hazardous areas. But how? Thermal imaging cameras on UAVs can detect body heat, helping identify individuals who might be trapped or in need of assistance. UAVs can rapidly cover large areas, assisting human search and rescue teams in locating survivors faster.
+ 
+Mapping disaster-affected sites
+Drones equipped with advanced sensors and cameras can create detailed 3D maps and models of disaster-affected regions. These maps aid in understanding the topography, identifying areas at risk of further damage, and planning reconstruction efforts.
+ 
+Supply and aid delivery
+Drones can transport essential supplies such as medical equipment, food, water, and communication devices to areas that are difficult to access due to damaged infrastructure or unsafe conditions. This capability ensures that life-saving resources reach affected populations promptly, reducing the time it takes to deliver aid.
+ 
+Initial assessment and damage evaluation
+UAVs equipped with high-resolution cameras and sensors can quickly survey disaster-stricken areas and provide real-time imagery to assess the extent of damage. This information helps emergency responders prioritize their actions, allocate resources, and develop effective strategies for rescue and relief efforts.
+ 
+Real-time environmental monitoring
+Drones can provide real-time data on flood patterns, water levels, and potential breaches in levees or dams. This information is crucial for predicting and mitigating the impact of flooding and other natural disasters.
+ 
+
+Read More About:- Drone-as-a-Service for Disaster Management
+
+ 
+
+Rewind 2018: ideaForge Drones in action during Karnataka floods!
+ 
+
+In August 2018, torrential rains unleashed havoc, triggering floods and harrowing landslides in Karnataka state in Southern India. Amid the chaos, one area stood as a focal point of devastation- the Kodagu district, nestled at the foothills of the Western Ghats. The calamity had blocked highways, stranding countless souls in remote pockets awaiting rescue operations.  
+
+ 
+
+ideaForge, the pioneer in the Indian unmanned aircraft systems market, is a drone manufacturing company that joined hands with the local government authorities to provide support in this dire moment. ideaforge deployed a team of dedicated UAV pilots and their flagship professional UAV system NETRA PRO & NETRA Q2. Across Madikeri, Coorg, and Mangalore, the drones embarked on mapping critical areas with precision. The mapping was carried out at an average altitude of 100m due to intense fog cover and at a resolution range between <1cm to 2.7cm.  
+
+ 
+
+The post-disaster imagery was processed to generate an in-depth 3D surface model, and an orthomosaic map was created that narrated tales of destruction caused by floods & landslides. Swift as the wind, the complete analysis report was then submitted to the District Collector within a day.
+
+ 
+
+As technology intertwines with compassion, drones change from mere machines into wings of resilience during disasters. Their contributions to search and rescue, mapping, supply delivery, damage assessment, and environmental monitoring highlight their profound impact on disaster management. ideaForge UAVs like NETRA V4 PRO come with a colossal operational range of up to 15 km and an impressive endurance of 90 minutes. You can connect with the ideaForge team to explore more about ideaForge UAVs tailored to your unique needs.  
+
+ 
+
+Having second thoughts about deploying drones for disaster management? Remember, these aerial guardians stand ready to soar into action, bridging gaps, overcoming obstacles, and instilling hope in the darkest hours!

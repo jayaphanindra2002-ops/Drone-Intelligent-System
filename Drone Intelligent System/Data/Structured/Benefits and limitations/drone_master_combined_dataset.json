@@ -1,0 +1,118 @@
+{
+    "regulations": [
+        {
+            "category": "Drone Rules 2021",
+            "focus": "Liberalized drone operations, Digital Sky, NPNT compliance"
+        },
+        {
+            "category": "Airspace Management",
+            "focus": "Counter-drone measures, DASMC, air defense coordination"
+        },
+        {
+            "category": "State Policies",
+            "focus": "AP Drone Policy incentives and manufacturing ecosystem"
+        },
+        {
+            "category": "Import & Certification",
+            "focus": "Import restrictions, pilot certification, DGCA compliance"
+        }
+    ],
+    "use_cases": [
+        {
+            "sector": "Agriculture",
+            "applications": [
+                "Precision spraying",
+                "NDVI crop monitoring",
+                "Weed detection"
+            ]
+        },
+        {
+            "sector": "Logistics",
+            "applications": [
+                "Mountain delivery",
+                "Last-mile healthcare supply",
+                "E-commerce transport"
+            ]
+        },
+        {
+            "sector": "Surveillance",
+            "applications": [
+                "Critical infrastructure protection",
+                "Border monitoring",
+                "Security patrol"
+            ]
+        },
+        {
+            "sector": "Disaster Management",
+            "applications": [
+                "Search and rescue",
+                "Damage assessment",
+                "Emergency supply drop"
+            ]
+        },
+        {
+            "sector": "Infrastructure",
+            "applications": [
+                "Bridge inspection",
+                "Powerline monitoring",
+                "Mining survey"
+            ]
+        }
+    ],
+    "business_scope": [
+        {
+            "area": "Indian Drone Market",
+            "insight": "Rapid growth driven by PLI schemes and policy liberalization"
+        },
+        {
+            "area": "Defense & Military",
+            "insight": "High investment, surveillance and combat applications"
+        },
+        {
+            "area": "AI + Blockchain Integration",
+            "insight": "Emerging smart autonomous ecosystem"
+        },
+        {
+            "area": "Startup Ecosystem",
+            "insight": "Growing funding and regional innovation hubs"
+        }
+    ],
+    "benefits": [
+        "Increased efficiency and faster coverage",
+        "Cost-effective operations compared to traditional systems",
+        "Improved safety in hazardous environments",
+        "Environmental sustainability and reduced emissions"
+    ],
+    "limitations": [
+        "Privacy and ethical concerns",
+        "Battery life and technical constraints",
+        "Weather sensitivity",
+        "Regulatory complexity",
+        "Security risks and misuse potential"
+    ],
+    "threat_analysis": [
+        {
+            "threat_type": "Drone Attacks",
+            "description": "Use of drones for explosives or weaponized payloads"
+        },
+        {
+            "threat_type": "Illegal Smuggling",
+            "description": "Cross-border contraband and prison deliveries"
+        },
+        {
+            "threat_type": "Espionage",
+            "description": "Unauthorized surveillance and privacy breaches"
+        },
+        {
+            "threat_type": "Collisions",
+            "description": "Airport disruptions and airspace conflicts"
+        }
+    ],
+    "detection_technologies": [
+        "Radar-based detection",
+        "RF signal analysis",
+        "Acoustic sensing",
+        "Vision-based camera systems",
+        "Sensor fusion with AI/ML models"
+    ]
+}

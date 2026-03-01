@@ -1,0 +1,33 @@
+[
+    {
+        "usecase_id": "HLT001",
+        "sector": "Healthcare Logistics",
+        "use_case": "Medical Supply Delivery",
+        "description": "Drones transport medicines and diagnostic samples between healthcare hubs and remote clinics.",
+        "technology_used": [
+            "BVLOS Drones",
+            "eVTOL Systems",
+            "Remote Pilot Operations"
+        ],
+        "benefits": [
+            "Faster delivery",
+            "Life-saving emergency response"
+        ],
+        "impact_metrics": "214 flights delivering 199 kg payload with reduced travel time",
+        "india_relevance": "Critical for remote and hilly regions"
+    },
+    {
+        "usecase_id": "HLT002",
+        "sector": "Healthcare Logistics",
+        "use_case": "Carbon Emission Reduction",
+        "description": "Drone logistics significantly reduce CO₂ emissions compared to road transport.",
+        "technology_used": [
+            "Electric Drone Systems"
+        ],
+        "benefits": [
+            "Environmental sustainability"
+        ],
+        "impact_metrics": "Up to 99% lower emissions per payload",
+        "india_relevance": "Supports green logistics initiatives"
+    }
+]

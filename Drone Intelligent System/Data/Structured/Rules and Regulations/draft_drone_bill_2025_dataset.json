@@ -1,0 +1,47 @@
+[
+    {
+        "regulation_id": "BILL2025_001",
+        "section": "Preliminary",
+        "rule_title": "Short Title and Commencement",
+        "description": "The Act shall be called the Civil Drone (Promotion and Regulation) Bill, 2025 and will come into force on dates notified by the Central Government.",
+        "applies_to": "All drone stakeholders in India",
+        "authority": "Central Government",
+        "validity": null
+    },
+    {
+        "regulation_id": "BILL2025_002",
+        "section": "Applicability",
+        "rule_title": "Scope of Application",
+        "description": "The Act applies to citizens, foreign persons, and entities involved in manufacturing, operating, importing, exporting, or maintaining drones in India.",
+        "applies_to": "Drone owners, operators, manufacturers, exporters and importers",
+        "authority": "Central Government",
+        "validity": null
+    },
+    {
+        "regulation_id": "BILL2025_003",
+        "section": "Registration",
+        "rule_title": "Mandatory UIN Registration",
+        "description": "No unmanned aircraft system may be owned or operated unless registered and issued a Unique Identification Number.",
+        "applies_to": "Drone owners and operators",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "BILL2025_004",
+        "section": "Manufacturing and Sale",
+        "rule_title": "Type Certificate Requirement",
+        "description": "No drone may be manufactured, sold or transferred without a valid type certificate issued by DGCA unless exempted.",
+        "applies_to": "Manufacturers and sellers",
+        "authority": "DGCA",
+        "validity": null
+    },
+    {
+        "regulation_id": "BILL2025_005",
+        "section": "Insurance",
+        "rule_title": "Third Party Insurance Requirement",
+        "description": "Drone operation requires valid third‑party insurance coverage meeting government requirements.",
+        "applies_to": "Drone operators",
+        "authority": "Central Government",
+        "validity": "Active insurance period"
+    }
+]
