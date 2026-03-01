@@ -26,7 +26,7 @@ CHUNK_OVERLAP = 50
 # RETRIEVAL SETTINGS
 # =========================
 
-TOP_K_RESULTS = 4
+TOP_K_RESULTS = 8
 
 # =========================
 # LLM SETTINGS

@@ -11,12 +11,17 @@ client = Groq(
 
 def generate_answer(question, context):
 
-    prompt = f"""
-You are an AI assistant for India's Drone Intelligence System.
+   prompt = f"""
+You are an expert AI assistant for India's Drone Intelligence System.
 
-Answer ONLY using the provided context.
-If answer is not in context, say:
-"I could not find this information in the drone knowledge base."
+Use ONLY the provided context to answer the question.
+
+Instructions:
+- Give a COMPLETE and DETAILED explanation.
+- Organize answer using bullet points or sections.
+- Include regulations, requirements, permissions, and restrictions if available.
+- Do NOT give short answers.
+- If multiple rules exist, explain them clearly.
 
 Context:
 {context}
@@ -24,15 +29,13 @@ Context:
 Question:
 {question}
 
-Answer:
+Detailed Answer:
 """
-
-    response = client.chat.completions.create(
+   response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
         messages=[
             {"role": "user", "content": prompt}
         ],
         temperature=0.2
     )
-
-    return response.choices[0].message.content
+   return response.choices[0].message.content
