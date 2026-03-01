@@ -1,0 +1,27 @@
+# --- Core API ---
+fastapi
+uvicorn
+
+# --- RAG Core ---
+langchain
+langchain-community
+
+# --- Vector Database ---
+chromadb
+
+# --- Embeddings ---
+sentence-transformers
+torch
+
+# --- Environment Variables ---
+python-dotenv
+
+# --- LLM Provider (Groq) ---
+groq
+
+# --- Data Handling ---
+pydantic
+numpy
+
+# --- Utilities ---
+tqdm
