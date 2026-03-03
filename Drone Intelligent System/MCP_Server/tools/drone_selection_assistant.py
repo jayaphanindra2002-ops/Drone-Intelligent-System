@@ -39,14 +39,19 @@ def select_drones(use_case, budget_inr, min_flight_time=20):
     Recommend drones based on requirements.
     """
 
-    use_case = use_case.lower()
+    # ---- Input Safety ----
+    use_case = str(use_case).lower()
+    use_case = " ".join(use_case.split())
+
+    budget_inr = max(float(budget_inr), 0)
+    min_flight_time = max(float(min_flight_time), 0)
 
     candidates = []
 
     for drone in DRONE_DATABASE:
 
         if (
-            use_case in drone["use_cases"]
+            any(tag in use_case for tag in drone["use_cases"])
             and drone["price_inr"] <= budget_inr
             and drone["flight_time_min"] >= min_flight_time
         ):
@@ -54,10 +59,11 @@ def select_drones(use_case, budget_inr, min_flight_time=20):
 
     if not candidates:
         return {
+            "recommended_drones": [],
+            "total_matches": 0,
             "message": "No drones match requirements. Consider increasing budget or relaxing constraints."
         }
 
-    # Comparison summary
     comparison = [
         {
             "model": d["model"],

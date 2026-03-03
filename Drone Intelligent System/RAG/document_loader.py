@@ -25,34 +25,36 @@ def load_documents():
                 file_path = os.path.join(root, file)
 
                 with open(file_path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+                    try:
+                        data = json.load(f)
+                    except Exception as e:
+                        print(f"⚠️ Skipping invalid JSON: {file_path} | {e}")
+                        continue
 
-                # If JSON contains list of records
+                metadata = {
+                    "source": file,
+                    "path": file_path,
+                    "category": os.path.basename(root) or "unknown"
+                }
+
                 if isinstance(data, list):
                     for record in data:
                         documents.append(
                             Document(
                                 page_content=json.dumps(record, indent=2),
-                               metadata={
-                                    "source": file,
-                                    "path": file_path,
-                                    "category": os.path.basename(root)
-                                }
+                                metadata=metadata
                             )
                         )
-
-                # If single JSON object
                 else:
                     documents.append(
                         Document(
                             page_content=json.dumps(data, indent=2),
-                            metadata={
-                                "source": file,
-                                "path": file_path,
-                                "category": os.path.basename(root)
-                            }
+                            metadata=metadata
                         )
                     )
+
+    if not documents:
+        print("⚠️ No documents loaded for RAG.")
 
     return documents
 

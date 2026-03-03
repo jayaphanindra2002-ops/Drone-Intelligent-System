@@ -16,10 +16,14 @@ def check_compliance(drone_weight_kg, intended_use, location):
     Checks Indian drone regulation compliance.
     """
 
-    category = classify_drone(drone_weight_kg)
+    # ---- Input Safety ----
+    drone_weight_kg = float(drone_weight_kg)
+    drone_weight_kg = max(drone_weight_kg, 0)
 
-    intended_use = intended_use.lower()
-    location = location.lower()
+    intended_use = str(intended_use).lower()
+    location = str(location).lower()
+
+    category = classify_drone(drone_weight_kg)
 
     permits = []
     restrictions = []
@@ -60,6 +64,8 @@ def check_compliance(drone_weight_kg, intended_use, location):
 
     if not restrictions:
         restrictions.append("No major operational restrictions.")
+
+    permits = list(set(permits))
 
     return {
         "drone_category": category,

@@ -1,3 +1,6 @@
+import sys
+sys.path.append(".")
+
 from RAG.retriever import get_retriever
 from RAG.llm import generate_answer
 
@@ -9,9 +12,17 @@ def generate_tool_response(question, tool_result):
 
     retriever = get_retriever()
 
-    docs = retriever.invoke(question)
+    if retriever is None:
+        return "Knowledge system unavailable to explain results."
 
-    context = "\n\n".join(doc.page_content for doc in docs)
+    docs = retriever.invoke(question) or []
+
+    MAX_CONTEXT_DOCS = 5
+    context = "\n\n".join(
+        doc.page_content for doc in docs[:MAX_CONTEXT_DOCS]
+    )
+
+    tool_result = str(tool_result)
 
     prompt_question = f"""
 The system calculated the following result:

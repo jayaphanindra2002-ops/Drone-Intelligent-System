@@ -1,3 +1,6 @@
+import sys
+sys.path.append(".")
+
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from RAG.chunk import chunk_documents
 
@@ -12,7 +15,10 @@ def create_embeddings():
     )
 
     print("Loading chunks...")
-    chunks = chunk_documents()
+    chunks = chunk_documents() or []
+
+    if not chunks:
+        print("⚠️ No chunks generated. Check chunking pipeline.")
 
     print(f"Total chunks ready for embedding: {len(chunks)}")
 

@@ -1,3 +1,7 @@
+import sys
+sys.path.append(".")
+
+import os
 from langchain_community.vectorstores import Chroma
 from RAG.embeddings import create_embeddings
 
@@ -8,6 +12,12 @@ def build_vector_store():
     print("Preparing embeddings and chunks...")
 
     embeddings, chunks = create_embeddings()
+
+    if not chunks:
+        print("❌ No chunks available. Vector DB not created.")
+        return
+
+    os.makedirs(CHROMA_PATH, exist_ok=True)
 
     print("Creating vector database...")
 

@@ -8,6 +8,16 @@ def calculate_flight_time(
     Estimate drone flight time and range.
     """
 
+    # ---- Input Safety ----
+    battery_capacity_wh = float(battery_capacity_wh)
+    drone_weight_kg = float(drone_weight_kg)
+    payload_weight_kg = float(payload_weight_kg)
+    weather_condition = str(weather_condition).lower()
+
+    drone_weight_kg = max(drone_weight_kg, 0.1)
+    payload_weight_kg = max(payload_weight_kg, 0)
+    battery_capacity_wh = max(battery_capacity_wh, 10)
+
     # -----------------------------
     # Base assumptions
     # -----------------------------
@@ -26,7 +36,7 @@ def calculate_flight_time(
         "hot": 1.15,
     }
 
-    weather_penalty = weather_factors.get(weather_condition.lower(), 1.0)
+    weather_penalty = weather_factors.get(weather_condition, 1.0)
 
     # -----------------------------
     # Flight Time Calculation
@@ -54,7 +64,7 @@ def calculate_flight_time(
             "Payload is heavy; consider reducing load."
         )
 
-    if weather_condition.lower() in ["windy", "rainy"]:
+    if weather_condition in ["windy", "rainy"]:
         recommendations.append(
             "Weather may reduce stability and battery efficiency."
         )

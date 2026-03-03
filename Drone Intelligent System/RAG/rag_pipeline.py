@@ -1,20 +1,55 @@
+import sys
+sys.path.append(".")
+
 from RAG.retriever import get_retriever
 from RAG.llm import generate_answer
+
+# ------------------------------------------------
+# GLOBAL RETRIEVER CACHE
+# ------------------------------------------------
+retriever = None
+
+
+def get_cached_retriever():
+    global retriever
+
+    if retriever is None:
+        print("Loading vector database...")
+        retriever = get_retriever()
+
+    return retriever
 
 
 def ask_question(question):
 
-    retriever = get_retriever()
+    # ---------- Retrieve Documents ----------
+    retriever_instance = get_cached_retriever()
 
-    docs = retriever.invoke(question)
+    if retriever_instance is None:
+        return {
+            "answer": "Retriever is not available. Please check vector database initialization.",
+            "sources": []
+        }
+
+    docs = retriever_instance.invoke(question)
+
+    # ---------- Empty Retrieval Protection ----------
+    if not docs:
+        return {
+            "answer": "I couldn't find relevant drone information. Please try rephrasing your question.",
+            "sources": []
+        }
 
     # ---------- Build Context ----------
-    context = "\n\n".join([doc.page_content for doc in docs])
+    MAX_CONTEXT_DOCS = 5
+    context = "\n\n".join(
+        doc.page_content for doc in docs[:MAX_CONTEXT_DOCS]
+    )
 
     # ---------- Collect Citations ----------
     sources = list(
         set(
-            doc.metadata.get("source", "unknown")
+            (doc.metadata or {}).get("source", "unknown")
             for doc in docs
         )
     )
@@ -22,20 +57,8 @@ def ask_question(question):
     # ---------- Generate Answer ----------
     answer = generate_answer(question, context)
 
-    # ---------- Attach Citations ----------
-    citation_text = "\n\nSources:\n"
-    for i, src in enumerate(sources, start=1):
-        citation_text += f"{i}. {src}\n"
-
-    final_response = answer + citation_text
-
-    return final_response
-
-
-if __name__ == "__main__":
-    query = "What are drone regulations in India?"
-
-    response = ask_question(query)
-
-    print("\n🧠 AI Answer:\n")
-    print(response)
+    # ---------- Structured Response ----------
+    return {
+        "answer": answer,
+        "sources": sources
+    }
