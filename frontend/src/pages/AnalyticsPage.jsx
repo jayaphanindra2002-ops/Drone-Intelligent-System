@@ -1,12 +1,13 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { BarChart3, Activity, Cpu, Command, ArrowUpRight } from "lucide-react";
+import { API_BASE } from "../services/api";
 
 export default function AnalyticsPage() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch("/api/analytics/")
+    fetch(`${API_BASE}/analytics`)
       .then(res => res.json())
       .then(setData);
   }, []);

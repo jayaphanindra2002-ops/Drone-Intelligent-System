@@ -1,6 +1,7 @@
 import { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Upload, FileText, CheckCircle2, AlertCircle, Loader2, ShieldCheck } from "lucide-react";
+import { API_BASE } from "../services/api";
 
 export default function UploadPage() {
   const [file, setFile] = useState(null);
@@ -17,7 +18,7 @@ export default function UploadPage() {
     setStatus(null);
 
     try {
-      const res = await fetch("/api/upload/", {
+      const res = await fetch(`${API_BASE}/upload`, {
         method: "POST",
         body: formData,
       });
