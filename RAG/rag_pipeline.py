@@ -1,6 +1,7 @@
 import sys
 sys.path.append(".")
-
+import os
+from RAG.vector_store import build_vector_store
 from RAG.retriever import get_retriever
 from RAG.llm import generate_answer
 
@@ -9,6 +10,13 @@ from RAG.llm import generate_answer
 # ------------------------------------------------
 retriever = None
 
+
+
+CHROMA_PATH = "RAG/chroma_db"
+
+if not os.path.exists(CHROMA_PATH):
+    print("Vector DB not found. Rebuilding...")
+    build_vector_store()
 
 def get_cached_retriever():
     global retriever

@@ -8,6 +8,7 @@ from RAG.embeddings import create_embeddings
 CHROMA_PATH = "RAG/chroma_db"
 
 
+
 def build_vector_store():
     print("Preparing embeddings and chunks...")
 
