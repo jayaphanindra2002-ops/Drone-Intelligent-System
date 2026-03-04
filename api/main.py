@@ -1,5 +1,8 @@
 import sys
+import matplotlib
 sys.path.append(".")
+
+matplotlib.use("Agg")
 
 from fastapi import FastAPI
 from api.routes.chat import router as chat_router
