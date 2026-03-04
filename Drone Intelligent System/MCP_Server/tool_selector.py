@@ -16,7 +16,6 @@ if not API_KEY:
 
 client = Groq(api_key=API_KEY)
 
-
 def select_tool(question: str):
     """
     LLM decides whether a tool is needed.

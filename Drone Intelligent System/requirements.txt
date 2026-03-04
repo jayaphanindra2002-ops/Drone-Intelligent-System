@@ -1,27 +1,11 @@
-# --- Core API ---
 fastapi
 uvicorn
-
-# --- RAG Core ---
+chromadb
 langchain
 langchain-community
-
-# --- Vector Database ---
-chromadb
-
-# --- Embeddings ---
 sentence-transformers
-torch
-
-# --- Environment Variables ---
-python-dotenv
-
-# --- LLM Provider (Groq) ---
+pypdf
 groq
-
-# --- Data Handling ---
-pydantic
-numpy
-
-# --- Utilities ---
-tqdm
+python-dotenv
+python-multipart
+matplotlib

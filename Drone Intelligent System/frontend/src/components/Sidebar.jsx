@@ -1,44 +1,31 @@
-import { Link, useLocation } from "react-router-dom";
-import { MessageSquare, Upload, BarChart3 } from "lucide-react";
+import { Plane } from "lucide-react";
 
-export default function Sidebar() {
-
-  const location = useLocation();
-
-  const linkClass = (path) =>
-    `flex items-center gap-3 w-full p-3 rounded-lg transition ${
-      location.pathname === path
-        ? "bg-blue-600"
-        : "hover:bg-slate-800"
-    }`;
-
+export default function DroneBackground() {
   return (
-    <aside className="w-64 bg-slate-900/70 backdrop-blur-xl border-r border-slate-700 flex flex-col p-5">
-
-      <h1 className="text-xl font-semibold mb-10">
-        🚁 Drone AI
-      </h1>
-
-      <nav className="space-y-2">
-
-        <Link to="/chat" className={linkClass("/chat")}>
-          <MessageSquare size={18}/> Chat
-        </Link>
-
-        <Link to="/upload" className={linkClass("/upload")}>
-          <Upload size={18}/> Upload
-        </Link>
-
-        <Link to="/analytics" className={linkClass("/analytics")}>
-          <BarChart3 size={18}/> Analytics
-        </Link>
-
-      </nav>
-
-      <div className="mt-auto text-sm text-slate-400">
-        v1.0 Drone Intelligence
+    <div className="fixed inset-0 overflow-hidden pointer-events-none z-0">
+      
+      {/* Primary Drone - Large and slightly more visible */}
+      <div className="absolute top-[20%] left-[-10%] animate-droneFlight opacity-20 transition-opacity">
+        <Plane className="w-12 h-12 text-blue-400 rotate-90" />
+        <div className="absolute -inset-4 bg-blue-500/20 blur-2xl rounded-full" />
       </div>
 
-    </aside>
+      {/* Secondary Drone - Smaller, slower, and faded */}
+      <div 
+        className="absolute top-[50%] left-[-20%] animate-droneFlight opacity-10"
+        style={{ animationDelay: '5s', animationDuration: '35s' }}
+      >
+        <Plane className="w-8 h-8 text-indigo-300 rotate-90" />
+      </div>
+
+      {/* Tertiary Drone - Far off in the distance */}
+      <div 
+        className="absolute top-[10%] left-[-30%] animate-droneFlight opacity-5"
+        style={{ animationDelay: '12s', animationDuration: '45s' }}
+      >
+        <Plane className="w-6 h-6 text-blue-200 rotate-90" />
+      </div>
+
+    </div>
   );
 }
