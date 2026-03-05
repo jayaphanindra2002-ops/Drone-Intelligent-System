@@ -1,36 +1,59 @@
-/* Ensure the html and body take up the full viewport without overflow */
-html, 
-body, 
-#root {
-  height: 100vh;
-  width: 100vw;
-  margin: 0;
-  padding: 0;
-  overflow: hidden; /* Prevents the 'double scrollbar' glitch */
-  background-color: #020617; /* Matches slate-950 */
-  color: #f8fafc;
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Mode Variables */
+    --bg-main: #f8fafc;        /* slate-50 */
+    --text-main: #0f172a;      /* slate-900 */
+    --scrollbar-track: rgba(0, 0, 0, 0.05);
+    --scrollbar-thumb: rgba(59, 130, 246, 0.3);
+  }
+
+  .dark {
+    /* Dark Mode Variables */
+    --bg-main: #020617;        /* slate-950 */
+    --text-main: #f8fafc;      /* slate-50 */
+    --scrollbar-track: rgba(15, 23, 42, 0.1);
+    --scrollbar-thumb: rgba(59, 130, 246, 0.2);
+  }
+
+  html, 
+  body, 
+  #root {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    /* Smooth transition for the background/text swap */
+    transition: background-color 0.5s ease, color 0.5s ease;
+  }
 }
 
-/* Custom Scrollbar for a sleek 'Command Center' look */
+/* Custom Scrollbar - Now using Variables */
 ::-webkit-scrollbar {
   width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: rgba(15, 23, 42, 0.1);
+  background: var(--scrollbar-track);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(59, 130, 246, 0.2); /* Subtle blue */
+  background: var(--scrollbar-thumb);
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(59, 130, 246, 0.5); /* Glowing blue on hover */
+  background: rgba(59, 130, 246, 0.5); /* Glowing blue stays consistent */
 }
 
-/* Optional: Smooth fade-in for all page transitions */
+/* Page transitions */
 .page-transition {
   animation: fadeIn 0.5s ease-out;
 }

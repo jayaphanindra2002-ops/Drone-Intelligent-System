@@ -1,55 +1,53 @@
-import { Cpu, Bell, UserCircle, Activity } from "lucide-react"; // Optional: npm install lucide-react
+import { useState, useEffect } from "react";
+import { Cpu, Bell, UserCircle, Sun, Moon } from "lucide-react";
 
 export default function Header() {
+  const [isDark, setIsDark] = useState(true);
+
+  // Sync with HTML class and LocalStorage
+  useEffect(() => {
+    const savedTheme = localStorage.getItem("theme") || "dark";
+    const dark = savedTheme === "dark";
+    setIsDark(dark);
+    document.documentElement.classList.toggle("dark", dark);
+  }, []);
+
+  const toggleTheme = () => {
+    const newDark = !isDark;
+    setIsDark(newDark);
+    const themeStr = newDark ? "dark" : "light";
+    localStorage.setItem("theme", themeStr);
+    document.documentElement.classList.toggle("dark", newDark);
+  };
+
   return (
-    <header className="h-16 border-b border-white/10 bg-slate-900/60 backdrop-blur-xl flex items-center justify-between px-8 sticky top-0 z-50">
+    <header className="h-16 border-b border-slate-200/50 dark:border-white/10 bg-white/60 dark:bg-slate-900/60 backdrop-blur-xl flex items-center justify-between px-8 sticky top-0 z-50 transition-colors duration-300">
       
-      {/* Left Side: Title & Status */}
       <div className="flex items-center gap-4">
-        <div className="relative">
-          <Cpu className="w-6 h-6 text-blue-400" />
-          {/* Subtle glow effect behind the icon */}
-          <div className="absolute inset-0 bg-blue-500/20 blur-lg rounded-full"></div>
-        </div>
-        
+        <Cpu className="w-6 h-6 text-blue-600 dark:text-blue-400" />
         <div className="flex flex-col">
-          <h2 className="text-sm font-semibold tracking-wide uppercase text-slate-100">
+          <h2 className="text-sm font-semibold tracking-wide uppercase text-slate-800 dark:text-slate-100">
             AI Drone Assistant
           </h2>
-          <div className="flex items-center gap-1.5">
-            <span className="relative flex h-2 w-2">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-              <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-            </span>
-            <span className="text-[10px] text-slate-400 font-medium uppercase tracking-tighter">
-              System Active
-            </span>
-          </div>
+          <span className="text-[10px] text-slate-500 dark:text-slate-400 font-medium uppercase">System Active</span>
         </div>
       </div>
 
-      {/* Right Side: Actions & Profile */}
-      <div className="flex items-center gap-6">
-        {/* Notifications */}
-        <button className="relative text-slate-400 hover:text-white transition-colors">
-          <Bell className="w-5 h-5" />
-          <span className="absolute -top-1 -right-1 w-2 h-2 bg-blue-500 rounded-full border-2 border-slate-900"></span>
+      <div className="flex items-center gap-4">
+        <button 
+          onClick={toggleTheme}
+          className="p-2 rounded-lg bg-slate-100 dark:bg-slate-800/50 border border-slate-300 dark:border-white/5 hover:border-blue-500 transition-all"
+        >
+          {isDark ? <Sun className="w-4 h-4 text-amber-400" /> : <Moon className="w-4 h-4 text-blue-600" />}
         </button>
 
-        {/* User Profile */}
-        <div className="flex items-center gap-3 pl-6 border-l border-white/10">
+        <div className="flex items-center gap-3 pl-4 border-l border-slate-200 dark:border-white/10">
           <div className="text-right hidden md:block">
-            <p className="text-xs font-medium text-slate-200">Admin Control</p>
-            <p className="text-[10px] text-slate-500">Sector 7-G</p>
+            <p className="text-xs font-medium text-slate-800 dark:text-slate-200">Admin Control</p>
           </div>
-          <div className="w-9 h-9 rounded-full bg-gradient-to-tr from-blue-600 to-indigo-400 flex items-center justify-center p-[1px]">
-             <div className="w-full h-full rounded-full bg-slate-900 flex items-center justify-center">
-               <UserCircle className="w-6 h-6 text-slate-300" />
-             </div>
-          </div>
+          <UserCircle className="w-8 h-8 text-slate-400 dark:text-slate-300" />
         </div>
       </div>
-      
     </header>
   );
 }

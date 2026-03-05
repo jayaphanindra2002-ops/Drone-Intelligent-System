@@ -158,7 +158,7 @@ def handle_query(question: str):
         except Exception as e:
             print("Tool execution error:", e)
             return {
-                "answer": "⚠️ Tool execution failed. Please rephrase your request.",
+                "answer": "⚠️ Please rephrase your request.If you want better output using tools",
                 "tool_used": None,
                 "data": None,
                 "sources": []

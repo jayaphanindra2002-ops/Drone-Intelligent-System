@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: "class", // <--- ADD THIS LINE HERE
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
@@ -7,7 +8,6 @@ export default {
   theme: {
     extend: {
       animation: {
-        // Reduced the speed slightly for a smoother "premium" feel
         droneFlight: "droneFlight 25s linear infinite",
         backgroundShift: "backgroundShift 15s ease infinite",
       },

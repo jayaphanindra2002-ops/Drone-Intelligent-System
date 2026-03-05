@@ -1,4 +1,4 @@
-export const API_BASE  = "https://unverbose-dessie-glacial.ngrok-free.dev"; //need to change the route whenever we create a new backedn link using Ngrok
+export const API_BASE  = "http://127.0.0.1:8000"; //need to change the route whenever we create a new backedn link using Ngrok
 
 export async function sendMessage(message) {
   const response = await fetch(`${API_BASE}/chat`, {

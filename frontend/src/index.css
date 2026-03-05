@@ -10,20 +10,34 @@
     width: 100%;
     margin: 0;
     padding: 0;
-    overflow: hidden; /* Prevents double scrolling on the dashboard */
-    background-color: #020617; /* Slate-950 */
-    color: #f8fafc;
+    overflow: hidden;
+    /* Transition background color for a smooth theme switch */
+    transition: background-color 0.5s ease, color 0.5s ease;
     -webkit-font-smoothing: antialiased;
+  }
+
+  /* Default (Light Mode) */
+  html {
+    background-color: #f8fafc; /* Slate-50 */
+    color: #0f172a; /* Slate-900 */
+  }
+
+  /* Dark Mode Override */
+  html.dark {
+    background-color: #020617; /* Slate-950 */
+    color: #f8fafc; /* Slate-50 */
   }
 }
 
 @layer components {
-  /* High-end glassmorphism utility */
+  /* High-end glassmorphism utility aligned with theme */
   .glass-panel {
-    @apply bg-slate-900/40 backdrop-blur-xl border border-white/10 shadow-2xl;
+    @apply bg-white/70 border-slate-200 shadow-xl 
+           dark:bg-slate-900/40 dark:backdrop-blur-xl dark:border-white/10 dark:shadow-2xl 
+           transition-all duration-300;
   }
 
-  /* Custom scrollbar for the Chat and Analytics areas */
+  /* Custom scrollbar aligned with theme */
   .custom-scrollbar::-webkit-scrollbar {
     width: 5px;
   }
@@ -31,22 +45,18 @@
     @apply bg-transparent;
   }
   .custom-scrollbar::-webkit-scrollbar-thumb {
-    @apply bg-slate-700/50 rounded-full hover:bg-blue-500/40 transition-colors;
+    @apply bg-slate-300 rounded-full hover:bg-blue-500/40 
+           dark:bg-slate-700/50 dark:hover:bg-blue-500/40 transition-colors;
   }
 }
 
-/* Animated Background Logic 
-   Using 'ease-in-out' makes the turnaround at 50% feel more fluid 
-*/
+/* Keep your animations as they are */
 @keyframes backgroundShift {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
 
-/* Secondary 'Scanning' Animation 
-   Used for the Upload Page and HUD elements
-*/
 @keyframes scanline {
   0% { transform: translateY(-100%); }
   100% { transform: translateY(100%); }
