@@ -65,6 +65,7 @@ Installation setup
 For Installing Dependencies
 ----pip install -r requirements.txt
 -----if any error occurs like modulenotfound then need to install that corresponding module too separately
+----- Ignore if there is any pylance or pydantic not resolved error for libraries it works even if it shows warning
 
 
 ##Open terminal and start the backend
