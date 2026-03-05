@@ -2,7 +2,7 @@ import os
 import json
 from langchain_core.documents import Document
 
-# RAG data sources
+
 DATA_PATHS = [
     "Data/Structured",
     "Data/Synthetic"

@@ -24,7 +24,7 @@ def select_tool(question: str):
 
     tools = get_available_tools()
 
-    # Convert registry into readable list
+    
     tool_descriptions = "\n".join(
         f"- {name}: {tool['description']}"
         for name, tool in tools.items()
